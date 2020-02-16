@@ -8,10 +8,23 @@
     <dc:publisher>Pipfrosch Press</dc:publisher>
     <dc:date>2020-03-29</dc:date>
     <dc:creator id="author0">Michael A. Peters</dc:creator>
+    <!-- image contributors -->
+    <dc:contributor id="contributor0">Christiane (Oldiefan)</dc:contributor>
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
+    <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
+    <meta property="role" refines="#author0" scheme="marc:relators">prg</meta>
+    <meta property="role" refines="#contributor0" scheme="marc:relators">pht</meta>
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-c105-742e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
     <meta property="dcterms:modified">2020-02-16T20:13:21Z</meta>
+    <!-- a11y metadata -->
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="accessModeSufficient">textual,visual</meta>
+    <meta property="accessModeSufficient">textual</meta>
+    <meta property="accessibilityFeature">alternativeText</meta>
+    <meta property="accessibilityHazard">none</meta>
+    <meta property="accessibilitySummary">This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.</meta>
   </metadata>
   <manifest>
     <!-- bird species profile cover images -->
