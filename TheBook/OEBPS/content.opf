@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package unique-identifier="prng-uuid" version="3.0" xml:lang="en-US" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Contra Costa County - A Field Guide for the Living</dc:title>
+    <dc:description>A field guide for all living organsisms within Contra Costa County, California.</dc:description>
+    <dc:type>Nature</dc:type>
+    <dc:language>en-US</dc:language>
+    <dc:publisher>Pipfrosch Press</dc:publisher>
+    <dc:date>2020-03-29</dc:date>
+    <dc:creator id="author0">Michael A. Peters</dc:creator>
+    <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
+    <dc:identifier id="prng-uuid">c0957b2a-f6e8-c105-742e-2ab89264e978</dc:identifier>
+    <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
+    <meta property="dcterms:modified">2020-02-16T20:13:21Z</meta>
+  </metadata>
+  <manifest>
+    <!-- bird species profile cover images -->
+    <item href="images/birds/Cover-Eurasian_Collared-Dove.jpg" id="images:birds:Cover-Eurasian_Collared-Dove.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Eurasian_Collared-Dove.xml" id="images:birds:Cover-Eurasian_Collared-Dove.xml" media-type="text/xml"/>
+    <item href="images/birds/Cover-Great_Blue_Heron.jpg" id="images:birds:Cover-Great_Blue_Heron.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images:birds:Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
+    <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images:birds:Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images:birds:Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
+    <item href="images/birds/Cover-Yellow-rumped_Warbler.jpg" id="images:birds:Cover-Yellow-rumped_Warbler.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Yellow-rumped_Warbler.xml" id="images:birds:Cover-Yellow-rumped_Warbler.jpg" media-type="text/xml"/>
+    <!-- insect species profile cover images -->
+    <item href="images/insects/Cover-California_Harvester_Ant.jpg" id="images:insects:Cover-California_Harvester_Ant.jpg" media-type="image/jpeg"/>
+    <item href="images/insects/Cover-California_Harvester_Ant.xml" id="images:insects:Cover-California_Harvester_Ant.xml" media-type="text/xml"/>
+    <!-- mammal species profile cover images -->
+    <item href="images/mammals/Cover-California_Harvester_Ant.jpg" id="images:mammals:Cover-California_Harvester_Ant.jpg" media-type="image/jpeg"/>
+    <item href="images/mammals/Cover-California_Harvester_Ant.xml" id="images:mammals:Cover-California_Harvester_Ant.xml" media-type="text/xml"/>
+    <!-- reptile species profile cover images -->
+    <item href="images/reptiles/Cover-Western_Pond_Turtle.jpg" id="images:reptiles:Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>
+    <item href="images/reptiles/Cover-Western_Pond_Turtle.xml" id="images:reptiles:Cover-Western_Pond_Turtle.xml" media-type="text/xml"/>
+  </manifest>
+  <spine>
+  </spine>
+</package>
