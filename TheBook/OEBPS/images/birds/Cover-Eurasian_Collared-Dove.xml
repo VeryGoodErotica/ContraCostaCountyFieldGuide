@@ -17,7 +17,7 @@
     <image>
         <mime>image/jpeg</mime>
         <resolution>1024x1024</resolution>
-        <sha256>5f53fd9b6966fb7013c75615302f320f962a5664685e412db999586b74f1dcea</sha256>
+        <checksum algo="sha256">5f53fd9b6966fb7013c75615302f320f962a5664685e412db999586b74f1dcea</checksum>
         <alt>An adult Eurasian Collared-Dove perched on a branch.</alt>
         <description>An adult Eurasian Collard-Dove is perched on a branch showing off its breast and part of its right profile. The black partial collar that easily distinguishes this bird from Mourning Doves is clearly visible.</description>
     </image>

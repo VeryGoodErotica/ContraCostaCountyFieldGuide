@@ -17,7 +17,7 @@
     <image>
         <mime>image/jpeg</mime>
         <resolution>1024x1024</resolution>
-        <sha256>3af6cf5d1c5db542822487c529909fc72c60ce398c518bba531120413781cf84</sha256>
+        <checksum algo="sha256">3af6cf5d1c5db542822487c529909fc72c60ce398c518bba531120413781cf84</checksum>
         <alt>Side profile of an adult California Ground Squirrel.</alt>
         <description>The left side of an adult California Ground Squirrel crouched on all fours on mostly barren ground with a small mound blocking the view of the squirrel’s feet.</description>
     </image>

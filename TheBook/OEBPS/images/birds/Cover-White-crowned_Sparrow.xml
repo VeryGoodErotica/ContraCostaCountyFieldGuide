@@ -17,7 +17,7 @@
     <image>
         <mime>image/jpeg</mime>
         <resolution>1024x1024</resolution>
-        <sha256>cd198e2def4260310fc83e295818ab1d9341d716beca5492d96d37511dcfdfa1</sha256>
+        <checksum algo="sha256">cd198e2def4260310fc83e295818ab1d9341d716beca5492d96d37511dcfdfa1</checksum>
         <alt>An adult and immature White-crowned Sparrow perched in a thicket.</alt>
         <description>Two White-crowned Sparrows, an immature adult and an adult, perched within a dry shrub that has not yet grown spring leaves. The yellow beaks characteristic of this bird in Contra Costa County is easily discernible. The tan head streaks of the juvenile is well contrasted with the black head streaks of the adult.</description>
     </image>

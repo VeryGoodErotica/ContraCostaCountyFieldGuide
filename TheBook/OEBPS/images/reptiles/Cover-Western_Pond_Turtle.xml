@@ -18,7 +18,7 @@
     <image>
         <mime>image/jpeg</mime>
         <resolution>1024x1024</resolution>
-        <sha256>d1c19647380be7e599d03b74da4b87015ae7c2071a87995ef59dd34e0fa2d793</sha256>
+        <checksum algo="sha256">d1c19647380be7e599d03b74da4b87015ae7c2071a87995ef59dd34e0fa2d793</checksum>
         <alt>Profile view of an adult Western Pond Turtle</alt>
         <description>An adult Western Pond Turtle is basking on rock at the edge of a creek, with a reflection of the turtle in the water and the creek bank with green vegetation behind it. The right side of the turtle is shown, with its two right feet barely in the water. The neck of the turtle is stretched to hold the head up above the level of the carapace.</description>
     </image>
