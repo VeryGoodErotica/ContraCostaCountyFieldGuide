@@ -37,7 +37,7 @@ def main():
     origname, extension = os.path.splitext(sys.argv[1])
     myFilename = myUUID + extension
     if os.path.exists(myFilename):
-        print("The file " + myFilename + "already exist. Doing nothing.")
+        print("The file " + myFilename + " already exist. Doing nothing.")
         sys.exit(1)
     copyfile(sys.argv[1], myFilename)
     print("The file " + myFilename + " has been created.")
