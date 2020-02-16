@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph">
+    <original>a4b21881-cab5-dd0f-d0ac-d9dabbbcfc11.CR2</original>
+    <photographer>
+      <name>Michael A. Peters</name>
+      <license>CC BY-NC 4.0</license>
+      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    </photographer>
+    <taxons>
+        <taxon>
+            <common>California Harvester Ant</common>
+            <latin>Pogonomyrmex californicus</latin>
+            <inaturalist>38692815</inaturalist>
+            <county>Contra Costa County, California</county>
+        </taxon>
+    </taxons>
+    <image>
+        <alt>A group of California Harvester Ants</alt>
+        <description>A top down close-up view of several harvester ants on sandy soil showing the antennae, red squarish heads with black eyes at the sides, thin red thorax, and thicker acorn-shaped red abdomen with black tip and abdomen hairs visible on some individuals.</description>
+    </image>
+    <camera>
+        <brand>Canon</brand>
+        <model>Canon EOS 7D</model>
+        <lens>Sigma 50mm f/2.8 DG Macro</lens>
+        <focallength>50.0 mm</focallength>
+        <cameramount>handheld</cameramount>
+        <shutterspeed>1/2000</shutterspeed>
+        <aperture>4.00 EV (f/4.0)</aperture>
+        <iso>400</iso>
+        <flash>null</flash>
+        <timestamp>2020:02:15 14:17:37 PST</timestamp>
+    </camera>
+</Resource>
