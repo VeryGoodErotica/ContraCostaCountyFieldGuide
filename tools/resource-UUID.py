@@ -27,7 +27,7 @@ def getResourceUUID(input):
             buf = myresource.read(BS)
     mdhasher.update(hasher.digest())
     myhash = mdhasher.hexdigest()
-    return(myhash[0:8] + "-" + myhash[8:12] + "-" + myhash[12:16] + "-" + myhash[16:20] + "-" + myhash[20:32])
+    return(myhash[0:8] + "-" + myhash[8:12] + "-4" + myhash[13:16] + "-" + myhash[16:20] + "-" + myhash[20:32])
 
 def showUsage():
     print ("Usage: " + sys.argv[0] + " path/to/resource.ext")
