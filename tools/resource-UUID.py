@@ -5,14 +5,37 @@ import hashlib
 import pathlib
 from shutil import copyfile
 
-# This does NOT generate a standard UUID. Specifically, the UUID version and UUID variant are
-#  meaningless as this just produces a 128-bit number with the dashes in the same place as UUID.
+# This script generates a UUID that validates as a Type 4 (random) UUID although the UUID that
+#  is generates is actually not random.
 #
-# A SHA-384 hash is taken of the resource. From that SHA-384 hash, a md5sum hash is taken, and
-#  the hex digest of the md5sum is used as the output.
+# The first hex digit of the third field of a UUID specifies the version of UUID being used. For
+#  a Type 4 UUID that will be the digit 4.
 #
-# Before initial publication, I *may* (read probably) update this script to generate an actual
-#  valid UUID for the filename, as well as a skeleton metadata XML file.
+# The first hex digit of the fourth field of a UUID specifies the variant. With a Type 4 UUID
+#  this typically is 8, 9, a, or b to indicate a variant 1 UUID however the values c, d, and e
+#  are legal though they imply a variant 2 UUID.
+#
+# This script uses an 8 for the first hex digit of the fourth field but not to indicate a variant
+#  but rather to indicate the generation method used was a SHA-384 checksum of the data file
+#  followed by an MD5 checksum of the SHA-384.
+#
+# A hex digest of the MD5 checksum is then used as the UUID, replacing the 13th digit with a 4
+#  and the 17th digit with an 8. And of course breaking the hex digest up into UUID like fields.
+#
+# If and when SHA-384 is suspected of being broken, a new hash algorithm can be used replacing
+#  but using a 9 instead of an 8, and so on until e is used. I will probably be dead by then
+#  so I will not care about what to do to generate a non-random UUID that looks like a Tyoe 4
+#  random UUID but serves a validation purpose.
+#
+# The script copies the source file to a new file using the UUID plus the file extension of the
+#  original file as the file name. This allows the integrity of the copied file to easily be
+#  verified as the filename itself is generated in a repeatable method from the file data.
+#
+# Any change to the file data will result in a different UUID being generated from the file
+#  data.
+#
+# TODO: properly validate the file was copied correctly and warn if a copying error was
+#  detected.
 
 # takes md5sum of sha384sum and formats it for UUID
 def getResourceUUID(input):
