@@ -10,6 +10,9 @@ from shutil import copyfile
 #
 # A SHA-384 hash is taken of the resource. From that SHA-384 hash, a md5sum hash is taken, and
 #  the hex digest of the md5sum is used as the output.
+#
+# Before initial publication, I *may* (read probably) update this script to generate an actual
+#  valid UUID for the filename, as well as a skeleton metadata XML file.
 
 # takes md5sum of sha384sum and formats it for UUID
 def getResourceUUID(input):
