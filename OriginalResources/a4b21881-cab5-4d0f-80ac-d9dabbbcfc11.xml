@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph">
     <original>a4b21881-cab5-4d0f-80ac-d9dabbbcfc11.CR2</original>
-    <photographer>
+    <creator type="photographer">
       <name>Michael A. Peters</name>
       <license>CC BY-NC 4.0</license>
       <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </photographer>
+    </creator>
     <taxons>
         <taxon>
             <common>California Harvester Ant</common>

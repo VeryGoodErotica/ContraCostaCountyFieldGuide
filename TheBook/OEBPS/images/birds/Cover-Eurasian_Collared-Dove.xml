@@ -2,12 +2,16 @@
 <Resource type="photograph">
     <original>55ae8234-4f7d-4098-8b89-8e100c65508d.jpg</original>
     <flaws>Photo is not from Contra Costa County</flaws>
-    <photographer>
+    <creator type="photographer">
       <name>Christiane (Oldiefan)</name>
       <source>https://pixabay.com/photos/animal-bird-dove-collared-4778532/</source>
       <license>Pixabay</license>
       <licenseurl>https://pixabay.com/service/license/</licenseurl>
-    </photographer>
+    </creator>
+    <modifier>
+      <name>Michael A. Peters</name>
+      <modification>Crop and scale to 1024x square</modification>
+    </modifier>
     <taxons>
         <taxon>
             <common>Eurasian Collared-Dove</common>

@@ -2,11 +2,11 @@
 <Resource type="photograph">
     <original>748a4566-161f-4577-8a73-ef5401482601.CR2</original>
     <flaws>The location of the sun results in part of the bird in shadow.</flaws>
-    <photographer>
+    <creator type="photographer">
       <name>Michael A. Peters</name>
       <license>CC BY-NC 4.0</license>
       <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </photographer>
+    </creator>
     <taxons>
         <taxon>
             <common>Great Blue Heron</common>

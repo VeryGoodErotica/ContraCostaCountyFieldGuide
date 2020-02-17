@@ -2,11 +2,11 @@
 <Resource type="photograph">
     <original>dec9b5f4-b140-4d90-8c64-ed887fc47813.CR2</original>
     <flaws>The turtle is over-exposed</flaws>
-    <photographer>
+    <creator type="photographer">
       <name>Michael A. Peters</name>
       <license>CC BY-NC 4.0</license>
       <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </photographer>
+    </creator>
     <taxons>
         <taxon>
             <common>Western Pond Turtle</common>
