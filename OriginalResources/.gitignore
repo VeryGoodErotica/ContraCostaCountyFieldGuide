@@ -2,3 +2,10 @@
 
 # Canon raw files
 *.CR2
+# Lossless audio files
+*.wav
+*.WAV
+*.flac
+*.FLAC
+*.alac
+*.ALAC
