@@ -240,4 +240,39 @@ Each Original Resource __MUST__ have an accompanying XML file with information
 about the original file. The specification for this file is still being thought
 out.
 
-It needs to include the filename (UUID plus extension)
+The root node of this XML file is the `<Resource type="">` node. The `type`
+attribute can have a value of:
+
+* `photograph`
+* `illustration`
+* `animation`
+* `audio`
+* `video`
+
+The first child node will be an `<original>` node which points to the name of
+the file the file being described was created from. In the event the file was
+not created from another file, then it will be the file name of the file being
+described.
+
+For example, the file `dec9b5f4-b140-4d90-8c64-ed887fc47813.CR2` was created
+by the act of snapping a shutter on a DSLR. Since there is not an upstream file
+it was created from, the `dec9b5f4-b140-4d90-8c64-ed887fc47813.xml` file would
+have `dec9b5f4-b140-4d90-8c64-ed887fc47813.CR2` as the text child of the
+`<original>` node.
+
+However if Adobe Photoshop was used to clean up the photo, the photoshop user
+may want to archive the photoshop `.psd` file. That file would have a different
+filename, but would also have `dec9b5f4-b140-4d90-8c64-ed887fc47813.CR2` as the
+text child of the `<original>` node.
+
+In cases like a Photoshop file (or in the final result used withing the ePub)
+a `<checksum algo="">` node __MUST__ exist directly after the `<original>`
+node. Like the `<original>` node, it contains a single text string, but the
+string is not a UUID. Rather, it is a checksum of the file, using the algorithm
+described in the `algo` attribute. At this time the following algorithms are
+allowed:
+
+* `sha256`
+* `sha384`
+
+More may be added in the future.
