@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Resource type="photograph">
+<Resource type="photograph" xml:lang="en-US">
     <original>dec9b5f4-b140-4d90-8c64-ed887fc47813.CR2</original>
     <checksum algo="sha256">d1c19647380be7e599d03b74da4b87015ae7c2071a87995ef59dd34e0fa2d793</checksum>
     <flaws>The turtle is over-exposed</flaws>

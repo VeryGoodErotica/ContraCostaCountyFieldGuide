@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Resource type="photograph">
+<Resource type="photograph" xml:lang="en-US">
     <original>6d964715-065e-4516-8b87-c6f49acc2317.CR2</original>
     <checksum algo="sha256">3af6cf5d1c5db542822487c529909fc72c60ce398c518bba531120413781cf84</checksum>
     <creator type="photographer">
