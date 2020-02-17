@@ -27,7 +27,10 @@ def getResourceUUID(input):
             buf = myresource.read(BS)
     mdhasher.update(hasher.digest())
     myhash = mdhasher.hexdigest()
-    return(myhash[0:8] + "-" + myhash[8:12] + "-4" + myhash[13:16] + "-" + myhash[16:20] + "-" + myhash[20:32])
+    # 4 in third indicates random UUID even though this isn't one,
+    # 8 in fourth indicates SHA-384 was used for the hash of the file.
+    # Thus a UUID is produced that would "validate" as a random UUID even though it isn't actually random.
+    return(myhash[0:8] + "-" + myhash[8:12] + "-4" + myhash[13:16] + "-8" + myhash[17:20] + "-" + myhash[20:32])
 
 def showUsage():
     print ("Usage: " + sys.argv[0] + " path/to/resource.ext")
