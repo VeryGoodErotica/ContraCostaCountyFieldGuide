@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph">
     <original>6d964715-065e-4516-8b87-c6f49acc2317.CR2</original>
+    <checksum algo="sha256">3af6cf5d1c5db542822487c529909fc72c60ce398c518bba531120413781cf84</checksum>
     <creator type="photographer">
       <name>Michael A. Peters</name>
       <license>CC BY-NC 4.0</license>
@@ -16,8 +17,7 @@
     </taxons>
     <image>
         <mime>image/jpeg</mime>
-        <resolution>1024x1024</resolution>
-        <checksum algo="sha256">3af6cf5d1c5db542822487c529909fc72c60ce398c518bba531120413781cf84</checksum>
+        <resolution>1024x1024</resolution>        
         <alt>Side profile of an adult California Ground Squirrel.</alt>
         <description>The left side of an adult California Ground Squirrel crouched on all fours on mostly barren ground with a small mound blocking the view of the squirrel’s feet.</description>
     </image>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph">
     <original>c6eb2698-a565-430d-8254-bd7bfddecc92.CR2</original>
+    <checksum algo="sha256">148bae81f14d14d5bb90ba8cf7a9107f5e1506c6aa4444549c6235a30a9fd2bc</checksum>
     <creator type="photographer">
       <name>Michael A. Peters</name>
       <license>CC BY-NC 4.0</license>
@@ -17,7 +18,6 @@
     <image>
         <mime>image/jpeg</mime>
         <resolution>1024x1024</resolution>
-        <checksum algo="sha256">148bae81f14d14d5bb90ba8cf7a9107f5e1506c6aa4444549c6235a30a9fd2bc</checksum>
         <alt>Yellow-rumped Warbler perched on a branch</alt>
         <description>An adult Yellow-rumped Warbler is perched on a bare fruit tree branch, showing the bird’s left side. The yellow rump that gives the species its name is visible, as well as a small patch of yellow on the throat below the beak.</description>
     </image>

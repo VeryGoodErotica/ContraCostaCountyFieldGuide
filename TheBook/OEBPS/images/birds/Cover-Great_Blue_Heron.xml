@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph">
     <original>748a4566-161f-4577-8a73-ef5401482601.CR2</original>
+    <checksum algo="sha256">046c948886655daae2d56c449b18e22066900299931f22bbe8dd0e9d1b8a910b</checksum>
     <flaws>The location of the sun results in part of the bird in shadow.</flaws>
     <creator type="photographer">
       <name>Michael A. Peters</name>
@@ -18,7 +19,6 @@
     <image>
         <mime>image/jpeg</mime>
         <resolution>1024x1024</resolution>
-        <checksum algo="sha256">046c948886655daae2d56c449b18e22066900299931f22bbe8dd0e9d1b8a910b</checksum>
         <alt>Profile view of a Great Blue Heron</alt>
         <description>An adult Great Blue Heron is standing in green grass with the Heron’s left side towards the camera.</description>
     </image>
