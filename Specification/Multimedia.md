@@ -44,10 +44,39 @@ Library.
 If you are a multimedia content creator creating content specifically for this
 project, the recommended license is [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/)
 but of course you should feel free to use one of the other licenses if that is
-your choice. Note that Public Domain is not actually license, you would have to
-have a time machine to create content that is Public Domain, Use CC0 for the
+your choice. Note that Public Domain is not actually a license, you would have
+to have a time machine to create content that is Public Domain, Use CC0 for the
 most Public Domain like license if that is your goal and you do not have a time
 machine at your disposal.
+
+
+Wildlife Subjects
+-----------------
+
+With many species there can be subtle or even significant phenotype differences
+between one region and another. For photographs and video, it is therefore
+highly preferable to use actual wildlife from within Contra Costa County.
+
+Using subjects from outside the county is okay if suitable photographs of wild
+specimens within the county are not available at the time when writing a page
+that benefits from a photograph or video.
+
+In addition to natural selection playing a role in phenotype expression, some
+animals have culture— learned behaviors rather than instinctual behaviors. This
+may include auditory behavior.
+
+When recording an audio or a video of a behavior, it is therefore preferable to
+use actual wildlife within Contra Costa County.
+
+### iNaturalist Record
+
+Especially for wildlife sources within Contra Costa County, a wildlife subject
+of a media source if at all possible should have a documented record within the
+[iNaturalist](https://www.inaturalist.org/) Citizen Science database.
+
+With a record within that database, proper identification of the speciment is
+subject to peer review allowing mistaken identifications to be detected and
+corrected.
 
 
 Vector Illustrations
@@ -63,6 +92,9 @@ with an SVG node embedded in the book content page.
 
 The Intel ClearSans font should be used for sans-serif content.
 Appropriate fonts for Serif and Monospace content has not yet been decided.
+
+I am generally opposed to the use of Serif fonts, they increase the odds of
+triggering reading issues such as with (but no exclusive to) dyslexia.
 
 
 Bitmap Still Images
@@ -169,4 +201,43 @@ To be written (720p blah blah)
 The `OriginalResources` Directory
 ---------------------------------
 
-To be written
+The purpose the `OriginalResources` directory is to allow future media editors
+to have access to the original source if they feel an alteration would improve
+the quality of the resource as used in the ePub book.
+
+For example, a media editor who is very skilled with Adobe Photoshop may know
+how to make an image look better than I do. With access to the original `.CR2`
+file from my camera, they may be able to do a much better job than if they had
+to start with the cropped and resolution reduced `.jpg` file.
+
+A secondary purpose is to allow for better lossy compression (e.g. WebP for
+images and Ogg Opus for audio) as it becomes available to reduce the size of
+the distributed ePub.
+
+Many original source files are way too large to host within a git repository.
+A solution for hosting them has not yet been looked for, preferably a host with
+both the ability to fetch an individual file as needed or to use `rsync` or
+a related tool to grab them all.
+
+For the purpose of avoiding name collisions and for allowing validating the
+integrity of an original source file, they are named with a UUID created by
+first taking the SHA-356 hash of the file, and then a MD5SUM of that hash.
+
+Even though it is paranoia, the double hash is used to avoid the vulnerabilities
+of MD5SUM to intentional collisions. If and when a collision vulnerability is
+found in SHA-356 that algorithm can be swapped for another with a renaming of
+all the existing resources to match.
+
+The python script `resource-UUID.py` in the `tools/` directory will create a
+UUID from an original source file and copy the source file to the new name.
+You should do a checksum of both the originally named file and the copied file
+with a new name just to make sure there has not been an error in copying. I
+will build that into the script in the future.
+
+### Metadata XML File
+
+Each Original Resource __MUST__ have an accompanying XML file with information
+about the original file. The specification for this file is still being thought
+out.
+
+It needs to include the filename (UUID plus extension)
