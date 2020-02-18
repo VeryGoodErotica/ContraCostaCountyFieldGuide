@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# not finished - needs to verify resources without a checksum
+#  against the filename
+#
+
+if [ ! -f resources.sha256 ]; then
+  echo "Please run me from within the OriginalResources directory."
+  exit 1
+fi
+
 find . -print |grep "~$" |while read file; do
   rm -f $file
 done
