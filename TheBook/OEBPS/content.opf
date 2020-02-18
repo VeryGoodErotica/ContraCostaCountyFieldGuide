@@ -27,6 +27,7 @@
     <meta property="accessibilitySummary">This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.</meta>
   </metadata>
   <manifest>
+    <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
     <!-- bird species profile cover images -->
     <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images:birds:Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images:birds:Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
@@ -55,7 +56,14 @@
     <item href="images/reptiles/Cover-Red-eared_Slider.xml" id="images:reptiles:Cover-Red-eared_Slider.xml" media-type="text/xml"/>
     <item href="images/reptiles/Cover-Western_Pond_Turtle.jpg" id="images:reptiles:Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>
     <item href="images/reptiles/Cover-Western_Pond_Turtle.xml" id="images:reptiles:Cover-Western_Pond_Turtle.xml" media-type="text/xml"/>
+    <!-- appendix -->
+    <!-- license texts -->
+    <item href="licenses/CC_BY-SA_4_0.xhtml" id="apx:licenses:ccbysa4.0" media-type="application/xhtml+xml"/>
+    <item href="licenses/CC0_1_0.xhtml" id="apx:licenses:cc01.0" media-type="application/xhtml"/>
   </manifest>
   <spine>
+    <!-- appendix -->
+    <itemref idref="apx:licenses:ccbysa4.0"/>
+    <itemref idref="apx:licenses:cc01.0"/>
   </spine>
 </package>
