@@ -27,6 +27,7 @@
     <meta property="accessibilitySummary">This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.</meta>
   </metadata>
   <manifest>
+    <item href="TemporaryCover.jpg" id="CoverImage" media-type="image/jpeg" properties="cover-image"/>
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
     <!-- bird species profile cover images -->
     <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images:birds:Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
