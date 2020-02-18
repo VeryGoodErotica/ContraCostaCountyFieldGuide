@@ -60,11 +60,15 @@
     <!-- appendix -->
     <!-- license texts -->
     <item href="licenses/CC_BY-SA_4_0.xhtml" id="apx:licenses:ccbysa4.0" media-type="application/xhtml+xml"/>
+    <item href="licenses/CC_BY_4_0.xhtml" id="apx:licenses:ccby4.0" media-type="application/xhtml+xml"/>
     <item href="licenses/CC0_1_0.xhtml" id="apx:licenses:cc01.0" media-type="application/xhtml"/>
+    <item href="licenses/Pixabay_20200218.xhtml" id="apx:licenses:pixabay" media-type="application/xhtml"/>
   </manifest>
   <spine>
     <!-- appendix -->
     <itemref idref="apx:licenses:ccbysa4.0"/>
+    <itemref idref="apx:licenses:ccby4.0"/>
     <itemref idref="apx:licenses:cc01.0"/>
+    <itemref idref="apx:licenses:pixabay"/>
   </spine>
 </package>
