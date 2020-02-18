@@ -2,6 +2,13 @@
 
 # Canon raw files
 *.CR2
+*.cr2
+# Photoshop files
+*.PSD
+*.psd
+# GIMP files
+*.XCF
+*.xcf
 # Lossless audio files
 *.wav
 *.WAV
