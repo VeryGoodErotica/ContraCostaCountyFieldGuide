@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+    <original>df6f4bf8-69df-4ff2-8cbd-8c79419e3448.CR2</original>
+    <creator type="photographer">
+      <name>Michael A. Peters</name>
+      <license>CC BY-NC 4.0</license>
+      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    </creator>
+    <taxons>
+        <taxon>
+            <common>Anna’s Hummingbird</common>
+            <latin>Calypte anna</latin>
+            <inaturalist>38784476</inaturalist>
+            <county>Contra Costa County, California</county>
+        </taxon>
+    </taxons>
+    <image>
+        <alt>Profile view of an Anna’s Hummingbird</alt>
+        <description>A profile view of the left side of an Anna’s Hummingbird perched on a wire fence with the wings closed over the back.</description>
+    </image>
+    <camera>
+        <brand>Canon</brand>
+        <model>Canon EOS 7D</model>
+        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+        <focallength>300.0 mm</focallength>
+        <cameramount>handheld</cameramount>
+        <shutterspeed>1/1250</shutterspeed>
+        <aperture>6.00 EV (f/8.0)</aperture>
+        <iso>400</iso>
+        <flash>null</flash>
+        <timestamp>2020-02-17T15:25:50-08:00</timestamp>
+    </camera>
+</Resource>

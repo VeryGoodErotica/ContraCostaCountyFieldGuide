@@ -28,10 +28,18 @@
   </metadata>
   <manifest>
     <!-- bird species profile cover images -->
+    <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images:birds:Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images:birds:Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
+    <item href="images/birds/Cover-Double-crested_Cormorant.jpg" id="images:birds:Cover-Double-crested_Cormorant.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Double-crested_Cormorant.xml" id="images:birds:Cover-Double-crested_Cormorant.xml" media-type="text/xml"/>
+    <item href="images/birds/Cover-Snowy_Egret.jpg" id="images:birds:Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Snowy_Egret.xml" id="images:birds:Cover-Snowy_Egret.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Eurasian_Collared-Dove.jpg" id="images:birds:Cover-Eurasian_Collared-Dove.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Eurasian_Collared-Dove.xml" id="images:birds:Cover-Eurasian_Collared-Dove.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Great_Blue_Heron.jpg" id="images:birds:Cover-Great_Blue_Heron.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images:birds:Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
+    <item href="images/birds/Cover-Snowy_Egret.jpg" id="images:birds:Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Snowy_Egret.xml" id="images:birds:Cover-Snowy_Egret.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images:birds:Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images:birds:Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Yellow-rumped_Warbler.jpg" id="images:birds:Cover-Yellow-rumped_Warbler.jpg" media-type="image/jpeg"/>
