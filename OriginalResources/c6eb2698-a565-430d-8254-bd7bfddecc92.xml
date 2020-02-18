@@ -28,6 +28,6 @@
         <aperture>6.62 EV (f/9.9)</aperture>
         <iso>400</iso>
         <flash>null</flash>
-        <timestamp>2020:02:15 15:16:32 PST</timestamp>
+        <timestamp>2020-02-15T15:16:32-08:00</timestamp>
     </camera>
 </Resource>

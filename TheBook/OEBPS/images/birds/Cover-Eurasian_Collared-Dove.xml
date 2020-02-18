@@ -32,6 +32,6 @@
         <shutterspeed>1/400</shutterspeed>
         <aperture>f/4.0</aperture>
         <iso>160</iso>
-        <timestamp>2018:06:08</timestamp>
+        <timestamp>2018-06-08</timestamp>
     </camera>
 </Resource>
