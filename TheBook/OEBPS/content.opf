@@ -20,11 +20,11 @@
     <!-- a11y metadata -->
     <meta property="schema:accessMode">textual</meta>
     <meta property="schema:accessMode">visual</meta>
-    <meta property="accessModeSufficient">textual,visual</meta>
-    <meta property="accessModeSufficient">textual</meta>
-    <meta property="accessibilityFeature">alternativeText</meta>
-    <meta property="accessibilityHazard">none</meta>
-    <meta property="accessibilitySummary">This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilitySummary">This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.</meta>
   </metadata>
   <manifest>
     <item href="TemporaryCover.jpg" id="CoverImage" media-type="image/jpeg" properties="cover-image"/>
@@ -59,8 +59,8 @@
     <!-- license texts -->
     <item href="licenses/CC_BY-SA_4_0.xhtml" id="apx__licenses__ccbysa4.0" media-type="application/xhtml+xml"/>
     <item href="licenses/CC_BY_4_0.xhtml" id="apx__licenses__ccby4.0" media-type="application/xhtml+xml"/>
-    <item href="licenses/CC0_1_0.xhtml" id="apx__licenses__cc01.0" media-type="application/xhtml"/>
-    <item href="licenses/Pixabay_20200218.xhtml" id="apx__licenses__pixabay" media-type="application/xhtml"/>
+    <item href="licenses/CC0_1_0.xhtml" id="apx__licenses__cc01.0" media-type="application/xhtml+xml"/>
+    <item href="licenses/Pixabay_20200218.xhtml" id="apx__licenses__pixabay" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <!-- appendix -->
