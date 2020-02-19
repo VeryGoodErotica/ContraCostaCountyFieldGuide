@@ -36,6 +36,7 @@
     <!-- herps -->
     <!-- turtles -->
     <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
+    <item href="SpeciesProfiles/Herps/Red-eared_Slider.xhtml" id="taxon__herps__res" media-type="application/xhtml+xml"/>
     <!-- end turtles -->
     <!-- end herps -->
     <!-- end of non-appendix spine content -->
@@ -74,6 +75,7 @@
   </manifest>
   <spine>
     <itemref idref="taxon__herps__wpt"/>
+    <itemref idref="taxon__herps__res"/>
     <!-- appendix -->
     <itemref idref="apx__licenses__ccbysa4.0"/>
     <itemref idref="apx__licenses__ccby4.0"/>
