@@ -14,18 +14,18 @@ cd ..
 
 echo -n application/epub+zip >mimetype
 
-zip -r -X yourBook.zip mimetype META-INF OEBPS
-mv yourBook.zip yourBook.epub
+zip -r -X Book.zip mimetype META-INF OEBPS
+mv Book.zip ContraCostaCountyFieldGuide.epub
 
 
-sh ../tools/epubcheck.sh yourBook.epub
+sh ../tools/epubcheck.sh ContraCostaCountyFieldGuide.epub
 
 
-mv yourBook.epub ${CWD}/
+mv ContraCostaCountyFieldGuide.epub ${CWD}/
 
 popd
 
-# rm -rf ${TMP}
+rm -rf ${TMP}
 
 
 
