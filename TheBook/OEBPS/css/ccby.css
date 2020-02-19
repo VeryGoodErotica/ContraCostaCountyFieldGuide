@@ -1,0 +1,17 @@
+aside {
+  font-style: italic;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+li.strong {
+  font-weight: bold;
+}
+
+li dfn {
+  font-weight: bold;
+}
+
+li em {
+  text-decoration: underline;
+}

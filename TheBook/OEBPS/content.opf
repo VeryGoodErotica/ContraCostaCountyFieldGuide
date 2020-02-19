@@ -28,6 +28,9 @@
   </metadata>
   <manifest>
     <item href="TemporaryCover.jpg" id="CoverImage" media-type="image/jpeg" properties="cover-image"/>
+    <!-- css -->
+    <item href="css/ccby.css" id="css__ccby" media-type="text/css"/>
+    <!-- beginning of spine content -->
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
     <!-- bird species profile cover images -->
     <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
