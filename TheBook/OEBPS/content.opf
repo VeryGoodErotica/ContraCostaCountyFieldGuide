@@ -34,7 +34,7 @@
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
     <!-- herps -->
     <!-- turtles -->
-    <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt"/>
+    <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
     <!-- end turtles -->
     <!-- end herps -->
     <!-- end of non-appendix spine content -->
