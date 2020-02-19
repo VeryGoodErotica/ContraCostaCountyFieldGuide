@@ -1,0 +1,12 @@
+figure.cover img {
+  display: block;
+  margin: auto;
+}
+
+figure.cover figcaption {
+  text-align: center;
+}
+
+.taxon {
+  font-style: italic;
+}
