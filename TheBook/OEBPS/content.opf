@@ -55,22 +55,22 @@
     <item href="images/mammals/California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
     
     <!-- reptile species profile cover images -->
-    <item href="images/reptiles/Cover-Red-eared_Slider.jpg" id="images:reptiles:Cover-Red-eared_Slider.jpg" media-type="image/jpeg"/>
-    <item href="images/reptiles/Cover-Red-eared_Slider.xml" id="images:reptiles:Cover-Red-eared_Slider.xml" media-type="text/xml"/>
-    <item href="images/reptiles/Cover-Western_Pond_Turtle.jpg" id="images:reptiles:Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>
-    <item href="images/reptiles/Cover-Western_Pond_Turtle.xml" id="images:reptiles:Cover-Western_Pond_Turtle.xml" media-type="text/xml"/>
+    <item href="images/reptiles/Cover-Red-eared_Slider.jpg" id="images__reptiles__Cover-Red-eared_Slider.jpg" media-type="image/jpeg"/>
+    <item href="images/reptiles/Cover-Red-eared_Slider.xml" id="images__reptiles__Cover-Red-eared_Slider.xml" media-type="text/xml"/>
+    <item href="images/reptiles/Cover-Western_Pond_Turtle.jpg" id="images__reptiles__Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>
+    <item href="images/reptiles/Cover-Western_Pond_Turtle.xml" id="images__reptiles__Cover-Western_Pond_Turtle.xml" media-type="text/xml"/>
     <!-- appendix -->
     <!-- license texts -->
-    <item href="licenses/CC_BY-SA_4_0.xhtml" id="apx:licenses:ccbysa4.0" media-type="application/xhtml+xml"/>
-    <item href="licenses/CC_BY_4_0.xhtml" id="apx:licenses:ccby4.0" media-type="application/xhtml+xml"/>
-    <item href="licenses/CC0_1_0.xhtml" id="apx:licenses:cc01.0" media-type="application/xhtml"/>
-    <item href="licenses/Pixabay_20200218.xhtml" id="apx:licenses:pixabay" media-type="application/xhtml"/>
+    <item href="licenses/CC_BY-SA_4_0.xhtml" id="apx__licenses__ccbysa4.0" media-type="application/xhtml+xml"/>
+    <item href="licenses/CC_BY_4_0.xhtml" id="apx__licenses__ccby4.0" media-type="application/xhtml+xml"/>
+    <item href="licenses/CC0_1_0.xhtml" id="apx__licenses__cc01.0" media-type="application/xhtml"/>
+    <item href="licenses/Pixabay_20200218.xhtml" id="apx__licenses__pixabay" media-type="application/xhtml"/>
   </manifest>
   <spine>
     <!-- appendix -->
-    <itemref idref="apx:licenses:ccbysa4.0"/>
-    <itemref idref="apx:licenses:ccby4.0"/>
-    <itemref idref="apx:licenses:cc01.0"/>
-    <itemref idref="apx:licenses:pixabay"/>
+    <itemref idref="apx__licenses__ccbysa4.0"/>
+    <itemref idref="apx__licenses__ccby4.0"/>
+    <itemref idref="apx__licenses__cc01.0"/>
+    <itemref idref="apx__licenses__pixabay"/>
   </spine>
 </package>
