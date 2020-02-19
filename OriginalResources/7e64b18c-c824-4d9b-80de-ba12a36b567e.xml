@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+    <original>7e64b18c-c824-4d9b-80de-ba12a36b567e.jpg</original>
+    <creator type="photographer">
+      <name>Koen G. H. Breedveld</name>
+      <license>Public Domain</license>
+      <source>https://commons.wikimedia.org/wiki/File:Shasta_crayfish.jpg</source>
+      <courtesy>U.S. Fish and Wildlife Service</courtesy>
+    </creator>
+    <taxons>
+        <taxon>
+            <common>Shasta Crayfish</common>
+            <latin>Pacifastacus fortis</latin>
+            <county>Shasta County, California</county>
+        </taxon>
+    </taxons>
+    <image>
+        <alt>Top down profile view of a Shasta Crayfish</alt>
+        <description>A color photograph of a Shasta Crayfish crawling through rocks on a creek bottom.</description>
+    </image>
+    <camera>
+        <timestamp>2006-05-31T15:12:41-07:00</timestamp>
+    </camera>
+</Resource>
