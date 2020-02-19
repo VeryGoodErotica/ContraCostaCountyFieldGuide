@@ -16,4 +16,5 @@ li dfn {
 
 li em {
   text-decoration: underline;
+  font-style: normal;
 }
