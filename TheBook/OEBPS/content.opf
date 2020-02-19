@@ -30,6 +30,7 @@
     <item href="TemporaryCover.jpg" id="CoverImage" media-type="image/jpeg" properties="cover-image"/>
     <!-- css -->
     <item href="css/license.css" id="css__license" media-type="text/css"/>
+    <item href="css/taxon_herps.css" id="css__taxon__herps" media-type="text/css"/>
     <!-- beginning of non-appendix spine content -->
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
     <!-- herps -->
