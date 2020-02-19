@@ -29,7 +29,7 @@
   <manifest>
     <item href="TemporaryCover.jpg" id="CoverImage" media-type="image/jpeg" properties="cover-image"/>
     <!-- css -->
-    <item href="css/ccby.css" id="css__ccby" media-type="text/css"/>
+    <item href="css/license.css" id="css__license" media-type="text/css"/>
     <!-- beginning of spine content -->
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
     <!-- bird species profile cover images -->
