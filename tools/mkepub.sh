@@ -14,7 +14,9 @@ cd ..
 
 echo -n application/epub+zip >mimetype
 
-zip -r -X youBook.zip mimetype META-INF EPUB
+zip -r -X yourBook.zip mimetype META-INF OEBPS
+mv yourBook.zip yourBook.epub
+
 
 sh ../tools/epubcheck.sh yourBook.epub
 
@@ -26,8 +28,6 @@ popd
 # rm -rf ${TMP}
 
 
-
-[ ! -d EPUB ] && exit 1
 
 # run accessibility check if available
 #if hash ace 2>/dev/null; then

@@ -50,8 +50,8 @@
     <item href="images/insects/Cover-California_Harvester_Ant.jpg" id="images:insects:Cover-California_Harvester_Ant.jpg" media-type="image/jpeg"/>
     <item href="images/insects/Cover-California_Harvester_Ant.xml" id="images:insects:Cover-California_Harvester_Ant.xml" media-type="text/xml"/>
     <!-- mammal species profile cover images -->
-    <item href="images/mammals/Cover-California_Harvester_Ant.jpg" id="images:mammals:Cover-California_Harvester_Ant.jpg" media-type="image/jpeg"/>
-    <item href="images/mammals/Cover-California_Harvester_Ant.xml" id="images:mammals:Cover-California_Harvester_Ant.xml" media-type="text/xml"/>
+    <item href="images/mammals/California_Ground_Squirrel.jpg" id="images:mammals:Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
+    <item href="images/mammals/California_Ground_Squirrel.xml" id="images:mammals:Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
     <!-- reptile species profile cover images -->
     <item href="images/reptiles/Cover-Red-eared_Slider.jpg" id="images:reptiles:Cover-Red-eared_Slider.jpg" media-type="image/jpeg"/>
     <item href="images/reptiles/Cover-Red-eared_Slider.xml" id="images:reptiles:Cover-Red-eared_Slider.xml" media-type="text/xml"/>
