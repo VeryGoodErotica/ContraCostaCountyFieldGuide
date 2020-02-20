@@ -58,6 +58,9 @@
     <!-- salamanders -->
     <item href="SpeciesProfiles/Herps/Order_Caudata.xhtml" id="taxon__herps__caudata" media-type="application/xhtml+xml"/>
     <!-- end salamanders -->
+    <!-- lizards -->
+    <item href="SpeciesProfiles/Herps/Order_Squamata.xhtml" id="taxon__herps__squamata" media-type="application/xhtml+xml"/>
+    <!-- end lizards -->
     <!-- turtles -->
     <item href="SpeciesProfiles/Herps/Order_Testudines.xhtml" id="taxon__herps__testudines" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
@@ -128,6 +131,9 @@
     <itemref idref="taxon__herps__caudata"/>
 <!-- end salamanders -->
 <!-- end frogs -->
+<!-- lizards -->
+    <itemref idref="taxon__herps__squamata"/>
+<!-- end lizards -->
 <!-- turtles -->
     <itemref idref="taxon__herps__testudines"/>
     <itemref idref="taxon__herps__wpt"/>
