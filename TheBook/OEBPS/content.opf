@@ -62,6 +62,11 @@
       <item href="SpeciesProfiles/Herps/Red-eared_Slider.xhtml" id="taxon__herps__res" media-type="application/xhtml+xml"/>
     <!-- end turtles -->
 <!-- end herps -->
+<!-- birds -->
+    <!-- swifts and hummingbirds -->
+    <item href="SpeciesProfiles/Birds/Order_Apodiformes.xhtml" id="taxon__birds__apodiformes" media-type="application/xhtml+xml"/>
+    <!-- end swifts and hummingbirds -->
+<!-- end birds -->
     <!-- end of non-appendix spine content -->
     
     <!-- bird species profile cover images -->
@@ -125,6 +130,12 @@
     <itemref idref="taxon__herps__res"/>
 <!-- end turtles -->
 <!-- end herps -->
+<!-- birds -->
+<!-- swifts and hummingbirds -->
+    <itemref idref="taxon__birds__apodiformes"/>
+<!-- end swifts and hummingbirds -->
+<!-- end birds -->
+
     <!-- appendix -->
     <itemref idref="apx__glossary"/>
     <itemref idref="apx__licenses__ccbysa4.0"/>
