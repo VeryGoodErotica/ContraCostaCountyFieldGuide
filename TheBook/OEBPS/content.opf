@@ -63,9 +63,12 @@
     <!-- end turtles -->
 <!-- end herps -->
     <!-- end of non-appendix spine content -->
+    
     <!-- bird species profile cover images -->
-    <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images__birds__Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
+    <item href="images/birds/Order_Apodiformes.svg" id="images__herps__Order_Apodiformes.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Order_Apodiformes.xml" id="images__herps__Order_Apodiformes.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images__birds__Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Double-crested_Cormorant.jpg" id="images__birds__Cover-Double-crested_Cormorant.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Double-crested_Cormorant.xml" id="images__birds__Cover-Double-crested_Cormorant.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Eurasian_Collared-Dove.jpg" id="images__birds__Cover-Eurasian_Collared-Dove.jpg" media-type="image/jpeg"/>
