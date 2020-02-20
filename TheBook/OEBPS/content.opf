@@ -32,6 +32,7 @@
     <item href="css/fonts.css" id="css-fonts" media-type="text/css"/>
     <item href="css/license.css" id="css__license" media-type="text/css"/>
     <item href="css/taxon_herps.css" id="css__taxon__herps" media-type="text/css"/>
+    <item href="css/taxon_birds.css" id="css__taxon__herps" media-type="text/css"/>
     <!-- fonts -->
     <item href="fonts/ClearSans-LICENSE-2.0.txt" id="font.ClearSans.license" media-type="text/plain"/>
     <item href="fonts/ClearSans-Regular-wlatin.ttf" id="font.ClearSans.Regular" media-type="font/otf"/>
