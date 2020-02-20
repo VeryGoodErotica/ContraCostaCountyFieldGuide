@@ -40,8 +40,9 @@
       <item href="SpeciesProfiles/Herps/American_Bullfrog.xhtml" id="taxon__herps__abf" media-type="application/xhtml+xml"/>
     <!-- end frogs -->
     <!-- turtles -->
-    <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
-    <item href="SpeciesProfiles/Herps/Red-eared_Slider.xhtml" id="taxon__herps__res" media-type="application/xhtml+xml"/>
+    <item href="SpeciesProfiles/Herps/Order_Testudines.xhtml" id="taxon__herps__testudines" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Herps/Red-eared_Slider.xhtml" id="taxon__herps__res" media-type="application/xhtml+xml"/>
     <!-- end turtles -->
 <!-- end herps -->
     <!-- end of non-appendix spine content -->
@@ -90,6 +91,7 @@
     <itemref idref="taxon__herps__abf"/>
 <!-- end frogs -->
 <!-- turtles -->
+    <itemref idref="taxon__herps__testudines"/>
     <itemref idref="taxon__herps__wpt"/>
     <itemref idref="taxon__herps__res"/>
 <!-- end turtles -->
