@@ -31,7 +31,20 @@
     <!-- css -->
     <item href="css/license.css" id="css__license" media-type="text/css"/>
     <item href="css/taxon_herps.css" id="css__taxon__herps" media-type="text/css"/>
-    <!-- beginning of non-appendix spine content -->
+    <!-- fonts -->
+    <item href="fonts/ClearSans-LICENSE-2.0.txt" id="font.ClearSans.license" media-type="text/plain"/>
+    <item href="fonts/ClearSans-Regular-wlatin.ttf" id="font.ClearSans.Regular" media-type="font/otf"/>
+    <item href="fonts/ClearSans-Bold-wlatin.ttf" id="font.ClearSans.Bold" media-type="font/otf"/>
+    <item href="fonts/ClearSans-Italic-wlatin.ttf" id="font.ClearSans.Italic" media-type="font/otf"/>
+    <item href="fonts/ClearSans-BoldItalic-wlatin.ttf" id="font.ClearSans.BoldItalic" media-type="font/otf"/>
+    <!-- my customized Clear Sans -->
+    <item href="fonts/ClearSansSCP.ttf" id="font.ClearSansSCP.Regular" media-type="font/ttf"/>
+    <item href="fonts/ClearSansSCP-Italic.ttf" id="font.ClearSansSCP.Italic" media-type="font/ttf"/>
+    <item href="fonts/ClearSansSCP-Bold.ttf" id="font.ClearSansSCP.Bold" media-type="font/ttf"/>
+    <item href="fonts/ClearSansSCP-BoldItalic.ttf" id="font.ClearSansSCP.BoldItalic" media-type="font/ttf"/>
+    
+         <!-- beginning of non-appendix spine content -->
+         
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
 <!-- herps -->
     <!-- frogs -->

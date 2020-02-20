@@ -10,7 +10,10 @@ git clone https://github.com/VeryGoodErotica/ContraCostaCountyFieldGuide.git
 
 cd ContraCostaCountyFieldGuide/TheBook/OEBPS
 python3 ../../tools/updateTimestamp.py content.opf
-cd ..
+cd fonts
+rm -f .gitignore
+cp -p /usr/local/ePubFonts/*.ttf .
+cd ../..
 
 echo -n application/epub+zip >mimetype
 
