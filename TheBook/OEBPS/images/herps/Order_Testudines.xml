@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
     <original>d630eed5-a904-452e-8715-b18816049af8.svg</original>
+    <checksum type="sha256">056b35fdc065888b465fe09c62fa674660f99742ce3b18697a45094e705f382f</checksum>
     <creator type="photographer">
       <name>svgsilh.com</name>
       <source>https://svgsilh.com/image/1698966.html</source>
@@ -8,6 +9,10 @@
       <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
       <note>https://pixabay.com/illustrations/turtle-animal-reptile-vintage-1698966/</note>
     </creator>
+    <modifier>
+      <name>Michael A. Peters</name>
+      <modification>SVG code tweaks for ePub compatibility</modification>
+    </modifier>
     <taxons>
         <taxon>
             <common>Turtles and Tortoises</common>
