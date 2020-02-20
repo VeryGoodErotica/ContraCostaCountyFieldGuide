@@ -33,12 +33,15 @@
     <item href="css/taxon_herps.css" id="css__taxon__herps" media-type="text/css"/>
     <!-- beginning of non-appendix spine content -->
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
-    <!-- herps -->
+<!-- herps -->
+    <!-- frogs -->
+    <item href="SpeciesProfiles/Herps/American_Bullfrog.xhtml" id="taxon__herps__abf" media-type="application/xhtml+xml"/>
+    <!-- end frogs -->
     <!-- turtles -->
     <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
     <item href="SpeciesProfiles/Herps/Red-eared_Slider.xhtml" id="taxon__herps__res" media-type="application/xhtml+xml"/>
     <!-- end turtles -->
-    <!-- end herps -->
+<!-- end herps -->
     <!-- end of non-appendix spine content -->
     <!-- bird species profile cover images -->
     <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
@@ -74,6 +77,7 @@
     <item href="licenses/Pixabay_20200218.xhtml" id="apx__licenses__pixabay" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
+    <itemred idref="taxon__herps__abf"/>
     <itemref idref="taxon__herps__wpt"/>
     <itemref idref="taxon__herps__res"/>
     <!-- appendix -->
