@@ -39,6 +39,9 @@
       <item href="SpeciesProfiles/Herps/California_Red-legged_Frog.xhtml" id="taxon__herps__crlf" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/American_Bullfrog.xhtml" id="taxon__herps__abf" media-type="application/xhtml+xml"/>
     <!-- end frogs -->
+    <!-- salamanders -->
+    <item href="SpeciesProfiles/Herps/Order_Caudata.xhtml" id="taxon__herps__caudata" media-type="application/xhtml+xml"/>
+    <!-- end salamanders -->
     <!-- turtles -->
     <item href="SpeciesProfiles/Herps/Order_Testudines.xhtml" id="taxon__herps__testudines" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
@@ -95,6 +98,9 @@
     <itemref idref="taxon__herps__anura"/>
     <itemref idref="taxon__herps__crlf"/>
     <itemref idref="taxon__herps__abf"/>
+<!-- salamanders -->
+    <itemref idref="taxon__herps__caudata"/>
+<!-- end salamanders -->
 <!-- end frogs -->
 <!-- turtles -->
     <itemref idref="taxon__herps__testudines"/>
