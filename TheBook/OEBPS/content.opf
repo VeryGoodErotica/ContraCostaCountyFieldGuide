@@ -77,7 +77,7 @@
     <item href="licenses/Pixabay_20200218.xhtml" id="apx__licenses__pixabay" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
-    <itemred idref="taxon__herps__abf"/>
+    <itemref idref="taxon__herps__abf"/>
     <itemref idref="taxon__herps__wpt"/>
     <itemref idref="taxon__herps__res"/>
     <!-- appendix -->
