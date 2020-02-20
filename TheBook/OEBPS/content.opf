@@ -65,7 +65,9 @@
     <!-- mammal species profile cover images -->
     <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
-    <!-- reptile species profile cover images -->
+    
+<!-- herp species profile cover images -->
+    <item href="images/herps/Order_Anura.svg" id="images__herps__Order_Anura.svg" media-type="image/svg+xml"/>
     <item href="images/reptiles/Cover-Red-eared_Slider.jpg" id="images__reptiles__Cover-Red-eared_Slider.jpg" media-type="image/jpeg"/>
     <item href="images/reptiles/Cover-Red-eared_Slider.xml" id="images__reptiles__Cover-Red-eared_Slider.xml" media-type="text/xml"/>
     <item href="images/reptiles/Cover-Western_Pond_Turtle.jpg" id="images__reptiles__Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>

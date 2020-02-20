@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+    <original>2e72f21a-a087-450e-814f-e7a230f27f48.svg</original>
+    <creator type="photographer">
+      <name>svgsilh.com</name>
+      <source>https://svgsilh.com/image/305207.html</source>
+      <license>CC0</license>
+      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+      <note>https://pixabay.com/en/frog-animal-reptile-outline-sit-frog-fro-305207/</note>
+    </creator>
+    <taxons>
+        <taxon>
+            <common>Frogs and Toads</common>
+            <latin>Anura</latin>
+        </taxon>
+    </taxons>
+    <image>
+        <alt>Vector art silhouette of a frog</alt>
+        <description>Vector art silhouette of a frog</description>
+    </image>
+</Resource>
