@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
     <original>2e72f21a-a087-450e-814f-e7a230f27f48.svg</original>
+    <checksum type="sha256">499fac1652bd9bfecf66268bace95224d80cf90b4532e628894d7d3de544aa38</checksum>
     <creator type="photographer">
       <name>svgsilh.com</name>
       <source>https://svgsilh.com/image/305207.html</source>
