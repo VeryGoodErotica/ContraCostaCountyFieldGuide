@@ -71,6 +71,8 @@
 <!-- herp species profile cover images -->
     <item href="images/herps/Order_Anura.svg" id="images__herps__Order_Anura.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Order_Anura.xml" id="images__herps__Order_Anura.xml" media-type="text/xml"/>
+    <item href="images/herps/Order_Caudata.svg" id="images__herps__Order_Caudata.svg" media-type="image/svg+xml"/>
+    <item href="images/herps/Order_Caudata.xml" id="images__herps__Order_Caudata.xml" media-type="text/xml"/>
     <item href="images/herps/Order_Testudines.svg" id="images__herps__Order_Testudines.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Order_Testudines.xml" id="images__herps__Order_Testudines.xml" media-type="text/xml"/>
       <item href="images/herps/Cover-Red-eared_Slider.jpg" id="images__reptiles__Cover-Red-eared_Slider.jpg" media-type="image/jpeg"/>
