@@ -8,6 +8,10 @@
       <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
       <note>https://pixabay.com/en/frog-animal-reptile-outline-sit-frog-fro-305207/</note>
     </creator>
+    <modifier>
+      <name>Michael A. Peters</name>
+      <modification>SVG code tweaks for ePub compatibility</modification>
+    </modifier>
     <taxons>
         <taxon>
             <common>Frogs and Toads</common>
