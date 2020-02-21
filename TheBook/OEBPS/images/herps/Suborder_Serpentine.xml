@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+    <original>e9ad48de-7c2a-4313-8a59-52337b13f8f5</original>
+    <checksum algo="sha256">4df8f1f2573dc4b1b342c770ee9004eb6ba56a7b617658a2af2f4db141ce55dc</checksum>
+    <creator type="photographer">
+      <name>svgsilh.com</name>
+      <source>https://svgsilh.com/image/46141.html</source>
+      <license>CC0</license>
+      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+      <note>https://pixabay.com/vectors/snake-brown-yellow-reptile-46141/</note>
+    </creator>
+    <modifier>
+      <name>Michael A. Peters</name>
+      <modification>SVG code tweaks for ePub compatibility</modification>
+    </modifier>
+    <taxons>
+        <taxon>
+            <common>Snakes</common>
+            <latin>Suborder Serpentes</latin>
+        </taxon>
+    </taxons>
+    <image>
+        <alt>Vector art silhouette of a snake</alt>
+        <description>Vector art silhouette of a snake</description>
+    </image>
+</Resource>
