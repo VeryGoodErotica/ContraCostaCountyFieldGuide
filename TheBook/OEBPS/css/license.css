@@ -24,6 +24,19 @@ li em {
   font-style: normal;
 }
 
+div.aplhgroup h2 {
+  text-align: center;
+}
+
+div.aplhgroup h3 {
+  text-align: center;
+}
+
+div.aplhgroup p {
+  text-align: center;
+  font-weight: bold;
+}
+
 .apl::before {
   content: "“";
 }
