@@ -61,6 +61,9 @@
     <!-- lizards -->
     <item href="SpeciesProfiles/Herps/Order_Squamata.xhtml" id="taxon__herps__squamata" media-type="application/xhtml+xml"/>
     <!-- end lizards -->
+    <!-- snakes -->
+    <item href="SpeciesProfiles/Herps/Suborder_Serpentine.xhtml" id="taxon__herps__serpentine" media-type="application/xhtml+xml"/>
+    <!-- end snakes -->
     <!-- turtles -->
     <item href="SpeciesProfiles/Herps/Order_Testudines.xhtml" id="taxon__herps__testudines" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
@@ -136,6 +139,9 @@
 <!-- lizards -->
     <itemref idref="taxon__herps__squamata"/>
 <!-- end lizards -->
+<!-- snakes -->
+    <itemref idref="taxon__herps__serpentine"/>
+<!-- end snakes -->
 <!-- turtles -->
     <itemref idref="taxon__herps__testudines"/>
     <itemref idref="taxon__herps__wpt"/>
