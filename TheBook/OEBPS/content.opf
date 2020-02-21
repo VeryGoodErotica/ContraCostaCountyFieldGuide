@@ -161,6 +161,7 @@
     <!-- appendix -->
     <itemref idref="apx__concept_terms"/>
     <itemref idref="apx__glossary"/>
+    <itemref idref="apx__contributors__authour0"/>
     <itemref idref="apx__licenses__thiswork"/>
     <itemref idref="apx__licenses__ccbysa4.0"/>
     <itemref idref="apx__licenses__ccby4.0"/>
