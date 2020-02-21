@@ -119,6 +119,7 @@
 <!-- end herp species profile cover images -->
 
     <!-- appendix -->
+    <item href="appendix/concept_terms.xhtml" id="apx__concept_terms" media-type="application/xhtml+xml"/>
     <item href="appendix/glossary.xhtml" id="apx__glossary" media-type="application/xhtml+xml"/>
     <!-- license texts -->
     <item href="licenses/CC_BY-SA_4_0.xhtml" id="apx__licenses__ccbysa4.0" media-type="application/xhtml+xml"/>
@@ -155,6 +156,7 @@
 <!-- end birds -->
 
     <!-- appendix -->
+    <itemref idref="apx__concept_terms"/>
     <itemref idref="apx__glossary"/>
     <itemref idref="apx__licenses__ccbysa4.0"/>
     <itemref idref="apx__licenses__ccby4.0"/>
