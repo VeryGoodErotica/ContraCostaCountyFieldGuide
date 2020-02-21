@@ -2,6 +2,14 @@ body {
   font-family: 'Clear Sans', sans-serif;
 }
 
+div.taxonhgroup h1 {
+  text-align: center;
+}
+
+div.taxonhgroup h2 {
+  text-align: center;
+}
+
 p {
   widows: 1;
   orphans: 1;
