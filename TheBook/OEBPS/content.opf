@@ -73,6 +73,7 @@
     <!-- end turtles -->
 <!-- end herps -->
 <!-- birds -->
+    <item href="SpeciesProfiles/Birds/Birds.xhtml" id="taxon__birds__birds" media-type="application/xhtml+xml"/>
     <!-- swifts and hummingbirds -->
     <item href="SpeciesProfiles/Birds/Order_Apodiformes.xhtml" id="taxon__birds__apodiformes" media-type="application/xhtml+xml"/>
     <!-- end swifts and hummingbirds -->
@@ -160,6 +161,7 @@
 <!-- end herps -->
 <!-- birds -->
 <!-- swifts and hummingbirds -->
+    <itemref idref="taxon__birds__birds"/>
     <itemref idref="taxon__birds__apodiformes"/>
 <!-- end swifts and hummingbirds -->
 <!-- end birds -->
