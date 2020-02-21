@@ -126,6 +126,7 @@
     <item href="licenses/CC_BY_4_0.xhtml" id="apx__licenses__ccby4.0" media-type="application/xhtml+xml"/>
     <item href="licenses/CC0_1_0.xhtml" id="apx__licenses__cc01.0" media-type="application/xhtml+xml"/>
     <item href="licenses/Pixabay_20200218.xhtml" id="apx__licenses__pixabay" media-type="application/xhtml+xml"/>
+    <item href="licenses/Apache_License_2_0.xhtml" id="apx__licenses__apache2.0" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
 <!-- herps -->
@@ -162,5 +163,6 @@
     <itemref idref="apx__licenses__ccby4.0"/>
     <itemref idref="apx__licenses__cc01.0"/>
     <itemref idref="apx__licenses__pixabay"/>
+    <itemref idref="apx__licenses__apache2.0"/>
   </spine>
 </package>

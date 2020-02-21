@@ -14,7 +14,20 @@ li dfn {
   font-style: normal;
 }
 
+p dfn {
+  font-weight: bold;
+  font-style: normal;
+}
+
 li em {
   text-decoration: underline;
   font-style: normal;
+}
+
+.apl::before {
+  content: "“";
+}
+
+.apl::after {
+  content: "”";
 }
