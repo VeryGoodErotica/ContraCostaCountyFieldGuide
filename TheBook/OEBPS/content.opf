@@ -101,8 +101,8 @@
     <item href="images/birds/Order_Pelecaniformes.xml" id="images__herps__Order_Pelecaniformes.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Great_Blue_Heron.jpg" id="images__birds__Cover-Great_Blue_Heron.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images__birds__Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
-      <item href="images/birds/Cover-Snowy_Egret.jpg" id="images__birds__Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
-      <item href="images/birds/Cover-Snowy_Egret.xml" id="images__birds__Cover-Snowy_Egret.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Snow_Egret.jpg" id="images__birds__Cover-Snow_Egret.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Snow_Egret.xml" id="images__birds__Cover-Snow_Egret.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-American_Bittern.jpg" id="images__birds__Cover-American_Bittern.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-American_Bittern.xml" id="images__birds__Cover-American_Bittern.xml" media-type="text/xml"/>
       <!-- Technically Suliformes -->
