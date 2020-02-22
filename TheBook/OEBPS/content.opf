@@ -85,7 +85,7 @@
 <!-- birds -->
     <item href="SpeciesProfiles/Birds/Birds.xhtml" id="taxon__birds__birds" media-type="application/xhtml+xml"/>
     <!-- pelecans and allies -->
-    <item href="SpeciesProfiles/Birds/Order_Pelecaniforms.xhtml" id="taxon__birds__pelecaniformes" media-type="application/xhtml+xml"/>
+    <item href="SpeciesProfiles/Birds/Order_Pelecaniformes.xhtml" id="taxon__birds__pelecaniformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Great_Blue_Heron.xhtml" id="taxon__birds__gbheron" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Snowy_Egret.xhtml" id="taxon__birds__snowy" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/American_Bittern.xhtml" id="taxon__birds__ambittern" media-type="application/xhtml+xml"/>
