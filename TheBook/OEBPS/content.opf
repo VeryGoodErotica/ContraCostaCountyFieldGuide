@@ -103,6 +103,8 @@
       <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images__birds__Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Snowy_Egret.jpg" id="images__birds__Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Snowy_Egret.xml" id="images__birds__Cover-Snowy_Egret.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-American_Bittern.jpg" id="images__birds__Cover-American_Bittern.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-American_Bittern.xml" id="images__birds__Cover-American_Bittern.xml" media-type="text/xml"/>
       <!-- Technically Suliformes -->
       <item href="images/birds/Cover-Double-crested_Cormorant.jpg" id="images__birds__Cover-Double-crested_Cormorant.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Double-crested_Cormorant.xml" id="images__birds__Cover-Double-crested_Cormorant.xml" media-type="text/xml"/>
