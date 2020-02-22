@@ -96,11 +96,16 @@
     <!-- end of non-appendix spine content -->
     
     <!-- bird species profile cover images -->
-    <!-- swifts and hummingbirds -->
-    <item href="images/birds/Order_Apodiformes.svg" id="images__herps__Order_Apodiformes.svg" media-type="image/svg+xml"/>
-    <item href="images/birds/Order_Apodiformes.xml" id="images__herps__Order_Apodiformes.xml" media-type="text/xml"/>
-      <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
-      <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images__birds__Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
+    <!-- pelicans and allies -->
+    <item href="images/birds/Order_Pelecaniformes.svg" id="images__herps__Order_Pelecaniformes.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Order_Pelecaniformes.xml" id="images__herps__Order_Pelecaniformes.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Great_Blue_Heron.jpg" id="images__birds__Cover-Great_Blue_Heron.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images__birds__Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Snowy_Egret.jpg" id="images__birds__Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Snowy_Egret.xml" id="images__birds__Cover-Snowy_Egret.xml" media-type="text/xml"/>
+      <!-- Technically Suliformes -->
+      <item href="images/birds/Cover-Double-crested_Cormorant.jpg" id="images__birds__Cover-Double-crested_Cormorant.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Double-crested_Cormorant.xml" id="images__birds__Cover-Double-crested_Cormorant.xml" media-type="text/xml"/>
     <!-- pigeons and doves -->
     <item href="images/birds/Order_Columbiformes.svg" id="images__herps__Order_Columbiformes.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Order_Columbiformes.xml" id="images__herps__Order_Columbiformes.xml" media-type="text/xml"/>
@@ -108,13 +113,12 @@
       <item href="images/birds/Cover-Eurasian_Collared-Dove.xml" id="images__birds__Cover-Eurasian_Collared-Dove.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Domestic_Rock_Pigeon.jpg" id="images__birds__Cover-Domestic_Rock_Pigeon.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Domestic_Rock_Pigeon.xml" id="images__birds__Cover-Domestic_Rock_Pigeon.xml" media-type="text/xml"/>
+    <!-- swifts and hummingbirds -->
+    <item href="images/birds/Order_Apodiformes.svg" id="images__herps__Order_Apodiformes.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Order_Apodiformes.xml" id="images__herps__Order_Apodiformes.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images__birds__Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
     <!-- not in hierarchy yet -->
-    <item href="images/birds/Cover-Double-crested_Cormorant.jpg" id="images__birds__Cover-Double-crested_Cormorant.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-Double-crested_Cormorant.xml" id="images__birds__Cover-Double-crested_Cormorant.xml" media-type="text/xml"/>
-    <item href="images/birds/Cover-Great_Blue_Heron.jpg" id="images__birds__Cover-Great_Blue_Heron.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images__birds__Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
-    <item href="images/birds/Cover-Snowy_Egret.jpg" id="images__birds__Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-Snowy_Egret.xml" id="images__birds__Cover-Snowy_Egret.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images__birds__Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images__birds__Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Yellow-rumped_Warbler.jpg" id="images__birds__Cover-Yellow-rumped_Warbler.jpg" media-type="image/jpeg"/>
