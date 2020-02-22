@@ -159,7 +159,7 @@
     <item href="licenses/Apache_License_2_0.xhtml" id="apx__licenses__apache2.0" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
-    <itemref idref="simplified__toc"/>
+    <itemref idref="toc__simplified"/>
 <!-- herps -->
     <itemref idref="taxon__herps__herps"/>
 <!-- frogs -->
