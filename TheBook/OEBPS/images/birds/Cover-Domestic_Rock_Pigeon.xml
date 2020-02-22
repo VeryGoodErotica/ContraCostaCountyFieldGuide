@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+    <original>e6b4fd63-061c-455c-86fa-065df03a2ce5.jpg</original>
+    <checksum algo="sha256">9d64f75a8908fa0e414a1aa1e4ea483a43933f7b765352d7af96befc36cdab92</checksum>
+    <flaws>Photo is not from Contra Costa County</flaws>
+    <creator type="photographer">
+      <name>Sandeep Handa</name>
+      <source>https://pixabay.com/photos/homing-pigeon-pigeon-2727563/</source>
+      <license>Pixabay</license>
+      <licenseurl>https://pixabay.com/service/license/</licenseurl>
+    </creator>
+    <modifier>
+      <name>Michael A. Peters</name>
+      <modification>Crop and scale to 1024x square</modification>
+    </modifier>
+    <taxons>
+        <taxon>
+            <common>Domestic Rock Pigeon</common>
+            <latin>Columba livia domestica</latin>
+        </taxon>
+    </taxons>
+    <image>
+        <mime>image/jpeg</mime>
+        <resolution>1024x1024</resolution>
+        <alt>Profile of an adult domestic rock pigeon.</alt>
+        <description>Profile of an adult domestic rock pigeon.</description>
+    </image>
+    <camera>
+        <brand>Nikon</brand>
+        <model>D5600</model>
+        <focallength>210 mm</focallength>
+        <shutterspeed>1/250</shutterspeed>
+        <aperture>f/6.3</aperture>
+        <iso>400</iso>
+        <timestamp>2017-09-08</timestamp>
+    </camera>
+</Resource>
