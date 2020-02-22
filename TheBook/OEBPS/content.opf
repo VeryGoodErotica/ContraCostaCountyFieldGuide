@@ -83,6 +83,8 @@
     <item href="SpeciesProfiles/Birds/Birds.xhtml" id="taxon__birds__birds" media-type="application/xhtml+xml"/>
     <!-- pigeons and doves -->
     <item href="SpeciesProfiles/Birds/Order_Columbiformes.xhtml" id="taxon__birds__columbiformes" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Domestic_Rock_Pigeon.xhtml" id="taxon__birds__rockpigeon" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Eurasian_Collared-Dove.xhtml" id="taxon__birds__eudove" media-type="application/xhtml+xml"/>
     <!-- swifts and hummingbirds -->
     <item href="SpeciesProfiles/Birds/Order_Apodiformes.xhtml" id="taxon__birds__apodiformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Annas_Hummingbird.xhtml" id="taxon__birds__annas" media-type="application/xhtml+xml"/>
@@ -180,6 +182,8 @@
     <itemref idref="taxon__birds__birds"/>
 <!-- pigeons and doves -->
     <itemref idref="taxon__birds__columbiformes"/>
+    <itemref idref="taxon__birds__rockpigeon"/>
+    <itemref idref="taxon__birds__eudove"/>
 <!-- end pigeons and doves -->
 <!-- swifts and hummingbirds -->
     <itemref idref="taxon__birds__apodiformes"/>
