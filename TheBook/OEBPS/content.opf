@@ -54,9 +54,12 @@
     <item href="fonts/ClearSansSCP-Bold.ttf" id="font.ClearSansSCP.Bold" media-type="font/ttf"/>
     <item href="fonts/ClearSansSCP-BoldItalic.ttf" id="font.ClearSansSCP.BoldItalic" media-type="font/ttf"/>
     
-         <!-- beginning of non-appendix spine content -->
-         
+         <!-- Complete Spine ToC for software -->
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
+    
+         <!-- beginning of non-appendix spine content -->
+
+    <item href="ToC-CONTENT.xhtml" id="toc__simplified" media-type="application/xhtml+xml"/>
 <!-- herps -->
     <item href="SpeciesProfiles/Herps/Herps.xhtml" id="taxon__herps__herps" media-type="application/xhtml+xml"/>
     <!-- frogs -->
@@ -156,6 +159,7 @@
     <item href="licenses/Apache_License_2_0.xhtml" id="apx__licenses__apache2.0" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
+    <itemref idref="simplified__toc"/>
 <!-- herps -->
     <itemref idref="taxon__herps__herps"/>
 <!-- frogs -->
