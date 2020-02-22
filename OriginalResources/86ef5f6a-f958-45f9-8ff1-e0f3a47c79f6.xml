@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="illustration" xml:lang="en-US">
+    <original>86ef5f6a-f958-45f9-8ff1-e0f3a47c79f6.svg</original>
+    <creator type="illustrator">
+      <name>Sandeep Handa</name>
+      <source>https://pixabay.com/vectors/feral-pigeon-bird-pigeon-silhouette-2794300/</source>
+      <license>Pixabay</license>
+      <licenseurl>https://pixabay.com/service/license/</licenseurl>
+    </creator>
+    <taxons>
+        <taxon>
+            <common>Pigeons and Doves</common>
+            <latin>Columbiformes</latin>
+        </taxon>
+    </taxons>
+    <image>
+        <alt>Vector art silhouette of a pigeon</alt>
+        <description>Vector art silhouette of a pigeon</description>
+    </image>
+</Resource>

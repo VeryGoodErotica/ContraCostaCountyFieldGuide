@@ -12,12 +12,17 @@
     <dc:contributor id="contributor0">Christiane (Oldiefan)</dc:contributor>
     <dc:contributor id="contributor1">SVG SILH</dc:contributor>
     <dc:contributor id="contributor2">Sandeep Handa</dc:contributor>
+    <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">prg</meta>
+    <!-- Christiane (Oldiefan) -->
     <meta property="role" refines="#contributor0" scheme="marc:relators">pht</meta>
+    <!-- SVG SILH -->
     <meta property="role" refines="#contributor1" scheme="marc:relators">acp</meta>
+    <!-- Sandeep Handa -->
     <meta property="role" refines="#contributor2" scheme="marc:relatirs">pht</meta>
+    <meta property="role" refines="#contributor2" scheme="marc:relatirs">ill</meta>
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
     <meta property="dcterms:modified">2020-02-16T20:13:21Z</meta>
@@ -84,16 +89,21 @@
     <!-- end of non-appendix spine content -->
     
     <!-- bird species profile cover images -->
+    <!-- swifts and hummingbirds -->
     <item href="images/birds/Order_Apodiformes.svg" id="images__herps__Order_Apodiformes.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Order_Apodiformes.xml" id="images__herps__Order_Apodiformes.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images__birds__Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
+    <!-- pigeons and doves -->
+    <item href="images/birds/Order_Columbiformes.svg" id="images__herps__Order_Columbiformes.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Order_Columbiformes.xml" id="images__herps__Order_Columbiformes.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Eurasian_Collared-Dove.jpg" id="images__birds__Cover-Eurasian_Collared-Dove.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Eurasian_Collared-Dove.xml" id="images__birds__Cover-Eurasian_Collared-Dove.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Domestic_Rock_Pigeon.jpg" id="images__birds__Cover-Domestic_Rock_Pigeon.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Domestic_Rock_Pigeon.xml" id="images__birds__Cover-Domestic_Rock_Pigeon.xml" media-type="text/xml"/>
+    <!-- not in hierarchy yet -->
     <item href="images/birds/Cover-Double-crested_Cormorant.jpg" id="images__birds__Cover-Double-crested_Cormorant.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Double-crested_Cormorant.xml" id="images__birds__Cover-Double-crested_Cormorant.xml" media-type="text/xml"/>
-    <item href="images/birds/Cover-Eurasian_Collared-Dove.jpg" id="images__birds__Cover-Eurasian_Collared-Dove.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-Eurasian_Collared-Dove.xml" id="images__birds__Cover-Eurasian_Collared-Dove.xml" media-type="text/xml"/>
-    <item href="images/birds/Cover-Domestic_Rock_Pigeon.jpg" id="images__birds__Cover-Domestic_Rock_Pigeon.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-Domestic_Rock_Pigeon.xml" id="images__birds__Cover-Domestic_Rock_Pigeon.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Great_Blue_Heron.jpg" id="images__birds__Cover-Great_Blue_Heron.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images__birds__Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Snowy_Egret.jpg" id="images__birds__Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
