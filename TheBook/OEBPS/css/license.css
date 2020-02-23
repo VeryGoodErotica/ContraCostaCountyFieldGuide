@@ -44,3 +44,11 @@ div.aplhgroup p {
 .apl::after {
   content: "”";
 }
+
+.ssq::before {
+  content: "‘";
+}
+
+.ssq::after {
+  content: "’";
+}
