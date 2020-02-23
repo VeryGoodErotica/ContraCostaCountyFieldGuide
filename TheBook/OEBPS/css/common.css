@@ -30,6 +30,10 @@ figure.cover figcaption {
   font-size: smaller;
 }
 
+figure.cover figcaption::before {
+  content: "image ";
+}
+
 .taxon {
   font-style: italic;
 }
