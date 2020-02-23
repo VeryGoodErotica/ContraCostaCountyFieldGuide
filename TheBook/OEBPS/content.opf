@@ -149,6 +149,8 @@
       <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images__birds__Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
     <!-- not in hierarchy yet -->
+    <item href="images/birds/Cover-Common_Merganser.jpg" id="images__birds__Common_Merganser.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Common_Merganser.xml" id="images__birds__Common_Merganser.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images__birds__Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
