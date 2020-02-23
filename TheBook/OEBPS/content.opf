@@ -191,7 +191,7 @@
   <spine>
     <itemref idref="TITLE"/>
     <itemref idref="toc__simplified"/>
-    <iremref idref="INTRO"/>
+    <itemref idref="INTRO"/>
 <!-- herps -->
     <itemref idref="taxon__herps__herps"/>
 <!-- frogs -->
