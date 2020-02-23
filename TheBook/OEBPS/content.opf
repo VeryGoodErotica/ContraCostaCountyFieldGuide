@@ -65,6 +65,7 @@
          <!-- beginning of non-appendix spine content -->
     <item href="TitlePage.xhtml" id="TITLE" media-type="application/xhtml+xml"/>
     <item href="ToC-CONTENT.xhtml" id="toc__simplified" media-type="application/xhtml+xml"/>
+    <item href="Introduction.xhtml" id="INTRO" media-type="application/xhtml+xml"/>
 <!-- herps -->
     <item href="SpeciesProfiles/Herps/Herps.xhtml" id="taxon__herps__herps" media-type="application/xhtml+xml"/>
     <!-- frogs -->
@@ -190,6 +191,7 @@
   <spine>
     <itemref idref="TITLE"/>
     <itemref idref="toc__simplified"/>
+    <iremref idref="INTRO"/>
 <!-- herps -->
     <itemref idref="taxon__herps__herps"/>
 <!-- frogs -->
