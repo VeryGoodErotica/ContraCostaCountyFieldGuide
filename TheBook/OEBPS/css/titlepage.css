@@ -2,6 +2,7 @@ h1.thetitle {
   text-align: center;
 }
 h2.thetagline {
+  margin-top: -1em;
   text-align: right;
   font-weight: normal;
   font-style: italic;
