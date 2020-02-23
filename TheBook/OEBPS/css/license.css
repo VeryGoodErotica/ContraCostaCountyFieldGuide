@@ -37,11 +37,11 @@ div.aplhgroup p {
   font-weight: bold;
 }
 
-.apl::before {
+.dsq::before {
   content: "“";
 }
 
-.apl::after {
+.dsq::after {
   content: "”";
 }
 
