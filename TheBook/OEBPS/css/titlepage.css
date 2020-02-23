@@ -5,11 +5,13 @@ h2.thetagline {
   text-align: right;
   font-weight: normal;
   font-style: italic;
+  font-size: smaller;
 }
 h2.theedition {
   text-align: center;
 }
 p.pubdate {
+  margin-top: -1em;
   text-align: center;
   font-size: smaller;
 }
