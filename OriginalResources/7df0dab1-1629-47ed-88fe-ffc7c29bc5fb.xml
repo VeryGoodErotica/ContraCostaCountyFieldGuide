@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+    <original>7df0dab1-1629-47ed-88fe-ffc7c29bc5fb.jpg</original>
+    <creator type="photographer">
+      <name>Pierre Selim</name>
+      <license>CC BY-SA 3.0</license>
+      <licenseurl>https://creativecommons.org/licenses/by-sa/3.0</licenseurl>
+      <sourceurl>https://commons.wikimedia.org/wiki/File:Toulouse_-_Sturnus_vulgaris_-_2012-02-26_-_3.jpg</sourceurl>
+    </creator>
+    <taxons>
+        <taxon>
+            <common>European Starling</common>
+            <latin>Sturnus vulgaris</latin>
+        </taxon>
+    </taxons>
+    <image>
+        <alt>Profile view of an adult European Starling</alt>
+        <description>The right profile of a European Starling is shown, perched on a bar.</description>
+    </image>
+    <camera>
+        <timestamp>2012-02-26</timestamp>
+    </camera>
+</Resource>

@@ -100,7 +100,25 @@
     <!-- end swifts and hummingbirds -->
 <!-- end birds -->
     <!-- end of non-appendix spine content -->
-    
+
+    <!-- herp species profile cover images -->
+    <item href="images/herps/Order_Anura.svg" id="images__herps__Order_Anura.svg" media-type="image/svg+xml"/>
+    <item href="images/herps/Order_Anura.xml" id="images__herps__Order_Anura.xml" media-type="text/xml"/>
+    <item href="images/herps/Order_Caudata.svg" id="images__herps__Order_Caudata.svg" media-type="image/svg+xml"/>
+    <item href="images/herps/Order_Caudata.xml" id="images__herps__Order_Caudata.xml" media-type="text/xml"/>
+    <item href="images/herps/Order_Squamata.svg" id="images__herps__Order_Squamata.svg" media-type="image/svg+xml"/>
+    <item href="images/herps/Order_Squamata.xml" id="images__herps__Order_Squamata.xml" media-type="text/xml"/>
+    <item href="images/herps/Suborder_Serpentine.svg" id="images__herps__Suborder_Serpentine.svg" media-type="image/svg+xml"/>
+    <item href="images/herps/Suborder_Serpentine.xml" id="images__herps__Suborder_Serpentine.xml" media-type="text/xml"/>
+    <item href="images/herps/Order_Testudines.svg" id="images__herps__Order_Testudines.svg" media-type="image/svg+xml"/>
+    <item href="images/herps/Order_Testudines.xml" id="images__herps__Order_Testudines.xml" media-type="text/xml"/>
+      <item href="images/herps/Cover-Red-eared_Slider.jpg" id="images__reptiles__Cover-Red-eared_Slider.jpg" media-type="image/jpeg"/>
+      <item href="images/herps/Cover-Red-eared_Slider.xml" id="images__reptiles__Cover-Red-eared_Slider.xml" media-type="text/xml"/>
+      <item href="images/herps/Cover-Western_Pond_Turtle.jpg" id="images__reptiles__Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>
+      <item href="images/herps/Cover-Western_Pond_Turtle.xml" id="images__reptiles__Cover-Western_Pond_Turtle.xml" media-type="text/xml"/>
+<!-- end herp species profile cover images -->
+
+
     <!-- bird species profile cover images -->
     <!-- pelicans and allies -->
     <item href="images/birds/Order_Pelecaniformes.svg" id="images__herps__Order_Pelecaniformes.svg" media-type="image/svg+xml"/>
@@ -127,6 +145,8 @@
       <item href="images/birds/Cover-Annas_Hummingbird.jpg" id="images__birds__Cover-Annas_Hummingbird.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Annas_Hummingbird.xml" id="images__birds__Cover-Annas_Hummingbird.xml" media-type="text/xml"/>
     <!-- not in hierarchy yet -->
+    <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images__birds__Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images__birds__Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Yellow-rumped_Warbler.jpg" id="images__birds__Cover-Yellow-rumped_Warbler.jpg" media-type="image/jpeg"/>
@@ -138,22 +158,7 @@
     <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
     
-<!-- herp species profile cover images -->
-    <item href="images/herps/Order_Anura.svg" id="images__herps__Order_Anura.svg" media-type="image/svg+xml"/>
-    <item href="images/herps/Order_Anura.xml" id="images__herps__Order_Anura.xml" media-type="text/xml"/>
-    <item href="images/herps/Order_Caudata.svg" id="images__herps__Order_Caudata.svg" media-type="image/svg+xml"/>
-    <item href="images/herps/Order_Caudata.xml" id="images__herps__Order_Caudata.xml" media-type="text/xml"/>
-    <item href="images/herps/Order_Squamata.svg" id="images__herps__Order_Squamata.svg" media-type="image/svg+xml"/>
-    <item href="images/herps/Order_Squamata.xml" id="images__herps__Order_Squamata.xml" media-type="text/xml"/>
-    <item href="images/herps/Suborder_Serpentine.svg" id="images__herps__Suborder_Serpentine.svg" media-type="image/svg+xml"/>
-    <item href="images/herps/Suborder_Serpentine.xml" id="images__herps__Suborder_Serpentine.xml" media-type="text/xml"/>
-    <item href="images/herps/Order_Testudines.svg" id="images__herps__Order_Testudines.svg" media-type="image/svg+xml"/>
-    <item href="images/herps/Order_Testudines.xml" id="images__herps__Order_Testudines.xml" media-type="text/xml"/>
-      <item href="images/herps/Cover-Red-eared_Slider.jpg" id="images__reptiles__Cover-Red-eared_Slider.jpg" media-type="image/jpeg"/>
-      <item href="images/herps/Cover-Red-eared_Slider.xml" id="images__reptiles__Cover-Red-eared_Slider.xml" media-type="text/xml"/>
-      <item href="images/herps/Cover-Western_Pond_Turtle.jpg" id="images__reptiles__Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>
-      <item href="images/herps/Cover-Western_Pond_Turtle.xml" id="images__reptiles__Cover-Western_Pond_Turtle.xml" media-type="text/xml"/>
-<!-- end herp species profile cover images -->
+
 
     <!-- appendix -->
     <item href="ToC-APX.xhtml" id="apx__ToC" media-type="application/xhtml+xml"/>
