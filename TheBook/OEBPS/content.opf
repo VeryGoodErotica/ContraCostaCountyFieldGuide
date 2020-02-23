@@ -180,6 +180,7 @@
     <!-- license texts -->
     <item href="licenses/Redistribution_Conditions.xhtml" id="apx__licenses__thiswork" media-type="application/xhtml+xml"/>
     <item href="licenses/CC_BY-SA_4_0.xhtml" id="apx__licenses__ccbysa4.0" media-type="application/xhtml+xml"/>
+    <item href="licenses/CC_BY-SA_3_0.xhtml" id="apx__licenses__ccbysa3.0" media-type="application/xhtml+xml"/>
     <item href="licenses/CC_BY_4_0.xhtml" id="apx__licenses__ccby4.0" media-type="application/xhtml+xml"/>
     <item href="licenses/CC0_1_0.xhtml" id="apx__licenses__cc01.0" media-type="application/xhtml+xml"/>
     <item href="licenses/Pixabay_20200218.xhtml" id="apx__licenses__pixabay" media-type="application/xhtml+xml"/>
@@ -236,6 +237,7 @@
     <itemref idref="apx__contributors__authour0"/>
     <itemref idref="apx__licenses__thiswork"/>
     <itemref idref="apx__licenses__ccbysa4.0"/>
+    <itemref idref="apx__licenses__ccbysa3.0"/>
     <itemref idref="apx__licenses__ccby4.0"/>
     <itemref idref="apx__licenses__cc01.0"/>
     <itemref idref="apx__licenses__pixabay"/>
