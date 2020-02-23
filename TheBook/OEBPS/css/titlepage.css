@@ -10,6 +10,7 @@ h2.thetagline {
   font-size: smaller;
 }
 h2.theedition {
+  font-size: 1.4em;
   text-align: center;
 }
 p.pubdate {
