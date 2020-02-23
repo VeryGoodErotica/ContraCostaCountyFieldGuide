@@ -12,6 +12,7 @@
     <dc:contributor id="contributor0">Christiane (Oldiefan)</dc:contributor>
     <dc:contributor id="contributor1">SVG SILH</dc:contributor>
     <dc:contributor id="contributor2">Sandeep Handa</dc:contributor>
+    <dc:contributor id="contributor3">Pierre Selim</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -21,8 +22,11 @@
     <!-- SVG SILH -->
     <meta property="role" refines="#contributor1" scheme="marc:relators">acp</meta>
     <!-- Sandeep Handa -->
-    <meta property="role" refines="#contributor2" scheme="marc:relatirs">pht</meta>
-    <meta property="role" refines="#contributor2" scheme="marc:relatirs">ill</meta>
+    <meta property="role" refines="#contributor2" scheme="marc:relators">pht</meta>
+    <meta property="role" refines="#contributor2" scheme="marc:relators">ill</meta>
+    <!-- Pierre Selim -->
+    <meta property="role" refines="#contributor3" scheme="marc:relators">pht</meta>
+    <!-- end contributor refines -->
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
     <meta property="dcterms:modified">2020-02-16T20:13:21Z</meta>
