@@ -9,6 +9,9 @@ h2.thetagline {
 h2.theedition {
   text-align: center;
 }
+h2.theedition span.date {
+  font-size: smaller;
+}
 h2.thepublisher {
   text-align: center;
   font-weight: normal;
