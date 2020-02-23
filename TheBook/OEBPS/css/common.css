@@ -19,6 +19,16 @@ h1 {
   text-align: center;
 }
 
+figure.cover img {
+  display: block;
+  margin: auto;
+}
+
+figure.cover figcaption {
+  text-align: right;
+  font-style: italic;
+}
+
 .taxon {
   font-style: italic;
 }
