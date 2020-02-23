@@ -44,6 +44,7 @@
     <!-- css -->
     <item href="css/fonts.css" id="css__fonts" media-type="text/css"/>
     <item href="css/common.css" id="css__common" media-type="text/css"/>
+    <item href="css/titlepage.css" id="css__titlepage" media-type="text/css"/>
     <item href="css/license.css" id="css__license" media-type="text/css"/>
     <item href="css/taxon_herps.css" id="css__taxon__herps" media-type="text/css"/>
     <item href="css/taxon_birds.css" id="css__taxon__birds" media-type="text/css"/>
@@ -62,7 +63,7 @@
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
     
          <!-- beginning of non-appendix spine content -->
-
+    <item href="TitlePage.xhtml" id="TITLE" media-type="application/xhtml+xml"/>
     <item href="ToC-CONTENT.xhtml" id="toc__simplified" media-type="application/xhtml+xml"/>
 <!-- herps -->
     <item href="SpeciesProfiles/Herps/Herps.xhtml" id="taxon__herps__herps" media-type="application/xhtml+xml"/>
@@ -187,6 +188,7 @@
     <item href="licenses/Apache_License_2_0.xhtml" id="apx__licenses__apache2.0" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
+    <itemref idref="TITLE"/>
     <itemref idref="toc__simplified"/>
 <!-- herps -->
     <itemref idref="taxon__herps__herps"/>
