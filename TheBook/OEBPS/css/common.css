@@ -27,6 +27,7 @@ figure.cover img {
 figure.cover figcaption {
   text-align: right;
   font-style: italic;
+  font-size: smaller;
 }
 
 .taxon {
