@@ -13,6 +13,7 @@
     <dc:contributor id="contributor1">SVG SILH</dc:contributor>
     <dc:contributor id="contributor2">Sandeep Handa</dc:contributor>
     <dc:contributor id="contributor3">Pierre Selim</dc:contributor>
+    <dc:contributor id="contributor4">Bishnu Sarangi</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -26,6 +27,8 @@
     <meta property="role" refines="#contributor2" scheme="marc:relators">ill</meta>
     <!-- Pierre Selim -->
     <meta property="role" refines="#contributor3" scheme="marc:relators">pht</meta>
+    <!-- Bishnu Sarangi -->
+    <meta property="role" refines="#contributor4" scheme="marc:relators">pht</meta>
     <!-- end contributor refines -->
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
@@ -134,6 +137,8 @@
       <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images__birds__Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Snowy_Egret.jpg" id="images__birds__Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Snowy_Egret.xml" id="images__birds__Cover-Snowy_Egret.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Cattle_Egret.jpg" id="images__birds__Cover-Cattle_Egret.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Cattle_Egret.xml" id="images__birds__Cover-Cattle_Egret.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-American_Bittern.jpg" id="images__birds__Cover-American_Bittern.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-American_Bittern.xml" id="images__birds__Cover-American_Bittern.xml" media-type="text/xml"/>
       <!-- Technically Suliformes -->
