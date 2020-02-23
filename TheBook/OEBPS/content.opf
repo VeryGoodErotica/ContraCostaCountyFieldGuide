@@ -153,6 +153,8 @@
     <item href="images/birds/Cover-Common_Merganser.xml" id="images__birds__Common_Merganser.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
+    <item href="images/birds/Cover-Northern_Mockingbird.jpg" id="images__birds__Northern_Mockingbird.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Northern_Mockingbird.xml" id="images__birds__Northern_Mockingbird.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images__birds__Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images__birds__Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Yellow-rumped_Warbler.jpg" id="images__birds__Cover-Yellow-rumped_Warbler.jpg" media-type="image/jpeg"/>
