@@ -9,7 +9,8 @@ h2.thetagline {
 h2.theedition {
   text-align: center;
 }
-h2.theedition span.date {
+p.pubdate {
+  text-align: center;
   font-size: smaller;
 }
 h2.thepublisher {
