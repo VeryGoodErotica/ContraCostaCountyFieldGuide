@@ -98,6 +98,7 @@
       <item href="SpeciesProfiles/Birds/Great_Blue_Heron.xhtml" id="taxon__birds__gbheron" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Great_Egret.xhtml" id="taxon__birds__greategret" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Snowy_Egret.xhtml" id="taxon__birds__snowy" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Cattle_Egret.xhtml" id="taxon__birds__cattle" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/American_Bittern.xhtml" id="taxon__birds__ambittern" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Double-crested_Cormorant.xhtml" id="taxon__birds__dblcorm" media-type="application/xhtml+xml"/>
     <!-- pigeons and doves -->
@@ -227,6 +228,7 @@
     <itemref idref="taxon__birds__gbheron"/>
     <itemref idref="taxon__birds__greategret"/>
     <itemref idref="taxon__birds__snowy"/>
+    <itemref idref="taxon__birds__cattle"/>
     <itemref idref="taxon__birds__ambittern"/>
     <itemref idref="taxon__birds__dblcorm"/>
 <!-- pigeons and doves -->
