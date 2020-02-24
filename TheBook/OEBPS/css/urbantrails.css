@@ -1,3 +1,8 @@
+section#accessibility h2::before {
+  font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
+  content: "♿ ";
+}
+
 div.poem p {
   font-size: 1.1em;
   text-align: center;
