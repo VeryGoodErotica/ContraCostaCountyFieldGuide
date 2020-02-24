@@ -70,6 +70,7 @@
     <item href="TitlePage.xhtml" id="TITLE" media-type="application/xhtml+xml"/>
     <item href="ToC-CONTENT.xhtml" id="toc__simplified" media-type="application/xhtml+xml"/>
     <item href="Introduction.xhtml" id="INTRO" media-type="application/xhtml+xml"/>
+    <item href="Structure.xhtml" id="STRUCTURE" media-type="application/xhtml+xml"/>
 <!-- herps -->
     <item href="SpeciesProfiles/Herps/Herps.xhtml" id="taxon__herps__herps" media-type="application/xhtml+xml"/>
     <!-- frogs -->
@@ -205,6 +206,7 @@
     <itemref idref="TITLE"/>
     <itemref idref="toc__simplified"/>
     <itemref idref="INTRO"/>
+    <itemref idref="STRUCTURE"/>
 <!-- herps -->
     <itemref idref="taxon__herps__herps"/>
 <!-- frogs -->
