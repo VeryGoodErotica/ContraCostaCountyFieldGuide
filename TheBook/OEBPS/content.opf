@@ -51,6 +51,7 @@
     <item href="css/license.css" id="css__license" media-type="text/css"/>
     <item href="css/taxon_herps.css" id="css__taxon__herps" media-type="text/css"/>
     <item href="css/taxon_birds.css" id="css__taxon__birds" media-type="text/css"/>
+    <item href="css/urbantrails.css" id="css__urbantrails" media-type="text/css"/>
     <!-- fonts -->
     <item href="fonts/ClearSans-Regular-wlatin.ttf" id="font.ClearSans.Regular" media-type="font/otf"/>
     <item href="fonts/ClearSans-Bold-wlatin.ttf" id="font.ClearSans.Bold" media-type="font/otf"/>
