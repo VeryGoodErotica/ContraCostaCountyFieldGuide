@@ -52,3 +52,8 @@ div.aplhgroup p {
 .ssq::after {
   content: "’";
 }
+
+h3.a11y::after {
+  font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
+  content: " ♿";
+}

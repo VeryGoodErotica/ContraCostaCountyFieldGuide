@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package unique-identifier="prng-uuid" version="3.0" xml:lang="en-US" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Contra Costa County - A Field Guide for the Living</dc:title>
-    <dc:description>A field guide for all living organsisms within Contra Costa County, California.</dc:description>
+    <dc:title>Macro Organisms of Contra Costa County</dc:title>
+    <dc:description>A digital Field Guide for Many Living Things</dc:description>
     <dc:type>Nature</dc:type>
     <dc:language>en-US</dc:language>
     <dc:publisher>Pipfrosch Press</dc:publisher>
