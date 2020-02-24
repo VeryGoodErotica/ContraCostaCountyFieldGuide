@@ -25,6 +25,11 @@ h1 {
   text-align: center;
 }
 
+section h3::before {
+  font-family: 'Clear Sans', sans-serif;
+  content: "§ ";
+}
+
 figure.cover img {
   display: block;
   margin: auto;
