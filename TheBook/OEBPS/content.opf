@@ -112,6 +112,7 @@
 <!-- end birds -->
 
 <!-- urban trails -->
+    <item href="UrbanTrails/UrbanTrails.xhtml" id="urbantrails__urbantrails" media-type="application/xhtml+xml"/>
     <item href="UrbanTrails/MarshCreek_SunsetRd_DeltaRd.xhtml" id="urbantrails__mctsd" media-type="application/xhtml+xml"/>
 
     <!-- end of non-appendix spine content -->
@@ -247,6 +248,7 @@
 <!-- end birds -->
 
 <!-- urban trails -->
+    <itemref idref="urbantrails__urbantrails"/>
     <itemref idref="urbantrails__mctsd"/>
 
     <!-- appendix -->
