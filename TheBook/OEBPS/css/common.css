@@ -2,6 +2,15 @@ body {
   font-family: 'Clear Sans', sans-serif;
 }
 
+p {
+  widows: 1;
+  orphans: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
 div.taxonhgroup h1 {
   text-align: center;
 }
@@ -10,10 +19,7 @@ div.taxonhgroup h2 {
   text-align: center;
 }
 
-p {
-  widows: 1;
-  orphans: 1;
-}
+
 
 h1 {
   text-align: center;

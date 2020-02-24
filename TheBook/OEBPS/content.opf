@@ -110,6 +110,10 @@
       <item href="SpeciesProfiles/Birds/Annas_Hummingbird.xhtml" id="taxon__birds__annas" media-type="application/xhtml+xml"/>
     <!-- end swifts and hummingbirds -->
 <!-- end birds -->
+
+<!-- urban trails -->
+    <item href="UrbanTrails/MarshCreek_SunsetRd_DeltaRd.xhtml" id="urbantrails__mctsd" media-type="application/xhtml+xml"/>
+
     <!-- end of non-appendix spine content -->
 
     <!-- herp species profile cover images -->
@@ -241,6 +245,9 @@
     <itemref idref="taxon__birds__annas"/>
 <!-- end swifts and hummingbirds -->
 <!-- end birds -->
+
+<!-- urban trails -->
+    <itemref idref="urbantrails__mctsd"/>
 
     <!-- appendix -->
     <itemref idref="apx__ToC"/>
