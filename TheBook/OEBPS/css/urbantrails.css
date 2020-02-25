@@ -3,6 +3,11 @@ section#accessibility h2::before {
   content: "♿ ";
 }
 
+h3.ally::after {
+  font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
+  content: " ♿";
+}
+
 div.poem p {
   font-size: 1.1em;
   text-align: center;
