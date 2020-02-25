@@ -184,7 +184,10 @@
     <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
     
-
+    <!-- Urban Trails -->
+    <!-- Marsh Creek -->
+    <item href="images/UrbanTrails/HomecomingPark.jpg" id="images__urbantrails__HomecomingPark.jpg" media-type="image/jpeg"/>
+    <item href="images/UrbanTrails/HomecomingPark.xml" id="images__urbantrails__HomecomingPark.xml" media-type="text/xml"/>
 
     <!-- appendix -->
     <item href="ToC-APX.xhtml" id="apx__ToC" media-type="application/xhtml+xml"/>
