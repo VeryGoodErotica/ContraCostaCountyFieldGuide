@@ -21,10 +21,12 @@
     <ul>
       <li><dfn class="dsq">Pipfrosch Press</dfn> at this time is not an actual legal entity. Until such time that it is, it refers to <span class="ssq">Michael A. Peters</span>, the arrogant bastard visionary behind this project.</li>
       <li><dfn class="dsq">The Complete Work</dfn> refers to the ePub file with the ePub <code>unique-identifier</code> of <code class="dsq">c0957b2a-f6e8-4105-842e-2ab89264e978</code> whether or not there is an associated <abbr title="International Standard Book Number">ISBN</abbr> identifier.</li>
-      <li><dfn class="dsq">The <abbr>OPF</abbr> File</dfn> refers to the file <code class="dsq">OEBPS/content.opf</code> file within the ePub archive.</li>
-      <li><dfn class="dsq">The Title Page</dfn> refers to the very first file listed within the <code>&lt;spine&gt;</code> node of <span class="ssq">The <abbr>OPF</abbr> File</span>.</li>
+      <li><dfn class="dsq">The <abbr>OPF</abbr> File</dfn> refers to the <code class="dsq">OEBPS/content.opf</code> file within the ePub archive.</li>
+      <li><dfn class="dsq">The Title Page</dfn> refers to the file <code class="dsq">OEBPS/TitlePage.xhtml</code> file within the ePub archive.</li>
+      <li><dfn class="dsq">The Complete <abbr>ToC</abbr></dfn> refers to the file <code class="dsq">OEBPS/TOC.xhtml</code> file within the ePub archive. Even though it is an <abbr>XHTML</abbr> file, it is <em>not</em> referenced in The <spac class="ssq"><abbr>OPF</abbr> File</dfn></span> <code>&lt;spine&gt;</code> node. It exists as metadata for ePub viewers.</li>
       <li><dfn class="dsq">Metadata Files</dfn> include the following:<ul>
         <li>The <abbr>OPF</abbr> File.</li>
+        <li>The Complete <abbr>ToC</abbr>.</li>
         <li>All contents of the <code class="dsq">META-INF</code> directory within the ePub archive.</li>
         <li>All files listet within <span class="ssq">The <abbr>OPF</abbr> File</span> <code>&lt;manifest&gt;</code> node that specifically have a <code>media-type="text/xml"</code> attribute.</li>
       </ul></li>
