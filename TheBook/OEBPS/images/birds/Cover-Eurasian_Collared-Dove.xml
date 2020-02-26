@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>55ae8234-4f7d-4098-8b89-8e100c65508d.jpg</original>
-    <checksum algo="sha256">5f53fd9b6966fb7013c75615302f320f962a5664685e412db999586b74f1dcea</checksum>
-    <flaws>Photo is not from Contra Costa County</flaws>
-    <creator type="photographer">
-      <name>Christiane (Oldiefan)</name>
-      <source>https://pixabay.com/photos/animal-bird-dove-collared-4778532/</source>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-    </creator>
-    <modifier>
-      <name>Michael A. Peters</name>
-      <modification>Crop and scale to 1024x square</modification>
-    </modifier>
-    <taxons>
-        <taxon>
-            <common>Eurasian Collared-Dove</common>
-            <latin>Streptopelia decaocto</latin>
-        </taxon>
-    </taxons>
-    <image>
-        <mime>image/jpeg</mime>
-        <resolution>1024x1024</resolution>
-        <alt>An adult Eurasian Collared-Dove perched on a branch.</alt>
-        <description>An adult Eurasian Collard-Dove is perched on a branch showing off its breast and part of its right profile. The black partial collar that easily distinguishes this bird from Mourning Doves is clearly visible.</description>
-    </image>
-    <camera>
-        <brand>Panasonic</brand>
-        <model>Panasonic DMC-Fz200</model>
-        <focallength>101.4 mm</focallength>
-        <shutterspeed>1/400</shutterspeed>
-        <aperture>f/4.0</aperture>
-        <iso>160</iso>
-        <timestamp>2018-06-08</timestamp>
-    </camera>
+  <original>55ae8234-4f7d-4098-8b89-8e100c65508d.jpg</original>
+  <checksum algo="sha256">5f53fd9b6966fb7013c75615302f320f962a5664685e412db999586b74f1dcea</checksum>
+  <flaws>Photo is not from Contra Costa County</flaws>
+  <creator type="photographer">
+    <name>Christiane (Oldiefan)</name>
+    <source>https://pixabay.com/photos/animal-bird-dove-collared-4778532/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2018-06-08</date>
+  </creator>
+  <modifier>
+    <name>Michael A. Peters</name>
+    <modification>Crop and scale to 1024x square</modification>
+  </modifier>
+  <taxons>
+    <taxon>
+      <common>Eurasian Collared-Dove</common>
+      <latin>Streptopelia decaocto</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>An adult Eurasian Collared-Dove perched on a branch.</alt>
+    <description>An adult Eurasian Collard-Dove is perched on a branch showing off its breast and part of its right profile. The black partial collar that easily distinguishes this bird from Mourning Doves is clearly visible.</description>
+  </image>
+  <camera>
+    <brand>Panasonic</brand>
+    <model>Panasonic DMC-Fz200</model>
+    <focallength>101.4 mm</focallength>
+    <shutterspeed>1/400</shutterspeed>
+    <aperture>f/4.0</aperture>
+    <iso>160</iso>
+  </camera>
 </Resource>

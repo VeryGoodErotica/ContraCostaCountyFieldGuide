@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>e6b4fd63-061c-455c-86fa-065df03a2ce5.jpg</original>
-    <flaws>Photo is not from Contra Costa County</flaws>
-    <creator type="photographer">
-      <name>Sandeep Handa</name>
-      <source>https://pixabay.com/photos/homing-pigeon-pigeon-2727563/</source>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Domestic Rock Pigeon</common>
-            <latin>Columba livia domestica</latin>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Profile of an adult domestic rock pigeon.</alt>
-        <description>Profile of an adult domestic rock pigeon.</description>
-    </image>
-    <camera>
-        <brand>Nikon</brand>
-        <model>D5600</model>
-        <focallength>210 mm</focallength>
-        <shutterspeed>1/250</shutterspeed>
-        <aperture>f/6.3</aperture>
-        <iso>400</iso>
-        <timestamp>2017-09-08</timestamp>
-    </camera>
+  <original>e6b4fd63-061c-455c-86fa-065df03a2ce5.jpg</original>
+  <flaws>Photo is not from Contra Costa County</flaws>
+  <creator type="photographer">
+    <name>Sandeep Handa</name>
+    <source>https://pixabay.com/photos/homing-pigeon-pigeon-2727563/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2017-09-08</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Domestic Rock Pigeon</common>
+      <latin>Columba livia domestica</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Profile of an adult domestic rock pigeon.</alt>
+    <description>Profile of an adult domestic rock pigeon.</description>
+  </image>
+  <camera>
+    <brand>Nikon</brand>
+    <model>D5600</model>
+    <focallength>210 mm</focallength>
+    <shutterspeed>1/250</shutterspeed>
+    <aperture>f/6.3</aperture>
+    <iso>400</iso>
+  </camera>
 </Resource>
