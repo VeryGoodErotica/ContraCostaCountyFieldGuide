@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>c631213f-c7e4-4f83-8273-78d077b815db.CR2</original>
-    <checksum algo="sha256">6de3bfe30703c288e2091938e7211212670f205a801bc1ada1f04d9f0378e443</checksum>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC BY-SA 4.0</license>
-      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Northern Mockingbird</common>
-            <latin>Mimus polyglottos</latin>
-            <inaturalist>39042128</inaturalist>
-            <county>Contra Costa County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <mime>image/jpeg</mime>
-        <resolution>1024x1024</resolution>
-        <alt>Underside profile view of an adult Northern Mockingbird</alt>
-        <description>The view from beneath of a Northern Mockingbird perched high in a tree. The breast of the Mocking Bird is clearly visible, as is the lower part of the left wing including the white bars. The head of the Mocking Bird is turned back showing the right eye.</description>
-    </image>
-    <camera>
-        <brand>Canon</brand>
-        <model>Canon EOS 7D</model>
-        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
-        <focallength>300.0 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/1000</shutterspeed>
-        <aperture>5.38 EV (f/6.4)</aperture>
-        <iso>400</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-20T08:27:29-08:00</timestamp>
-    </camera>
+  <original>c631213f-c7e4-4f83-8273-78d077b815db.CR2</original>
+  <checksum algo="sha256">6de3bfe30703c288e2091938e7211212670f205a801bc1ada1f04d9f0378e443</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-20</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Northern Mockingbird</common>
+      <latin>Mimus polyglottos</latin>
+      <inaturalist>39042128</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Underside profile view of an adult Northern Mockingbird</alt>
+    <description>The view from beneath of a Northern Mockingbird perched high in a tree. The breast of the Mocking Bird is clearly visible, as is the lower part of the left wing including the white bars. The head of the Mocking Bird is turned back showing the right eye.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1000</shutterspeed>
+    <aperture>5.38 EV (f/6.4)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-20T08:27:29-08:00</timestamp>
+  </camera>
 </Resource>

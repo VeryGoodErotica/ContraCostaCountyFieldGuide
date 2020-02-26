@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>10e4a06b-a54d-4e68-848e-04c7c84e2316.jpg</original>
-    <checksum algo="sha256">fd967623a7e49cdb93a14b4ff1ca79c32ed8faed99f87e97b1a7fe6357dac591</checksum>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-    </creator>
-    <image>
-        <mime>image/jpeg</mime>
-        <resolution>1024x574</resolution>
-        <alt>Photograph of Homecoming Park</alt>
-        <description>Photograph of Homecoming Park</description>
-    </image>
-    <camera>
-        <brand>Google</brand>
-        <model>Pixel 3 XL</model>
-        <focallength>4.4 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/1957</shutterspeed>
-        <aperture>1.70 EV (f/1.8)</aperture>
-        <iso>52</iso>
-        <flash>null</flash>
-        <timestamp>2019-11-23T13:26:14-08:00</timestamp>
-    </camera>
+  <original>10e4a06b-a54d-4e68-848e-04c7c84e2316.jpg</original>
+  <checksum algo="sha256">fd967623a7e49cdb93a14b4ff1ca79c32ed8faed99f87e97b1a7fe6357dac591</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2019-11-23</date>
+  </creator>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x574</resolution>
+    <alt>Photograph of Homecoming Park</alt>
+    <description>Photograph of Homecoming Park</description>
+  </image>
+  <camera>
+    <brand>Google</brand>
+    <model>Pixel 3 XL</model>
+    <focallength>4.4 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1957</shutterspeed>
+    <aperture>1.70 EV (f/1.8)</aperture>
+    <iso>52</iso>
+    <flash>null</flash>
+    <timestamp>2019-11-23T13:26:14-08:00</timestamp>
+  </camera>
 </Resource>

@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>c6eb2698-a565-430d-8254-bd7bfddecc92.CR2</original>
-    <checksum algo="sha256">148bae81f14d14d5bb90ba8cf7a9107f5e1506c6aa4444549c6235a30a9fd2bc</checksum>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC BY-SA 4.0</license>
-      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Yellow-rumped Warbler</common>
-            <latin>Setophaga coronata</latin>
-            <inaturalist>38697433</inaturalist>
-            <county>Contra Costa County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <mime>image/jpeg</mime>
-        <resolution>1024x1024</resolution>
-        <alt>Yellow-rumped Warbler perched on a branch</alt>
-        <description>An adult Yellow-rumped Warbler is perched on a bare fruit tree branch, showing the bird’s left side. The yellow rump that gives the species its name is visible, as well as a small patch of yellow on the throat below the beak.</description>
-    </image>
-    <camera>
-        <brand>Canon</brand>
-        <model>Canon EOS 7D</model>
-        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
-        <focallength>300.0 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/1250</shutterspeed>
-        <aperture>6.62 EV (f/9.9)</aperture>
-        <iso>400</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-15T15:16:32-08:00</timestamp>
-    </camera>
+  <original>c6eb2698-a565-430d-8254-bd7bfddecc92.CR2</original>
+  <checksum algo="sha256">148bae81f14d14d5bb90ba8cf7a9107f5e1506c6aa4444549c6235a30a9fd2bc</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-15</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Yellow-rumped Warbler</common>
+      <latin>Setophaga coronata</latin>
+      <inaturalist>38697433</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Yellow-rumped Warbler perched on a branch</alt>
+    <description>An adult Yellow-rumped Warbler is perched on a bare fruit tree branch, showing the bird’s left side. The yellow rump that gives the species its name is visible, as well as a small patch of yellow on the throat below the beak.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1250</shutterspeed>
+    <aperture>6.62 EV (f/9.9)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-15T15:16:32-08:00</timestamp>
+  </camera>
 </Resource>

@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>60392b63-35b7-42aa-8103-ecc31a4ccd5e.CR2</original>
-    <checksum algo="sha256">cd198e2def4260310fc83e295818ab1d9341d716beca5492d96d37511dcfdfa1</checksum>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC BY-SA 4.0</license>
-      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>White-crowned Sparrow</common>
-            <latin>Zonotrichia leucophrys</latin>
-            <inaturalist>38698734</inaturalist>
-            <county>Contra Costa County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <mime>image/jpeg</mime>
-        <resolution>1024x1024</resolution>
-        <alt>An adult and immature White-crowned Sparrow perched in a thicket.</alt>
-        <description>Two White-crowned Sparrows, an immature adult and an adult, perched within a dry shrub that has not yet grown spring leaves. The yellow beaks characteristic of this bird in Contra Costa County is easily discernible. The tan head streaks of the juvenile is well contrasted with the black head streaks of the adult.</description>
-    </image>
-    <camera>
-        <brand>Canon</brand>
-        <model>Canon EOS 7D</model>
-        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
-        <focallength>300.0 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/1250</shutterspeed>
-        <aperture>5.62 EV (f/7.0)</aperture>
-        <iso>400</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-15T15:40:49-08:00</timestamp>
-    </camera>
+  <original>60392b63-35b7-42aa-8103-ecc31a4ccd5e.CR2</original>
+  <checksum algo="sha256">cd198e2def4260310fc83e295818ab1d9341d716beca5492d96d37511dcfdfa1</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-15</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>White-crowned Sparrow</common>
+      <latin>Zonotrichia leucophrys</latin>
+      <inaturalist>38698734</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>An adult and immature White-crowned Sparrow perched in a thicket.</alt>
+    <description>Two White-crowned Sparrows, an immature adult and an adult, perched within a dry shrub that has not yet grown spring leaves. The yellow beaks characteristic of this bird in Contra Costa County is easily discernible. The tan head streaks of the juvenile is well contrasted with the black head streaks of the adult.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1250</shutterspeed>
+    <aperture>5.62 EV (f/7.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-15T15:40:49-08:00</timestamp>
+  </camera>
 </Resource>

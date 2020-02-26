@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>fc44088a-bd77-4fdf-8078-9183d096efa5.jpg</original>
-    <checksum algo="sha256">997242bfe0effa97f3d1044128ae5be827a2d1ad457c3659b808904ac0a27e77</checksum>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-    </creator>
-    <image>
-        <mime>image/jpeg</mime>
-        <resolution>1024x650</resolution>
-        <alt>Photograph of Tresch Road Parking Lot</alt>
-        <description>Photograph of Tresch Road Parking Lot</description>
-    </image>
-    <camera>
-        <brand>Google</brand>
-        <model>Pixel 3 XL</model>
-        <focallength>4.4 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/3356</shutterspeed>
-        <aperture>1.70 EV (f/1.8)</aperture>
-        <iso>70</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-24T09:57:27-08:00</timestamp>
-    </camera>
+  <original>fc44088a-bd77-4fdf-8078-9183d096efa5.jpg</original>
+  <checksum algo="sha256">997242bfe0effa97f3d1044128ae5be827a2d1ad457c3659b808904ac0a27e77</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2020-02-24</date>
+  </creator>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x650</resolution>
+    <alt>Photograph of Tresch Road Parking Lot</alt>
+    <description>Photograph of Tresch Road Parking Lot</description>
+  </image>
+  <camera>
+    <brand>Google</brand>
+    <model>Pixel 3 XL</model>
+    <focallength>4.4 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/3356</shutterspeed>
+    <aperture>1.70 EV (f/1.8)</aperture>
+    <iso>70</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-24T09:57:27-08:00</timestamp>
+  </camera>
 </Resource>

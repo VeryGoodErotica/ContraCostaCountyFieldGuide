@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>aca3e7a3-98d7-40e0-8acd-856c1777767d.CR2</original>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC BY-SA 4.0</license>
-      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Common merganser</common>
-            <latin>Mergus merganser</latin>
-            <inaturalist>39041645</inaturalist>
-            <county>Contra Costa County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Profile view of an adult Common Merganser</alt>
-        <description>The left profile of an adult male Common Merganser is shown, swimming in water.</description>
-    </image>
-    <camera>
-        <brand>Canon</brand>
-        <model>Canon EOS 7D</model>
-        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
-        <focallength>300.0 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/1000</shutterspeed>
-        <aperture>5.38 EV (f/6.4)</aperture>
-        <iso>400</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-20T07:53:15-08:00</timestamp>
-    </camera>
+  <original>aca3e7a3-98d7-40e0-8acd-856c1777767d.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-20</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Common merganser</common>
+      <latin>Mergus merganser</latin>
+      <inaturalist>39041645</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Profile view of an adult Common Merganser</alt>
+    <description>The left profile of an adult male Common Merganser is shown, swimming in water.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1000</shutterspeed>
+    <aperture>5.38 EV (f/6.4)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-20T07:53:15-08:00</timestamp>
+  </camera>
 </Resource>

@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>6d964715-065e-4516-8b87-c6f49acc2317.CR2</original>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC BY-SA 4.0</license>
-      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>California Ground Squirrel</common>
-            <latin>Otospermophilus beecheyi</latin>
-            <inaturalist>38697797</inaturalist>
-            <county>Contra Costa County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Side profile of an adult California Ground Squirrel.</alt>
-        <description>The left side of an adult California Ground Squirrel crouched on all fours on mostly barren ground with a small mound blocking the view of the squirrel’s feet.</description>
-    </image>
-    <camera>
-        <brand>Canon</brand>
-        <model>Canon EOS 7D</model>
-        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
-        <focallength>300.0 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/1250</shutterspeed>
-        <aperture>6.00 EV (f/8.0)</aperture>
-        <iso>400</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-15T15:27:13-08:00</timestamp>
-    </camera>
+  <original>6d964715-065e-4516-8b87-c6f49acc2317.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-15</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>California Ground Squirrel</common>
+      <latin>Otospermophilus beecheyi</latin>
+      <inaturalist>38697797</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Side profile of an adult California Ground Squirrel.</alt>
+    <description>The left side of an adult California Ground Squirrel crouched on all fours on mostly barren ground with a small mound blocking the view of the squirrel’s feet.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1250</shutterspeed>
+    <aperture>6.00 EV (f/8.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-15T15:27:13-08:00</timestamp>
+  </camera>
 </Resource>
