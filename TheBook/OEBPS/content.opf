@@ -192,6 +192,8 @@
     <item href="images/UrbanTrails/TreschRdLot.xml" id="images__urbantrails__TreschRdLot.xml" media-type="text/xml"/>
     <item href="images/UrbanTrails/SunsetRdEntrance.jpg" id="images__urbantrails__SunsetRdEntrance.jpg" media-type="image/jpeg"/>
     <item href="images/UrbanTrails/SunsetRdEntrance.xml" id="images__urbantrails__SunsetRdEntrance.xml" media-type="text/xml"/>
+    <item href="images/UrbanTrails/SunsetAthleticEntrance.jpg" id="images__urbantrails__SunsetAthleticEntrance.jpg" media-type="image/jpeg"/>
+    <item href="images/UrbanTrails/SunsetAthleticEntrance.xml" id="images__urbantrails__SunsetAthleticEntrance.xml" media-type="text/xml"/>
 
     <!-- appendix -->
     <item href="ToC-APX.xhtml" id="apx__ToC" media-type="application/xhtml+xml"/>
