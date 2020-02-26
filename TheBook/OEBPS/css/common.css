@@ -52,15 +52,15 @@ figcaption#coverfigcaption {
   font-style: italic;
 }
 
-span.imagelic {
+span.photolic {
   display: block;
   text-align: right;
   font-style: italic;
   font-size: smaller;
 }
 
-span.imagelic::before {
-  content: "image ";
+span.photolic::before {
+  content: "photo ";
 }
 
 span.vectorlic {
