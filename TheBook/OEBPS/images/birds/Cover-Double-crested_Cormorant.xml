@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>37348969-d41f-4d68-8abf-f0b48a109137.CR2</original>
-    <checksum algo="sha256">72879d5df59ba379ded28b03bee0f7321dcec5438761e851e44d01ff1c94f1ef</checksum>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC BY-SA 4.0</license>
-      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Double-crested Cormorant</common>
-            <latin>Phalacrocorax auritus</latin>
-            <inaturalist>38784220</inaturalist>
-            <county>Contra Costa County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <mime>image/jpeg</mime>
-        <resolution>1024x1024</resolution>
-        <alt>Profile view of Double-crested Cormorant in water</alt>
-        <description>A profile view of the right side of a Double-crested Cormorant floating in water with its back just barely above the surface. The yellow pigment at the back of the bill and just in front of the eye that easily distinguishes this species is clearly visible.</description>
-    </image>
-    <camera>
-        <brand>Canon</brand>
-        <model>Canon EOS 7D</model>
-        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
-        <focallength>300.0 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/1600</shutterspeed>
-        <aperture>5.00 EV (f/5.7)</aperture>
-        <iso>400</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-17T15:12:17-08:00</timestamp>
-    </camera>
+  <original>37348969-d41f-4d68-8abf-f0b48a109137.CR2</original>
+  <checksum algo="sha256">72879d5df59ba379ded28b03bee0f7321dcec5438761e851e44d01ff1c94f1ef</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-17</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Double-crested Cormorant</common>
+      <latin>Phalacrocorax auritus</latin>
+      <inaturalist>38784220</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Profile view of Double-crested Cormorant in water</alt>
+    <description>A profile view of the right side of a Double-crested Cormorant floating in water with its back just barely above the surface. The yellow pigment at the back of the bill and just in front of the eye that easily distinguishes this species is clearly visible.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1600</shutterspeed>
+    <aperture>5.00 EV (f/5.7)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-17T15:12:17-08:00</timestamp>
+  </camera>
 </Resource>

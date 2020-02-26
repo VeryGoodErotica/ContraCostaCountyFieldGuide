@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>555239c8-fadc-4f17-8a46-586f41f21149.jpg</original>
-    <flaws>Photo is not from Contra Costa County</flaws>
-    <creator type="photographer">
-      <name>Bishnu Sarangi</name>
-      <source>https://pixabay.com/photos/bird-cattle-egret-bubulcus-ibis-3121426/</source>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Cattle Egret</common>
-            <latin>Bubulcus ibis</latin>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Profile view of an adult Cattle Egret standing on barren ground.</alt>
-        <description>Profile view of an adult Cattle Egret standing on barren ground.</description>
-    </image>
-    <camera>
-        <brand>Sony</brand>
-        <model>Sony Dsc-Hx90v</model>
-        <focallength>82.7 mm</focallength>
-        <shutterspeed>1/400</shutterspeed>
-        <aperture>f/6.3</aperture>
-        <iso>80</iso>
-        <timestamp>2018-01-28</timestamp>
-    </camera>
+  <original>555239c8-fadc-4f17-8a46-586f41f21149.jpg</original>
+  <flaws>Photo is not from Contra Costa County</flaws>
+  <creator type="photographer">
+    <name>Bishnu Sarangi</name>
+    <source>https://pixabay.com/photos/bird-cattle-egret-bubulcus-ibis-3121426/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2018-01-28</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Cattle Egret</common>
+      <latin>Bubulcus ibis</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Profile view of an adult Cattle Egret standing on barren ground.</alt>
+    <description>Profile view of an adult Cattle Egret standing on barren ground.</description>
+  </image>
+  <camera>
+    <brand>Sony</brand>
+    <model>Sony Dsc-Hx90v</model>
+    <focallength>82.7 mm</focallength>
+    <shutterspeed>1/400</shutterspeed>
+    <aperture>f/6.3</aperture>
+    <iso>80</iso>
+  </camera>
 </Resource>

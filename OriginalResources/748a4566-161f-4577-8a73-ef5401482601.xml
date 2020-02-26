@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>748a4566-161f-4577-8a73-ef5401482601.CR2</original>
-    <flaws>The location of the sun results in part of the bird in shadow.</flaws>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC BY-SA 4.0</license>
-      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Great Blue Heron</common>
-            <latin>Ardea herodias</latin>
-            <inaturalist>38699505</inaturalist>
-            <county>Contra Costa County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Profile view of a Great Blue Heron</alt>
-        <description>An adult Great Blue Heron is standing in green grass with the Heron’s left side towards the camera.</description>
-    </image>
-    <camera>
-        <brand>Canon</brand>
-        <model>Canon EOS 7D</model>
-        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
-        <focallength>300.0 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/1250</shutterspeed>
-        <aperture>5.00 EV (f/5.7)</aperture>
-        <iso>400</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-15T15:46:57-08:00</timestamp>
-    </camera>
+  <original>748a4566-161f-4577-8a73-ef5401482601.CR2</original>
+  <flaws>The location of the sun results in part of the bird in shadow.</flaws>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-15</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Great Blue Heron</common>
+      <latin>Ardea herodias</latin>
+      <inaturalist>38699505</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Profile view of a Great Blue Heron</alt>
+    <description>An adult Great Blue Heron is standing in green grass with the Heron’s left side towards the camera.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1250</shutterspeed>
+    <aperture>5.00 EV (f/5.7)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-15T15:46:57-08:00</timestamp>
+  </camera>
 </Resource>
