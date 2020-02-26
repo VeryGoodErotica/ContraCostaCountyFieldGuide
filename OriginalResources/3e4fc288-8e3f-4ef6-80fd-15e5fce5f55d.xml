@@ -3,15 +3,13 @@
   <original>3e4fc288-8e3f-4ef6-80fd-15e5fce5f55d.svg</original>
   <flaws>License needs to be verified by original artist</flaws>
   <creator type="illustrator">
-    <name>AntumDeluge via Clker-Free-Vector-Images</name>
-    <possibly>
-      <name>Jordan Irwin</name>
-      <url>https://antumdeluge.wordpress.com/about/</url>
-    </possibly>
+    <name>Jordan Irwin</name>
+    <url>https://antumdeluge.wordpress.com/about/</url>
     <source>http://www.clker.com/clipart-82399.html</source>
     <source>https://pixabay.com/vectors/salamander-amphibian-fauna-wildlife-42540/</source>
     <license>CC0</license>
     <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2011-01-02</date>
   </creator>
   <modifier>
     <name>svgsilh.com</name>
@@ -28,6 +26,5 @@
   <image>
     <alt>Vector art silhouette of a newt</alt>
     <description>Vector art silhouette of a newt</description>
-    <timestamp>2011</timestamp>
   </image>
 </Resource>
