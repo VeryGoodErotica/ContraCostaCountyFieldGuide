@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+    <original>106b2529-226e-45c5-8191-0211c2f348c2.jpg</original>
+    <checksum algo="sha256">7724782a60770fbf45a8d260125070c4295d078da59bddaaee97222f2a27a56b</checksum>
+    <creator type="photographer">
+      <name>Michael A. Peters</name>
+      <license>CC0</license>
+      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    </creator>
+    <image>
+        <mime>image/jpeg</mime>
+        <resolution>1024x570</resolution>
+        <alt>Photograph of Sunset Road Trail Entrance</alt>
+        <description>Photograph of Sunset Road Trail Entrance</description>
+    </image>
+    <camera>
+        <brand>Google</brand>
+        <model>Pixel 3 XL</model>
+        <focallength>4.4 mm</focallength>
+        <cameramount>handheld</cameramount>
+        <shutterspeed>1/2611</shutterspeed>
+        <aperture>1.70 EV (f/1.8)</aperture>
+        <iso>59</iso>
+        <flash>null</flash>
+        <timestamp>2020-02-24T09:46:56-08:00</timestamp>
+    </camera>
+</Resource>
