@@ -63,6 +63,13 @@ span.imagelic::before {
   content: "image ";
 }
 
+span.vectorlic {
+  display: block;
+  text-align: right;
+  font-style: italic;
+  font-size: smaller;
+}
+
 span.vectorlic::before {
   content: "ill. ";
 }
