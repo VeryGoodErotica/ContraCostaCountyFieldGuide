@@ -18,3 +18,13 @@ div.poem p.author {
   font-style: italic;
   text-align: right;
 }
+
+figure.fullwidth figcaption {
+  text-align: right;
+  font-style: italic;
+  font-size: smaller;
+}
+
+figure.fullwidth figcaption::before {
+  content: "image ";
+}
