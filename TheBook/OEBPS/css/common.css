@@ -41,8 +41,15 @@ figure.cover figcaption {
   font-size: smaller;
 }
 
+/*
 figure.cover figcaption::before {
   content: "image ";
+}
+*/
+
+figcaption#coverfigcaption {
+  text-align: center;
+  font-style: italic;
 }
 
 span.imagelic {
@@ -54,6 +61,10 @@ span.imagelic {
 
 span.imagelic::before {
   content: "image ";
+}
+
+span.vectorlic::before {
+  content: "ill. ";
 }
 
 .taxon {
