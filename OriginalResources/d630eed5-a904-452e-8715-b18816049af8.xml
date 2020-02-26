@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>d630eed5-a904-452e-8715-b18816049af8.svg</original>
-    <creator type="photographer">
-      <name>svgsilh.com</name>
-      <source>https://svgsilh.com/image/1698966.html</source>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-      <note>https://pixabay.com/illustrations/turtle-animal-reptile-vintage-1698966/</note>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Turtles and Tortoises</common>
-            <latin>Anura</latin>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Vector art silhouette of a turtle</alt>
-        <description>Vector art silhouette of a turtle</description>
-    </image>
+  <original>d630eed5-a904-452e-8715-b18816049af8.svg</original>
+  <creator type="illustrator">
+    <name>Susann Mielke</name>
+    <url>https://pixabay.com/users/susannp4-1777190/</url>
+    <source>https://pixabay.com/illustrations/turtle-animal-reptile-vintage-1698966/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+  </creator>
+  <modifier>
+    <name>svgsilh.com</name>
+    <source>https://svgsilh.com/image/1698966.html</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+  </modifier>
+  <taxons>
+    <taxon>
+      <common>Turtles and Tortoises</common>
+      <latin>Testudines</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Vector art silhouette of a turtle</alt>
+    <description>Vector art silhouette of a turtle</description>
+    <timestamp>2016-09-29</timestamp>
+  </image>
 </Resource>
