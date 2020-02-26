@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>56d3f413-af34-4692-8855-9e93e33f9e77.svg</original>
-    <checksum algo="sha256">2dc65047ef519e1d8cfde923d0ccc96851c4b8acdb81e6d815fb4d0b3a5939b3</checksum>
-    <creator type="photographer">
-      <name>svgsilh.com</name>
-      <source>https://svgsilh.com/image/158334.html</source>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-      <note>https://pixabay.com/vectors/bird-hummer-hummingbird-158334/</note>
-    </creator>
-    <modifier>
-      <name>Michael A. Peters</name>
-      <modification>SVG code tweaks for ePub compatibility</modification>
-    </modifier>
-    <taxons>
-        <taxon>
-            <common>Swifts and Hummingbirds</common>
-            <latin>Apodiformes</latin>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Vector art silhouette of a hummingbird</alt>
-        <description>Vector art silhouette of a hummingbird</description>
-    </image>
+  <original>56d3f413-af34-4692-8855-9e93e33f9e77.svg</original>
+  <flaws>Original Artist Unknown</flaws>
+  <checksum algo="sha256">2dc65047ef519e1d8cfde923d0ccc96851c4b8acdb81e6d815fb4d0b3a5939b3</checksum>
+  <creator type="illustrator">
+    <name>Unknown via OpenClipart-Vectors</name>
+    <source>https://pixabay.com/vectors/bird-hummer-hummingbird-158334/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+  </creator>
+  <modifier>
+    <name>svgsilh.com</name>
+    <source>https://svgsilh.com/image/158334.html</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+  </modifier>
+  <modifier>
+    <name>Michael A. Peters</name>
+    <modification>SVG code tweaks for ePub compatibility</modification>
+  </modifier>
+  <taxons>
+    <taxon>
+      <common>Swifts and Hummingbirds</common>
+      <latin>Apodiformes</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Vector art silhouette of a hummingbird</alt>
+    <description>Vector art silhouette of a hummingbird</description>
+    <timestamp>2013-10-15</timestamp>
+  </image>
 </Resource>
