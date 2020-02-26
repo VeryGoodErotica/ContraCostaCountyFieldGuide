@@ -88,7 +88,12 @@ a.gls::before {
   content: "📓";
 }
 
-/* uncomment below for visual testing if missing abbr tags */
+/* uncomment below for visual testing of missing abbr tags */
 abbr {
   background-color: yellow;
+}
+
+/* uncomment below for visual testing of missing time tags */
+time {
+  background-color: lightblue;
 }
