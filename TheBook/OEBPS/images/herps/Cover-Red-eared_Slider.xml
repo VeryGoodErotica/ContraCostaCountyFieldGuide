@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>f73a4063-962d-4284-8aa2-0cbb62d18bce.CR2</original>
-    <checksum algo="sha256">1217d3fb6bc4e55e2843d2569703c925010f16e548d14dbeeef61cd13264c784</checksum>
-    <creator type="photographer">
-      <name>Michael A. Peters</name>
-      <license>CC BY-SA 4.0</license>
-      <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Red-eared Slider</common>
-            <latin>Trachemys scripta elegans</latin>
-            <inaturalist>38595516</inaturalist>
-            <county>Contra Costa County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <mime>image/jpeg</mime>
-        <resolution>1024x1024</resolution>
-        <alt>Profile view of an adult Red-eared Slider</alt>
-        <description>An adult Red-eared Slider is basking on rock at the edge of a creek. The specimen shown lacks the distinctive red pigment patch behind the eye but the short tail, black spots on the edge of the yellow plastron, and yellow stripes along the neck that make this species easy to identify are clearly shown.</description>
-    </image>
-    <camera>
-        <brand>Canon</brand>
-        <model>Canon EOS 7D</model>
-        <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
-        <focallength>300.0 mm</focallength>
-        <cameramount>handheld</cameramount>
-        <shutterspeed>1/640</shutterspeed>
-        <aperture>6.00 EV (f/8.0)</aperture>
-        <iso>400</iso>
-        <flash>null</flash>
-        <timestamp>2020-02-12T14:06:24-08:00</timestamp>
-    </camera>
+  <original>f73a4063-962d-4284-8aa2-0cbb62d18bce.CR2</original>
+  <checksum algo="sha256">1217d3fb6bc4e55e2843d2569703c925010f16e548d14dbeeef61cd13264c784</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-12</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Red-eared Slider</common>
+      <latin>Trachemys scripta elegans</latin>
+      <inaturalist>38595516</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Profile view of an adult Red-eared Slider</alt>
+    <description>An adult Red-eared Slider is basking on rock at the edge of a creek. The specimen shown lacks the distinctive red pigment patch behind the eye but the short tail, black spots on the edge of the yellow plastron, and yellow stripes along the neck that make this species easy to identify are clearly shown.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/640</shutterspeed>
+    <aperture>6.00 EV (f/8.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-12T14:06:24-08:00</timestamp>
+  </camera>
 </Resource>
