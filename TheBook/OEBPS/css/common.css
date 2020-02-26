@@ -87,3 +87,8 @@ a.gls::before {
   font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
   content: "📓";
 }
+
+/* uncomment below for visual testing if missing abbr tags */
+abbr {
+  background-color: yellow;
+}
