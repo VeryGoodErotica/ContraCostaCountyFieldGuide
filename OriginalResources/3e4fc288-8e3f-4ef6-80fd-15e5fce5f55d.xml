@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>3e4fc288-8e3f-4ef6-80fd-15e5fce5f55d.svg</original>
-    <creator type="photographer">
-      <name>svgsilh.com</name>
-      <source>https://svgsilh.com/image/42540.html</source>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-      <note>https://pixabay.com/vectors/salamander-amphibian-fauna-wildlife-42540/</note>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Salamanders and Newts</common>
-            <latin>Caudata</latin>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Vector art silhouette of a newt</alt>
-        <description>Vector art silhouette of a newt</description>
-    </image>
+  <original>3e4fc288-8e3f-4ef6-80fd-15e5fce5f55d.svg</original>
+  <flaws>License needs to be verified by original artist</flaws>
+  <creator type="illustrator">
+    <name>AntumDeluge via Clker-Free-Vector-Images</name>
+    <possibly>
+      <name>Jordan Irwin</name>
+      <url>https://antumdeluge.wordpress.com/about/</url>
+    </possibly>
+    <source>http://www.clker.com/clipart-82399.html</source>
+    <source>https://pixabay.com/vectors/salamander-amphibian-fauna-wildlife-42540/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+  </creator>
+  <modifier>
+    <name>svgsilh.com</name>
+    <source>https://svgsilh.com/image/42540.html</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+  </modifier>
+  <taxons>
+    <taxon>
+      <common>Salamanders and Newts</common>
+      <latin>Caudata</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Vector art silhouette of a newt</alt>
+    <description>Vector art silhouette of a newt</description>
+    <timestamp>2011</timestamp>
+  </image>
 </Resource>
