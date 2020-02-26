@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="illustration" xml:lang="en-US">
-    <original>2e72f21a-a087-450e-814f-e7a230f27f48.svg</original>
-    <flaw>Original artist can not be determined</flaw>
-    <creator type="illustrator">
-      <name>Erich via Clker-Free-Vector-Images</name>
-      <source>http://www.clker.com/clipart-frog-outline-animal.html</source>
-      <source>https://pixabay.com/en/frog-animal-reptile-outline-sit-frog-fro-305207/</source>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-      <date>2011-08-19</date>
-    </creator>
-    <modifier>
-      <name>svgsilh.com</name>
-      <source>https://svgsilh.com/image/305207.html</source>
-      <modification>Black silhouette</modification>
-      <license>CC0</license>
-      <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
-    </modifier>
-    <taxons>
-        <taxon>
-            <common>Frogs and Toads</common>
-            <latin>Anura</latin>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Vector art silhouette of a frog</alt>
-        <description>Vector art silhouette of a frog</description>
-    </image>
+  <original>2e72f21a-a087-450e-814f-e7a230f27f48.svg</original>
+  <flaw>Original artist can not be determined</flaw>
+  <creator type="illustrator">
+    <name>Erich via Clker-Free-Vector-Images</name>
+    <source>http://www.clker.com/clipart-frog-outline-animal.html</source>
+    <source>https://pixabay.com/en/frog-animal-reptile-outline-sit-frog-fro-305207/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2011-08-19</date>
+  </creator>
+  <modifier>
+    <name>svgsilh.com</name>
+    <source>https://svgsilh.com/image/305207.html</source>
+    <modification>Black silhouette</modification>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+  </modifier>
+  <taxons>
+    <taxon>
+      <common>Frogs and Toads</common>
+      <latin>Anura</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Vector art silhouette of a frog</alt>
+    <description>Vector art silhouette of a frog</description>
+  </image>
 </Resource>
