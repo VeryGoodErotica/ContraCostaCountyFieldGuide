@@ -19,11 +19,12 @@ div.poem p.author {
   text-align: right;
 }
 
+figure.fullwidth img {
+  display: block;
+  margin: auto;
+}
+
 figure.fullwidth figcaption {
   text-align: center;
   font-style: italic;
-}
-
-figure.fullwidth figcaption::before {
-  content: "image ";
 }
