@@ -46,6 +46,7 @@ figure.cover figcaption::before {
 }
 
 span.imagelic {
+  display: block;
   text-align: right;
   font-style: italic;
   font-size: smaller;

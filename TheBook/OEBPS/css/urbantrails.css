@@ -20,9 +20,8 @@ div.poem p.author {
 }
 
 figure.fullwidth figcaption {
-  text-align: right;
+  text-align: center;
   font-style: italic;
-  font-size: smaller;
 }
 
 figure.fullwidth figcaption::before {
