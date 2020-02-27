@@ -267,6 +267,7 @@
     <itemref idref="taxon__herps__testudines"/>
     <itemref idref="taxon__herps__wpt"/>
     <itemref idref="taxon__herps__res"/>
+    <itemref idref="taxon__herps__painted"/>
 <!-- end turtles -->
 <!-- end herps -->
 <!-- birds -->
