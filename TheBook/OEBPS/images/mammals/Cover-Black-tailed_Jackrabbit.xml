@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-  <original>6d964715-065e-4516-8b87-c6f49acc2317.CR2</original>
-  <checksum algo="sha256">3af6cf5d1c5db542822487c529909fc72c60ce398c518bba531120413781cf84</checksum>
+  <original>3a48f1d3-f6c1-46c5-8d32-3fc6dac47f68.CR2</original>
+  <checksum algo="sha256">464bee25a15a505f26f585fbbc04a91ea490037b1e0996191a4c5151f928d1e2</checksum>
+  <flaws>Does not fill the square enough, not very sharp</flaws>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>
     <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    <date>2020-02-15</date>
+    <date>2020-02-24</date>
   </creator>
   <taxons>
     <taxon>
-      <common>California Ground Squirrel</common>
-      <latin>Otospermophilus beecheyi</latin>
-      <inaturalist>38697797</inaturalist>
+      <common>Black-tailed Jackrabbit</common>
+      <latin>Lepus californicus</latin>
+      <inaturalist>39204207</inaturalist>
       <county>Contra Costa County, California</county>
     </taxon>
   </taxons>
   <image>
     <mime>image/jpeg</mime>
     <resolution>1024x1024</resolution>
-    <alt>Side profile of an adult California Ground Squirrel.</alt>
-    <description>The left side of an adult California Ground Squirrel crouched on all fours on mostly barren ground with a small mound blocking the view of the squirrel’s feet.</description>
+    <alt>Profile view of an adult Black-tailed Jackrabbit</alt>
+    <description>The left profile of an adult Black-tailed Jackrabbit is shown, with ears raised.</description>
   </image>
   <camera>
     <brand>Canon</brand>
@@ -28,10 +29,10 @@
     <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
     <focallength>300.0 mm</focallength>
     <cameramount>handheld</cameramount>
-    <shutterspeed>1/1250</shutterspeed>
-    <aperture>6.00 EV (f/8.0)</aperture>
+    <shutterspeed>1/1000</shutterspeed>
+    <aperture>5.38 EV (f/6.4)</aperture>
     <iso>400</iso>
     <flash>null</flash>
-    <timestamp>2020-02-15T15:27:13-08:00</timestamp>
+    <timestamp>2020-02-24T10:26:33-08:00</timestamp>
   </camera>
 </Resource>
