@@ -71,7 +71,7 @@ span.vectorlic {
 }
 
 span.vectorlic::before {
-  content: "ill. ";
+  content: "artwork ";
 }
 
 .taxon {
