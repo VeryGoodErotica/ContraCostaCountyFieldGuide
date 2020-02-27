@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>d85e2747-9ca2-40a1-839e-cb5cfa440b9f.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-27</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Wilson’s Snipe</common>
+      <latin>Gallinago delicata</latin>
+      <inaturalist>39289754</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Front view of an adult Wilson’s Snipe.</alt>
+    <description>The front view of an adult Wilson’s Snipe, partially camouflaged in the dead vegetation.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/640</shutterspeed>
+    <aperture>6.00 EV (f/8.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-27T08:56:59-08:00</timestamp>
+  </camera>
+</Resource>
