@@ -83,12 +83,16 @@
     <item href="SpeciesProfiles/Herps/Order_Anura.xhtml" id="taxon__herps__anura" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/California_Red-legged_Frog.xhtml" id="taxon__herps__crlf" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/American_Bullfrog.xhtml" id="taxon__herps__abf" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Herps/Sierran_Chorus_Frog.xhtml" id="taxon__herps__sierra" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Herps/Western_Toad.xhtml" id="taxon__herps__boreas" media-type="application/xhtml+xml"/>
     <!-- end frogs -->
     <!-- salamanders -->
     <item href="SpeciesProfiles/Herps/Order_Caudata.xhtml" id="taxon__herps__caudata" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Herps/California_Slender_Salanander.xhtml" id="taxon__herps__slender" media-type="application/xhtml+xml"/>
     <!-- end salamanders -->
     <!-- lizards -->
     <item href="SpeciesProfiles/Herps/Order_Squamata.xhtml" id="taxon__herps__squamata" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Herps/Western_Fence_Lizard.xhtml" id="taxon__herps__fence" media-type="application/xhtml+xml"/>
     <!-- end lizards -->
     <!-- snakes -->
     <item href="SpeciesProfiles/Herps/Suborder_Serpentine.xhtml" id="taxon__herps__serpentine" media-type="application/xhtml+xml"/>
@@ -253,12 +257,16 @@
     <itemref idref="taxon__herps__anura"/>
     <itemref idref="taxon__herps__crlf"/>
     <itemref idref="taxon__herps__abf"/>
+    <itemref idref="taxon__herps__sierra"/>
+    <itemref idref="taxon__herps__boreas"/>
 <!-- salamanders -->
     <itemref idref="taxon__herps__caudata"/>
+    <itemref idref="taxon__herps__slender"/>
 <!-- end salamanders -->
 <!-- end frogs -->
 <!-- lizards -->
     <itemref idref="taxon__herps__squamata"/>
+    <itemref idref="taxon__herps__fence"/>
 <!-- end lizards -->
 <!-- snakes -->
     <itemref idref="taxon__herps__serpentine"/>
