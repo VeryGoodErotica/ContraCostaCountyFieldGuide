@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>6ba69273-a208-461c-8bab-3b3821f7763d.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-24</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Silver Lupine</common>
+      <latin>Lupinus albifrons</latin>
+      <inaturalist>39205782</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Silver Lupine Bloom Stalk</alt>
+    <description>Silver Lupine Bloom Stalk</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/640</shutterspeed>
+    <aperture>6.00 EV (f/8.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-24T11:25:56-08:00</timestamp>
+  </camera>
+</Resource>

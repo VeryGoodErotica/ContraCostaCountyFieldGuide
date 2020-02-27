@@ -202,6 +202,14 @@
     <item href="images/mammals/Cover-Black-tailed_Jackrabbit.jpg" id="images__mammals__Cover-Black-tailed_Jackrabbit.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-Black-tailed_Jackrabbit.xml" id="images__mammals__Cover-Black-tailed_Jackrabbit.xml" media-type="text/xml"/>
     
+    <!-- shrub species profile cover images -->
+    <item href="images/shrubs/Cover-Silver_Lupine.jpg" id="images__shrubs__Cover-Silver_Lupine.jpg" media-type="image/jpeg"/>
+    <item href="images/shrubs/Cover-Silver_Lupine.xml" id="images__shrubs__Cover-Silver_Lupine.xml" media-type="text/xml"/>
+      <item href="images/shrubs/Silver_Lupine-Bloom_Stalk.jpg" id="images__shrubs__Silver_Lupine-Bloom_Stalk.jpg" media-type="image/jpeg"/>
+      <item href="images/shrubs/Silver_Lupine-Bloom_Stalk.xml" id="images__shrubs__Silver_Lupine-Bloom_Stalk.xml" media-type="text/xml"/>
+      <item href="images/shrubs/Silver_Lupine-Individual_Bloom.jpg" id="images__shrubs__Silver_Lupine-Individual_Bloom.jpg" media-type="image/jpeg"/>
+      <item href="images/shrubs/Silver_Lupine-Individual_Bloom.xml" id="images__shrubs__Silver_Lupine-Individual_Bloom.xml" media-type="text/xml"/>
+    
     <!-- Urban Trails -->
     <!-- Marsh Creek -->
     <item href="images/UrbanTrails/HomecomingPark.jpg" id="images__urbantrails__HomecomingPark.jpg" media-type="image/jpeg"/>
