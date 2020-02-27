@@ -97,3 +97,21 @@ abbr {
 time {
   background-color: lightblue;
 }
+
+div.taxonflex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+div.taxonflex span.prev {
+  order: 0;
+}
+
+div.taxonflex span.next {
+  order: 2;
+}
+
+div.taxonflex span.main {
+  order: 1;
+}

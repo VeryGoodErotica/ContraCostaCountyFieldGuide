@@ -97,6 +97,7 @@
     <item href="SpeciesProfiles/Herps/Order_Testudines.xhtml" id="taxon__herps__testudines" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/Western_Pond_Turtle.xhtml" id="taxon__herps__wpt" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/Red-eared_Slider.xhtml" id="taxon__herps__res" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Herps/Painted_Turtle.xhtml" id="taxon__herps__painted" media-type="application/xhtml+xml"/>
     <!-- end turtles -->
 <!-- end herps -->
 <!-- birds -->
