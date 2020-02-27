@@ -193,6 +193,8 @@
       <item href="images/birds/Common_Merganser-female.xml" id="images__birds__Common_Merganser-female.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
+    <item href="images/birds/Cover-Mallard.jpg" id="images__birds__Cover-Mallard.jpg" media-type="image/jpeg"/>
+    <item href="images/birds/Cover-Mallard.xml" id="images__birds__Cover-Mallard.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Northern_Mockingbird.jpg" id="images__birds__Cover-Northern_Mockingbird.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Northern_Mockingbird.xml" id="images__birds__Cover-Northern_Mockingbird.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Red-shouldered_Hawk.jpg" id="images__birds__Cover-Red-shouldered_Hawk.jpg" media-type="image/jpeg"/>

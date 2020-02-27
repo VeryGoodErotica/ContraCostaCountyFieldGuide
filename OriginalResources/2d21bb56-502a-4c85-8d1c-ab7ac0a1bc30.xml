@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>2d21bb56-502a-4c85-8d1c-ab7ac0a1bc30.CR2</original>
+  <flaw>Slightly over-exposed</flaw>
+  <flaw>Ducks are swimming with heads away from camera</flaw>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-17</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Mallard</common>
+      <latin>Anas platyrhynchos</latin>
+      <inaturalist>39289964</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Male and female mallard swimming together.</alt>
+    <description>Male and female mallard swimming together.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>259.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/1600</shutterspeed>
+    <aperture>5.00 EV (f/5.7)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-27T09:31:55-08:00</timestamp>
+  </camera>
+</Resource>
