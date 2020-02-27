@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>cd54bfab-5469-41f2-805c-cd572245e349.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-24</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Unknown Wolf Spider</common>
+      <latin>fam. Lycosidae</latin>
+      <suspect>Alopecosa</suspect>
+      <inaturalist>39206454</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Top down view of unidentified wolf spider.</alt>
+    <description>Top down view of unidentified wolf spider.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/640</shutterspeed>
+    <aperture>5.62 EV (f/7.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-24T11:46:04-08:00</timestamp>
+  </camera>
+</Resource>

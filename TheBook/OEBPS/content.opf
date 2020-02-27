@@ -187,9 +187,15 @@
     <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images__birds__Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Yellow-rumped_Warbler.jpg" id="images__birds__Cover-Yellow-rumped_Warbler.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Yellow-rumped_Warbler.xml" id="images__birds__Cover-Yellow-rumped_Warbler.xml" media-type="text/xml"/>
+
     <!-- insect species profile cover images -->
     <item href="images/insects/Cover-California_Harvester_Ant.jpg" id="images__insects__Cover-California_Harvester_Ant.jpg" media-type="image/jpeg"/>
     <item href="images/insects/Cover-California_Harvester_Ant.xml" id="images__insects__Cover-California_Harvester_Ant.xml" media-type="text/xml"/>
+
+    <!-- arachnid species profile cover images -->
+    <item href="images/arachnids/Cover-Unknown_Wolf.jpg" id="images__arachnids__Cover-Unknown_Wolf.jpg" media-type="image/jpeg"/>
+    <item href="images/arachnids/Cover-Unknown_Wolf.xml" id="images__arachnids__Cover-Unknown_Wolf.xml" media-type="text/xml"/>
+
     <!-- mammal species profile cover images -->
     <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
