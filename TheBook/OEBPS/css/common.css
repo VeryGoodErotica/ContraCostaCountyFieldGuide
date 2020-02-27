@@ -99,6 +99,7 @@ time {
 }
 
 div.taxonflex {
+  font-weight: bold;
   display: flex;
   flex-direction: row;
   justify-content: space-between;

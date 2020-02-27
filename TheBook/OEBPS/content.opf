@@ -93,6 +93,7 @@
     <!-- lizards -->
     <item href="SpeciesProfiles/Herps/Order_Squamata.xhtml" id="taxon__herps__squamata" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Herps/Western_Fence_Lizard.xhtml" id="taxon__herps__fence" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Herps/Southern_Alligator_Lizard.xhtml" id="taxon__herps__multi" media-type="application/xhtml+xml"/>
     <!-- end lizards -->
     <!-- snakes -->
     <item href="SpeciesProfiles/Herps/Suborder_Serpentine.xhtml" id="taxon__herps__serpentine" media-type="application/xhtml+xml"/>
@@ -267,6 +268,7 @@
 <!-- lizards -->
     <itemref idref="taxon__herps__squamata"/>
     <itemref idref="taxon__herps__fence"/>
+    <itemref idref="taxon__herps__multi"/>
 <!-- end lizards -->
 <!-- snakes -->
     <itemref idref="taxon__herps__serpentine"/>
