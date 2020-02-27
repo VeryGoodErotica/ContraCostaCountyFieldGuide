@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>39372ac0-cc24-486f-846c-054d78db991b.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-24</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Red Maids</common>
+      <latin>Calandrinia menziesii</latin>
+      <inaturalist>39206993</inaturalist>
+      <county>Contra Costa County, California</county>
+      <!-- note - https://smmtc.org/plantofthemonth/RedMaids.php -->
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Red Maids Bloom</alt>
+    <description>Red Maids Bloom</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/800</shutterspeed>
+    <aperture>4.62 EV (f/5.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-24T12:43:52-08:00</timestamp>
+  </camera>
+</Resource>
