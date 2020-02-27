@@ -111,10 +111,13 @@
     <item href="SpeciesProfiles/Birds/Order_Pelecaniformes.xhtml" id="taxon__birds__pelecaniformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Great_Blue_Heron.xhtml" id="taxon__birds__gbheron" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Great_Egret.xhtml" id="taxon__birds__greategret" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Green_Heron.xhtml" id="taxon__birds__greenheron" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Snowy_Egret.xhtml" id="taxon__birds__snowy" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Cattle_Egret.xhtml" id="taxon__birds__cattle" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/American_Bittern.xhtml" id="taxon__birds__ambittern" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Double-crested_Cormorant.xhtml" id="taxon__birds__dblcorm" media-type="application/xhtml+xml"/>
+    <!-- hawks and friends -->
+    <item href="SpeciesProfiles/Birds/Order_Accipitriformes.xhtml" id="taxon__birds__accipitriformes" media-type="application/xhtml+xml"/>
     <!-- pigeons and doves -->
     <item href="SpeciesProfiles/Birds/Order_Columbiformes.xhtml" id="taxon__birds__columbiformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Domestic_Rock_Pigeon.xhtml" id="taxon__birds__rockpigeon" media-type="application/xhtml+xml"/>
@@ -164,6 +167,9 @@
       <!-- Technically Suliformes -->
       <item href="images/birds/Cover-Double-crested_Cormorant.jpg" id="images__birds__Cover-Double-crested_Cormorant.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Double-crested_Cormorant.xml" id="images__birds__Cover-Double-crested_Cormorant.xml" media-type="text/xml"/>
+    <!-- hawks and friends -->
+    <item href="images/birds/Order_Accipitriformes.svg" id="images__herps__Order_Accipitriformes.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Order_Accipitriformes.xml" id="images__herps__Order_Accipitriformes.xml" media-type="text/xml"/>
     <!-- pigeons and doves -->
     <item href="images/birds/Order_Columbiformes.svg" id="images__herps__Order_Columbiformes.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Order_Columbiformes.xml" id="images__herps__Order_Columbiformes.xml" media-type="text/xml"/>
@@ -286,10 +292,13 @@
     <itemref idref="taxon__birds__pelecaniformes"/>
     <itemref idref="taxon__birds__gbheron"/>
     <itemref idref="taxon__birds__greategret"/>
+    <itemref idref="taxon__birds__greenheron"/>
     <itemref idref="taxon__birds__snowy"/>
     <itemref idref="taxon__birds__cattle"/>
     <itemref idref="taxon__birds__ambittern"/>
     <itemref idref="taxon__birds__dblcorm"/>
+<!-- hawks and friends -->
+    <itemref idref="taxon__birds__accipitriformes"/>
 <!-- pigeons and doves -->
     <itemref idref="taxon__birds__columbiformes"/>
     <itemref idref="taxon__birds__rockpigeon"/>
