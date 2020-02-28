@@ -118,6 +118,7 @@
       <item href="SpeciesProfiles/Birds/Double-crested_Cormorant.xhtml" id="taxon__birds__dblcorm" media-type="application/xhtml+xml"/>
     <!-- hawks and friends -->
     <item href="SpeciesProfiles/Birds/Order_Accipitriformes.xhtml" id="taxon__birds__accipitriformes" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Red-shouldered_Hawk.xhtml" id="taxon__birds__rshawk" media-type="application/xhtml+xml"/>
     <!-- pigeons and doves -->
     <item href="SpeciesProfiles/Birds/Order_Columbiformes.xhtml" id="taxon__birds__columbiformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Domestic_Rock_Pigeon.xhtml" id="taxon__birds__rockpigeon" media-type="application/xhtml+xml"/>
@@ -307,6 +308,7 @@
     <itemref idref="taxon__birds__dblcorm"/>
 <!-- hawks and friends -->
     <itemref idref="taxon__birds__accipitriformes"/>
+    <itemref idref="taxon__birds__rshawk"/>
 <!-- pigeons and doves -->
     <itemref idref="taxon__birds__columbiformes"/>
     <itemref idref="taxon__birds__rockpigeon"/>
