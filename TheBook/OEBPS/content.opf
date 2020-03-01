@@ -141,10 +141,10 @@
     <item href="images/herps/Order_Caudata.svg" id="images__herps__Order_Caudata.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Order_Caudata.xml" id="images__herps__Order_Caudata.xml" media-type="text/xml"/>
     <item href="images/herps/Order_Squamata.svg" id="images__herps__Order_Squamata.svg" media-type="image/svg+xml"/>
-
       <item href="images/herps/Cover-Western_Fence_Lizard.jpg" id="images__herps__Cover-Western_Fence_Lizard.jpg" media-type="image/jpeg"/>
       <item href="images/herps/Cover-Western_Fence_Lizard.xml" id="images__herps__Cover-Western_Fence_Lizard.xml" media-type="text/xml"/>
-
+        <item href="images/herps/Western_Fence_Lizard_Dominance_Dance.jpg" id="images__herps__Western_Fence_Lizard_Dominance_Dance.jpg" media-type="image/jpeg"/>
+        <item href="images/herps/Western_Fence_Lizard_Dominance_Dance.xml" id="images__herps__Western_Fence_Lizard_Dominance_Dance.xml" media-type="text/xml"/>
     <item href="images/herps/Order_Squamata.xml" id="images__herps__Order_Squamata.xml" media-type="text/xml"/>
     <item href="images/herps/Suborder_Serpentine.svg" id="images__herps__Suborder_Serpentine.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Suborder_Serpentine.xml" id="images__herps__Suborder_Serpentine.xml" media-type="text/xml"/>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>07f6a6b6-e5bc-40e6-82ed-14517d908ef7.CR2</original>
+  <checksum algo="sha256">31031d520fc223f1c2ab4d3ffaa4a357f94821c0a4ad3336ac26b7f633c6c0e0</checksum>
+  <flaw>Not from Contra Costa County</flaw>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-28</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Western Fence Lizard</common>
+      <latin>Sceloporus occidentalis</latin>
+      <inaturalist>39358730</inaturalist>
+      <county>Sonoma County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x398</resolution>
+    <alt>Profile view of a Western Fence Lizard flashing his colors</alt>
+    <description>Profile view of a Western Fence Lizard flashing his colors</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/640</shutterspeed>
+    <aperture>6.00 EV (f/8.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-28T13:31:27-08:00</timestamp>
+  </camera>
+</Resource>
