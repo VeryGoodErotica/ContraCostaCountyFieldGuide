@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>a1bbf484-c00a-4832-84c1-71610b1d7468.CR2</original>
+  <checksum algo="sha256">5e91fb72a00bb36e80f98c394da3c30187ca2c070ff3df796b12599d409875c1</checksum>
+  <flaw>Not from Contra Costa County</flaw>
+  <flaw>Only part of the animal is visible</flaw>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-28</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>American Bullfrog</common>
+      <latin>Lithobates catesbeinus</latin>
+      <inaturalist>39358403</inaturalist>
+      <county>Sonoma County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Eyes and snout of an American Bullfrog sticking out of the water.</alt>
+    <description>Eyes and snout of an American Bullfrog sticking out of the water.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/320</shutterspeed>
+    <aperture>6.00 EV (f/8.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-28T13:26:10-08:00</timestamp>
+  </camera>
+</Resource>

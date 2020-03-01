@@ -138,6 +138,8 @@
     <!-- herp species profile cover images -->
     <item href="images/herps/Order_Anura.svg" id="images__herps__Order_Anura.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Order_Anura.xml" id="images__herps__Order_Anura.xml" media-type="text/xml"/>
+      <item href="images/herps/Cover-American_Bullfrog.jpg" id="images__herps__Cover-American_Bullfrog.jpg" media-type="image/jpeg"/>
+      <item href="images/herps/Cover-American_Bullfrog.xml" id="images__herps__Cover-American_Bullfrog.xml" media-type="text/xml"/>
     <item href="images/herps/Order_Caudata.svg" id="images__herps__Order_Caudata.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Order_Caudata.xml" id="images__herps__Order_Caudata.xml" media-type="text/xml"/>
     <item href="images/herps/Order_Squamata.svg" id="images__herps__Order_Squamata.svg" media-type="image/svg+xml"/>
