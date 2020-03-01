@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>3e4fc288-8e3f-4ef6-80fd-15e5fce5f55d.svg</original>
-  <flaws>License needs to be verified by original artist</flaws>
+  <flaw>License needs to be verified by original artist</flaw>
   <checksum algo="sha256">219664c0575dc53f863a02a0c3f76faae0dabb1a6bbef28bbeec7a6f80ed9462</checksum>
   <creator type="illustrator">
     <name>Jordan Irwin</name>

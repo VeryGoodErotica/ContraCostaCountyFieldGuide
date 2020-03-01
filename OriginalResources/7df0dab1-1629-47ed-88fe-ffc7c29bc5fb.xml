@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>7df0dab1-1629-47ed-88fe-ffc7c29bc5fb.jpg</original>
-  <flaws>Not from Contra Costa County</flaws>
+  <flaw>Not from Contra Costa County</flaw>
   <creator type="photographer">
     <name>Pierre Selim</name>
     <license>CC BY-SA 3.0</license>

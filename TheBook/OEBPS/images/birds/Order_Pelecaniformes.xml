@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>4c6a4e13-edaa-417f-8cd2-d6bc76523e83.svg</original>
-  <flaws>Original Artist Unknown</flaws>
+  <flaw>Original Artist Unknown</flaw>
   <checksum algo="sha256">b1f5ff6607d7d6bf2bbf15dbb2b9b0647cee96f408a6b7b21020d0fa423721f0</checksum>
   <creator type="illustrator">
     <name>Unknown via OpenClipart-Vectors</name>

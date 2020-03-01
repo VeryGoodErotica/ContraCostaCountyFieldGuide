@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>4c6a4e13-edaa-417f-8cd2-d6bc76523e83.svg</original>
-  <flaws>Original Artist Unknown</flaws>
+  <flaw>Original Artist Unknown</flaw>
   <creator type="illustrator">
     <name>Unknown via OpenClipart-Vectors</name>
     <source>https://pixabay.com/vectors/black-crowned-night-heron-heron-1295964/</source>

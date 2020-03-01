@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>3a48f1d3-f6c1-46c5-8d32-3fc6dac47f68.CR2</original>
-  <flaws>Does not fill the square enough, not very sharp</flaws>
+  <flaw>Does not fill the square enough, not very sharp</flaw>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>

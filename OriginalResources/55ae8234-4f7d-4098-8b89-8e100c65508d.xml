@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>55ae8234-4f7d-4098-8b89-8e100c65508d.jpg</original>
-  <flaws>Photo is not from Contra Costa County</flaws>
+  <flaw>Photo is not from Contra Costa County</flaw>
   <creator type="photographer">
     <name>Christiane (Oldiefan)</name>
     <source>https://pixabay.com/photos/animal-bird-dove-collared-4778532/</source>

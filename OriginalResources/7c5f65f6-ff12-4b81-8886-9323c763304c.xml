@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>7c5f65f6-ff12-4b81-8886-9323c763304c.CR2</original>
-  <flaws>Not from Contra Costa County</flaws>
+  <flaw>Not from Contra Costa County</flaw>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>

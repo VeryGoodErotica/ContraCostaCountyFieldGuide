@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-    <original>53353a87-34df-41b2-8791-3874a1dd5696.jpg</original>
-    <flaws>My belief is that this actually a Shasta Crayfish, not a Sooty Crayfish</flaws>
-    <creator type="photographer">
-      <name>George Nelson</name>
-      <license>Public Domain</license>
-      <source>https://digitalcollections.lib.washington.edu/digital/collection/fishimages/id/53474</source>
-      <courtesy>The University of Washington Libraries Freshwater and Marine Image Bank</courtesy>
-    </creator>
-    <taxons>
-        <taxon>
-            <common>Sooty Crayfish</common>
-            <latin>Pacifastacus nigrescens</latin>
-            <county>Shasta County, California</county>
-        </taxon>
-    </taxons>
-    <image>
-        <alt>Top down view of a Sooty Crayfish</alt>
-        <description>A very old photograph of the now extinct Sooty Crayfish.</description>
-    </image>
-    <camera>
-        <timestamp>1914</timestamp>
-    </camera>
+  <original>53353a87-34df-41b2-8791-3874a1dd5696.jpg</original>
+  <flaw>Shasta Crayfish, not a Sooty Crayfish</flaw>
+  <creator type="photographer">
+    <name>George Nelson</name>
+    <license>Public Domain</license>
+    <source>https://digitalcollections.lib.washington.edu/digital/collection/fishimages/id/53474</source>
+    <courtesy>The University of Washington Libraries Freshwater and Marine Image Bank</courtesy>
+    <date>1914</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Shasta Crayfish</common>
+        <latin>Pacifastacus fortis</latin>
+        <county>Shasta County, California</county>
+      </taxon>
+  </taxons>
+  <image>
+    <alt>Top down view of a Shasta Crayfish</alt>
+    <description>A very old photograph of the Shasta Crayfish type specimen.</description>
+  </image>
 </Resource>

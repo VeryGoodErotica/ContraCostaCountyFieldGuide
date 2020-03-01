@@ -2,7 +2,7 @@
 <Resource type="photograph" xml:lang="en-US">
   <original>e6b4fd63-061c-455c-86fa-065df03a2ce5.jpg</original>
   <checksum algo="sha256">9d64f75a8908fa0e414a1aa1e4ea483a43933f7b765352d7af96befc36cdab92</checksum>
-  <flaws>Photo is not from Contra Costa County</flaws>
+  <flaw>Photo is not from Contra Costa County</flaw>
   <creator type="photographer">
     <name>Sandeep Handa</name>
     <source>https://pixabay.com/photos/homing-pigeon-pigeon-2727563/</source>
