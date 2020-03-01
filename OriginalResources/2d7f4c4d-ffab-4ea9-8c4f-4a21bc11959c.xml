@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>2d7f4c4d-ffab-4ea9-8c4f-4a21bc11959c.CR2</original>
+  <flaw>Not from Contra Costa County</flaw>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-28</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Southern Alligator Lizard</common>
+      <latin>Elgaria multicarinata</latin>
+      <inaturalist>39359239</inaturalist>
+      <county>Sonoma County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Closeup of Southern Alligator Lizard left face.</alt>
+    <description>Closeup of Southern Alligator Lizard left face.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/500</shutterspeed>
+    <aperture>4.00 EV (f/4.0)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-28T14:53:02-08:00</timestamp>
+  </camera>
+</Resource>
