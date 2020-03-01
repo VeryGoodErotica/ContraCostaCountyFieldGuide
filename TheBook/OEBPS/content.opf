@@ -236,8 +236,10 @@
       <item href="images/shrubs/Silver_Lupine-Individual_Bloom.xml" id="images__shrubs__Silver_Lupine-Individual_Bloom.xml" media-type="text/xml"/>
       
     <!-- wildflower cover images -->
-    <item href="images/wildflowers/Cover-Red_Maids.jpg" id="images__shrubs__Cover-Red_Maids.jpg" media-type="image/jpeg"/>
-    <item href="images/wildflowers/Cover-Red_Maids.xml" id="images__shrubs__Cover-Red_Maids.xml" media-type="text/xml"/>
+    <item href="images/wildflowers/Cover-Red_Maids.jpg" id="images__wildflowers__Cover-Red_Maids.jpg" media-type="image/jpeg"/>
+    <item href="images/wildflowers/Cover-Red_Maids.xml" id="images__wildflowers__Cover-Red_Maids.xml" media-type="text/xml"/>
+    <item href="images/wildflowers/Cover-Pacific_Hounds_Toungue.jpg" id="images__wildflowers__Cover-Pacific_Hounds_Toungue.jpg" media-type="image/jpeg"/>
+    <item href="images/wildflowers/Cover-Pacific_Hounds_Toungue.xml" id="images__wildflowers__Cover-Pacific_Hounds_Toungue.xml" media-type="text/xml"/>
     
     <!-- Urban Trails -->
     <!-- Marsh Creek -->

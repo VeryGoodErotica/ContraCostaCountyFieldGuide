@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>1236d8a7-532d-4826-8005-825b9bd2dfe2.CR2</original>
+  <checksum algo="sha256">d852becb7a49406b3d2acf490d8471390c98a0609fd5dcc5619bf8aed07ae63c</checksum>
+  <flaw>Not from Contra Costa County</flaw>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-02-28</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Pacific Hound’s Toungue</common>
+      <latin>Adelinia grande</latin>
+      <inaturalist>39359718</inaturalist>
+      <county>Sonoma County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Pacific Hound’s Toungue Bloom</alt>
+    <description>Pacific Hound’s Toungue Bloom</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/250</shutterspeed>
+    <aperture>3.00 EV (f/2.8)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-02-24T12:43:52-08:00</timestamp>
+  </camera>
+</Resource>
