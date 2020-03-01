@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>7c5f65f6-ff12-4b81-8886-9323c763304c.CR2</original>
-  <checksum algo="sha256">1b0fcde70cbcaafecce970075fed42e80341bb39a5aba66a42ac69600f2ea983</checksum>
   <flaws>Not from Contra Costa County</flaws>
   <creator type="photographer">
     <name>Michael A. Peters</name>
@@ -18,8 +17,6 @@
     </taxon>
   </taxons>
   <image>
-    <mime>image/jpeg</mime>
-    <resolution>1024x1024</resolution>
     <alt>Profile view of an adult Western Pond Turtle</alt>
     <description>Profile view of an adult Western Pond Turtle</description>
   </image>
