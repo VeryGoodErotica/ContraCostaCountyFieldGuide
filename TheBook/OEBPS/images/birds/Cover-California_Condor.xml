@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>ca7854dc-e1ce-4b1a-8ad4-f72128334ef4.jpg</original>
+  <checksum algo="sha256">1e58ca440f0254d0cb74f10c735a7f023112686695b4bb62760a8f2aa30b4516</checksum>
+  <creator type="photographer">
+    <name>Gary Kramer (USFWS)</name>
+    <license>Public Domain</license>
+    <source>https://digitalmedia.fws.gov/digital/collection/natdiglib/id/14119/rec/5</source>
+    <courtesy>U.S. Fish and Wildlife Service</courtesy>
+    <date>2012-01-20</date>
+    <date modified="modified">2015-05-15</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>California Condor</common>
+      <latin>Gymnogyps californianus</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Adult California Condor in flight</alt>
+    <description>Adult California Condor in flight</description>
+  </image>
+</Resource>
