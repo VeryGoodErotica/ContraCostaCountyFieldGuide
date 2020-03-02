@@ -18,6 +18,7 @@
     <dc:contributor id="contributor6">Susann Mielke</dc:contributor>
     <dc:contributor id="contributor7">John Cleckler (USFWS)</dc:contributor>
     <dc:contributor id="contributor8">Gary Kramer (USFWS)</dc:contributor>
+    <dc:contributor id="contributor9">Mohamed Hassan</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -41,6 +42,8 @@
     <meta property="role" refines="#contributor7" scheme="marc:relators">pht</meta>
     <!-- Gary Kramer (USFWS) -->
     <meta property="role" refines="#contributor8" scheme="marc:relators">pht</meta>
+    <!-- Mohamed Hassan -->
+    <meta property="role" refines="#contributor9" scheme="marc:relators">ill</meta>
     <!-- end contributor refines -->
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
@@ -123,6 +126,8 @@
       <item href="SpeciesProfiles/Birds/Cattle_Egret.xhtml" id="taxon__birds__cattle" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/American_Bittern.xhtml" id="taxon__birds__ambittern" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Double-crested_Cormorant.xhtml" id="taxon__birds__dblcorm" media-type="application/xhtml+xml"/>
+    <!-- waterfowl -->
+    
     <!-- hawks and friends -->
     <item href="SpeciesProfiles/Birds/Order_Accipitriformes.xhtml" id="taxon__birds__accipitriformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/California_Condor.xhtml" id="taxon__birds__condor" media-type="application/xhtml+xml"/>
@@ -189,6 +194,9 @@
       <!-- Technically Suliformes -->
       <item href="images/birds/Cover-Double-crested_Cormorant.jpg" id="images__birds__Cover-Double-crested_Cormorant.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Double-crested_Cormorant.xml" id="images__birds__Cover-Double-crested_Cormorant.xml" media-type="text/xml"/>
+    <!-- waterfowl -->
+    <item href="images/birds/Order_Anseriformes.svg" id="images__herps__Order_Anseriformes.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Order_Anseriformes.xml" id="images__herps__Order_Anseriformes.xml" media-type="text/xml"/>
     <!-- hawks and friends -->
     <item href="images/birds/Order_Accipitriformes.svg" id="images__herps__Order_Accipitriformes.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Order_Accipitriformes.xml" id="images__herps__Order_Accipitriformes.xml" media-type="text/xml"/>

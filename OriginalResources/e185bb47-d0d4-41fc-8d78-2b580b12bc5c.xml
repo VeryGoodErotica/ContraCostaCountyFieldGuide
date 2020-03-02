@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>e185bb47-d0d4-41fc-8d78-2b580b12bc5c.svg</original>
+  <flaw>Pixabay License</flaw>
+  <creator type="illustrator">
+    <name>Mohamed Hassan</name>
+    <source>https://pixabay.com/vectors/duck-flying-silhouette-goose-geese-4235209/</source>
+    <license>Pixabay</license>
+    <licenseurl>https://pixabay.com/service/license/</licenseurl>
+    <date>2019-05-28</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Waterfowl</common>
+      <latin>Order Anseriformes</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Vector art of flying ducks</alt>
+    <description>Vector art of flying ducks</description>
+  </image>
+</Resource>
