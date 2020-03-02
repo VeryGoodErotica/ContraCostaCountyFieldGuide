@@ -16,6 +16,8 @@
     <dc:contributor id="contributor4">Bishnu Sarangi</dc:contributor>
     <dc:contributor id="contributor5">Jordan Irwin</dc:contributor>
     <dc:contributor id="contributor6">Susann Mielke</dc:contributor>
+    <dc:contributor id="contributor7">John Cleckler (USFWS)</dc:contributor>
+    <dc:contributor id="contributor8">Gary Kramer (USFWS)</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -35,6 +37,10 @@
     <meta property="role" refines="#contributor5" scheme="marc:relators">ill</meta>
     <!-- Susann Mielke -->
     <meta property="role" refines="#contributor6" scheme="marc:relators">ill</meta>
+    <!-- John Cleckler (USFWS) -->
+    <meta property="role" refines="#contributor7" scheme="marc:relators">pht</meta>
+    <!-- Gary Kramer (USFWS) -->
+    <meta property="role" refines="#contributor8" scheme="marc:relators">pht</meta>
     <!-- end contributor refines -->
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
