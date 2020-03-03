@@ -148,6 +148,7 @@
     <item href="SpeciesProfiles/Birds/Suborder_Passeri.xhtml" id="taxon__birds__passeri" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/American_Robin.xhtml" id="taxon__birds__robin" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Northern_Mockingbird.xhtml" id="taxon__birds__mockingbird" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Yellow-rumped_Warbler.xhtml" id="taxon__birds__yellowrumpedwarbler" media-type="application/xhtml+xml"/>
     <!-- end songbirds -->
 <!-- end birds -->
 
@@ -374,6 +375,7 @@
     <itemref idref="taxon__birds__passeri"/>
     <itemref idref="taxon__birds__robin"/>
     <itemref idref="taxon__birds__mockingbird"/>
+    <itemref idref="taxon__birds__yellowrumpedwarbler"/>
 <!-- end songbirds -->
 <!-- end birds -->
 
