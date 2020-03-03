@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>6669a5a3-0d24-4811-8384-5dc311fe00e7.svg</original>
+  <checksum algo="sha256">da1f4800782eac8dad483af4e11f97f925955d19380d230d966ae6aa1af9bd2f</checksum>
+  <creator type="illustrator">
+    <name>Mohamed Hassan</name>
+    <source>https://pixabay.com/vectors/bird-stand-silhouette-nature-2803709/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2017-10-01</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Songbirds</common>
+      <latin>Suborder Passeri</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Vector art of a song bird</alt>
+    <description>Vector art of a song bird</description>
+  </image>
+</Resource>
