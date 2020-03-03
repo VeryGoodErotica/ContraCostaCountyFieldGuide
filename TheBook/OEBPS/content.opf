@@ -151,6 +151,7 @@
       <item href="SpeciesProfiles/Birds/Yellow-rumped_Warbler.xhtml" id="taxon__birds__yellowrumpedwarbler" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/California_Towhee.xhtml" id="taxon__birds__calitowhee" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/White-crowned_Sparrow.xhtml" id="taxon__birds__wcsparrow" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/European_Starling.xhtml" id="taxon__birds__starling" media-type="application/xhtml+xml"/>
     <!-- end songbirds -->
 <!-- end birds -->
 
@@ -247,9 +248,9 @@
       <item href="images/birds/Cover-California_Towhee.xml" id="images__birds__Cover-California_Towhee.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images__birds__Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images__birds__Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
     <!-- not in hierarchy yet -->
-    <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Wilsons_Snipe.jpg" id="images__birds__Cover-Wilsons_Snipe.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Wilsons_Snipe.xml" id="images__birds__Cover-Wilsons_Snipe.xml" media-type="text/xml"/>
 
@@ -380,6 +381,7 @@
     <itemref idref="taxon__birds__yellowrumpedwarbler"/>
     <itemref idref="taxon__birds__calitowhee"/>
     <itemref idref="taxon__birds__wcsparrow"/>
+    <itemref idref="taxon__birds__starling"/>
 <!-- end songbirds -->
 <!-- end birds -->
 
