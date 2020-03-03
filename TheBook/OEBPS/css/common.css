@@ -116,3 +116,16 @@ div.taxonflex span.next {
 div.taxonflex span.main {
   order: 1;
 }
+
+span.booktitle {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+span.booktitle::before {
+  content: '‘'
+}
+
+span.booktitle::after {
+  content: '’'
+}
