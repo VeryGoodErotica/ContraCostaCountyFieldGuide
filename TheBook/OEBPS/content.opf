@@ -147,6 +147,7 @@
     <!-- songbirds -->
     <item href="SpeciesProfiles/Birds/Suborder_Passeri.xhtml" id="taxon__birds__passeri" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/American_Robin.xhtml" id="taxon__birds__robin" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Northern_Mockingbird.xhtml" id="taxon__birds__mockingbird" media-type="application/xhtml+xml"/>
     <!-- end songbirds -->
 <!-- end birds -->
 
@@ -235,13 +236,13 @@
     <item href="images/birds/Suborder_Passeri.xml" id="images__birds__Suborder_Passeri.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-American_Robin.jpg" id="images__birds__Cover-American_Robin.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-American_Robin.xml" id="images__birds__Cover-American_Robin.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Northern_Mockingbird.jpg" id="images__birds__Cover-Northern_Mockingbird.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Northern_Mockingbird.xml" id="images__birds__Cover-Northern_Mockingbird.xml" media-type="text/xml"/>
     <!-- not in hierarchy yet -->
     <item href="images/birds/Cover-California_Towhee.jpg" id="images__birds__Cover-California_Towhee.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-California_Towhee.xml" id="images__birds__Cover-California_Towhee.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
-    <item href="images/birds/Cover-Northern_Mockingbird.jpg" id="images__birds__Cover-Northern_Mockingbird.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-Northern_Mockingbird.xml" id="images__birds__Cover-Northern_Mockingbird.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images__birds__Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images__birds__Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Yellow-rumped_Warbler.jpg" id="images__birds__Cover-Yellow-rumped_Warbler.jpg" media-type="image/jpeg"/>
@@ -372,6 +373,7 @@
 <!-- songbirds -->
     <itemref idref="taxon__birds__passeri"/>
     <itemref idref="taxon__birds__robin"/>
+    <itemref idref="taxon__birds__mockingbird"/>
 <!-- end songbirds -->
 <!-- end birds -->
 
