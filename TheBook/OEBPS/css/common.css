@@ -123,9 +123,9 @@ span.booktitle {
 }
 
 span.booktitle::before {
-  content: '‘'
+  content: '‘';
 }
 
 span.booktitle::after {
-  content: '’'
+  content: '’';
 }
