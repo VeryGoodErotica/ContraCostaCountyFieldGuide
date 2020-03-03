@@ -130,6 +130,7 @@
     <item href="SpeciesProfiles/Birds/Order_Anseriformes.xhtml" id="taxon__birds__anseriformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Common_Merganser.xhtml" id="taxon__birds__cmnmerganser" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Hooded_Merganser.xhtml" id="taxon__birds__hoodedmerganser" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Mallard.xhtml" id="taxon__birds__mallard" media-type="application/xhtml+xml"/>
     <!-- hawks and friends -->
     <item href="SpeciesProfiles/Birds/Order_Accipitriformes.xhtml" id="taxon__birds__accipitriformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/California_Condor.xhtml" id="taxon__birds__condor" media-type="application/xhtml+xml"/>
@@ -203,6 +204,8 @@
       <item href="images/birds/Cover-Common_Merganser.xml" id="images__birds__Cover-Common_Merganser.xml" media-type="text/xml"/>
         <item href="images/birds/Common_Merganser-female.jpg" id="images__birds__Common_Merganser-female.jpg" media-type="image/jpeg"/>
         <item href="images/birds/Common_Merganser-female.xml" id="images__birds__Common_Merganser-female.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Mallard.jpg" id="images__birds__Cover-Mallard.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Mallard.xml" id="images__birds__Cover-Mallard.xml" media-type="text/xml"/>
     <!-- hawks and friends -->
     <item href="images/birds/Order_Accipitriformes.svg" id="images__herps__Order_Accipitriformes.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Order_Accipitriformes.xml" id="images__herps__Order_Accipitriformes.xml" media-type="text/xml"/>
@@ -229,8 +232,6 @@
     <item href="images/birds/Cover-California_Towhee.xml" id="images__birds__Cover-California_Towhee.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
-    <item href="images/birds/Cover-Mallard.jpg" id="images__birds__Cover-Mallard.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-Mallard.xml" id="images__birds__Cover-Mallard.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-Northern_Mockingbird.jpg" id="images__birds__Cover-Northern_Mockingbird.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-Northern_Mockingbird.xml" id="images__birds__Cover-Northern_Mockingbird.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-White-crowned_Sparrow.jpg" id="images__birds__Cover-White-crowned_Sparrow.jpg" media-type="image/jpeg"/>
@@ -346,6 +347,7 @@
     <itemref idref="taxon__birds__anseriformes"/>
     <itemref idref="taxon__birds__cmnmerganser"/>
     <itemref idref="taxon__birds__hoodedmerganser"/>
+    <itemref idref="taxon__birds__mallard"/>
 <!-- hawks and friends -->
     <itemref idref="taxon__birds__accipitriformes"/>
     <itemref idref="taxon__birds__condor"/>
