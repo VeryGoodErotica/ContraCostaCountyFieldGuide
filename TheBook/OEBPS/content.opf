@@ -139,12 +139,14 @@
     <item href="SpeciesProfiles/Birds/Order_Columbiformes.xhtml" id="taxon__birds__columbiformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Domestic_Rock_Pigeon.xhtml" id="taxon__birds__rockpigeon" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Eurasian_Collared-Dove.xhtml" id="taxon__birds__eudove" media-type="application/xhtml+xml"/>
+    <!-- end pigeons and doves -->
     <!-- swifts and hummingbirds -->
     <item href="SpeciesProfiles/Birds/Order_Apodiformes.xhtml" id="taxon__birds__apodiformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Annas_Hummingbird.xhtml" id="taxon__birds__annas" media-type="application/xhtml+xml"/>
     <!-- end swifts and hummingbirds -->
     <!-- songbirds -->
     <item href="SpeciesProfiles/Birds/Suborder_Passeri.xhtml" id="taxon__birds__passeri" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/American_Robin.xhtml" id="taxon__birds__robin" media-type="application/xhtml+xml"/>
     <!-- end songbirds -->
 <!-- end birds -->
 
@@ -231,9 +233,9 @@
     <!-- songbirds -->
     <item href="images/birds/Suborder_Passeri.svg" id="images__birds__Suborder_Passeri.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Suborder_Passeri.xml" id="images__birds__Suborder_Passeri.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-American_Robin.jpg" id="images__birds__Cover-American_Robin.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-American_Robin.xml" id="images__birds__Cover-American_Robin.xml" media-type="text/xml"/>
     <!-- not in hierarchy yet -->
-    <item href="images/birds/Cover-American_Robin.jpg" id="images__birds__Cover-American_Robin.jpg" media-type="image/jpeg"/>
-    <item href="images/birds/Cover-American_Robin.xml" id="images__birds__Cover-American_Robin.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-California_Towhee.jpg" id="images__birds__Cover-California_Towhee.jpg" media-type="image/jpeg"/>
     <item href="images/birds/Cover-California_Towhee.xml" id="images__birds__Cover-California_Towhee.xml" media-type="text/xml"/>
     <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
@@ -369,6 +371,7 @@
 <!-- end swifts and hummingbirds -->
 <!-- songbirds -->
     <itemref idref="taxon__birds__passeri"/>
+    <itemref idref="taxon__birds__robin"/>
 <!-- end songbirds -->
 <!-- end birds -->
 
