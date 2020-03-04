@@ -30,6 +30,10 @@ section h3::before {
   content: "§ ";
 }
 
+section h4 {
+  text-decoration: underline;
+}
+
 figure.cover img {
   display: block;
   margin: auto;
@@ -40,12 +44,6 @@ figure.cover figcaption {
   font-style: italic;
   font-size: smaller;
 }
-
-/*
-figure.cover figcaption::before {
-  content: "image ";
-}
-*/
 
 figcaption#coverfigcaption {
   text-align: center;

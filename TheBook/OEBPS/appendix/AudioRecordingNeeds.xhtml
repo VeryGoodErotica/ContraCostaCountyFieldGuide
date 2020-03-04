@@ -10,14 +10,17 @@
 <body>
 <section epub:type="appendix" role="doc-appendix" aria-labelledby="audioh1">
   <h1 id="audioh1" class="glossary">Audio Recording Needs</h1>
+  <p>This appendix chapter is a plea for money. Feel free to <a href="../Toc-APX.xhtml">return to the Appendix Index</a> if you either can not or do not want to assist.</p>
   <p>I have a financial need for the purchase of audio recording equipment. It is not cheap, but it will greatly benefit the quality of this project.</p>
+  <p>First I will describe my goals, and then the hardware I need to make audio recordings myself for the benefit of this project.</p>
+  <p>Of course I will accept audios recorded by others, if they meet the quality standards I need to be very picky about.</p>
   <section id="goals" aria-labelledby="goalsh2">
     <h2 id="goalsh2">Audio Goals</h2>
     <p>A long-term goal of this project is to have <em>quality</em> audio recordings, loudness normalized to the <a href="https://tech.ebu.ch/docs/r/r128.pdf" title="Internet Resource" class="PDF">EBU R128</a> Loudness standard, for as many bird, frog, and insect calls as possible.</p>
     <p>For both quality and legal reasons, it really is my preference if these recordings are original to this project with the recordings made in either Contra Costa or Alameda Counties.</p>
     <p>Both birds and frogs, and quite likely insects, have dialects. In fact these dialects often are a part of how <a href="glossary.xhtml#gls.speciation" class="gls">speciation</a> takes place.</p>
     <p>When the dialects in different areas have diverged enough, they create a barrier to gene flow that results in the divergent populations heading down different evolutionary paths.</p>
-    <p>It is my <em>strong desire</em> for as many audio recordings as possible to have photo vouchers accompanying the recording to help validate the species that was recorded, along with geolocation data. This information should be vouchered in the <a href="https://www.inaturalist.org/" title="Internet Resource">iNaturalst</a> with audio recordings also submitted to the Cornell Lab of Ornithology <a href="https://www.macaulaylibrary.org/" >Macaulay Library</a>.</p>
+    <p>It is my <em>strong desire</em> for as many audio recordings as possible to have photo vouchers accompanying the recording to help validate the species that was recorded, along with geolocation data. This information should be vouchered in the <a href="https://www.inaturalist.org/" title="Internet Resource">iNaturalst</a> with audio recordings also submitted to the Cornell Lab of Ornithology <a href="https://www.macaulaylibrary.org/" title="Internet Resource">Macaulay Library</a>.</p>
     <p>A lot of taxonomy work in birds is taking place, and there certainly will be <a href="glossary.xhtml#gls.cryptic_species_complex" class="gls">Cryptic Species Complexes</a> discovered where variations in the song are one way to distinguish species within the complex.</p>
     <p>With birds, an identifiable photo voucher of the actual bird being recorded can also verify whether the song is coming from a male or female of the species, there is often sexual dimorphism in the singing and it would be great to have songs from both sexes available in the species profiles.</p>
   </section>
@@ -30,6 +33,58 @@
       <dt><dfn>Chorus Recording</dfn></dt>
         <dd>This is the recording of the sound made by group, often separated from each other enough that directional microphones do not work for this kind of recording.</dd>
     </dl>
+  </section>
+  <section id="mastering" aria-labelledby="masteringh2">
+    <h2 id="masteringh2">Audio Mastering</h2>
+    <p>For submissions to Macaulay Library, it probably is best for <strong>NO</strong> modifications of the <abbr title="Pulse Code Modulation">PCM</abbr> data to take place, for risk of damaging the waveform. The researchers that use the audio recordings should have the original data.</p>
+    <p>For use within this field guide, some mastering will take place, specifically the perceived loudness normalization so that all audios within the field guide have the same perceived loudness.</p>
+    <p>For audios recorded with a Parabolic Microphone, they are great for a directional recording at a distance but they distort the recording. The physics of how they work, higher frequencies are amplified more than lower frequencies.</p>
+    <p>Using a high-pass filter to remove frequencies below what it wanted first, it <em>may</em> be possible to use a digital filter to compensate for this frequency-based amplification distortion by digitally amplifying the lower frequencies above the high pass filter, similar to how the <a href="https://en.wikipedia.org/wiki/RIAA_equalization" title="Internet Resource"><abbr>RIAA</abbr> Equalization</a> curve works. I still have to look into it.</p>
+    <p>Each audio should also have a clear voice with a short description of the species and other data (such as sex) prepended to the audio, to help avoid confusion.</p>
+    <p>For space reasons, after normalization the audios will be lossy encoded using the <a href="https://opus-codec.org/" title="Internet Resource">Ogg Opus</a> container and codec at 64kbps. Opus is a mature <abbr>IETF</abbr> standard that has been well-supported by everyone <em>except</em> Apple for <em>years</em>. The problem with using <abbr>AAC</abbr>, unless you use <abbr>HEv1</abbr> profile there is no guarantee an ePub player that supports audio will be able to properly decode it, often resulting in very subpar playback. With the <abbr>HEv1</abbr> profile, you need a <em>much</em> higher bitrate to get the same quality you can get with Opus at 64kbps. File size then becomes a very real issue.</p>
+    <p>Hopefully in the not too distant future, Apple will get over itself and support Ogg Opus. They already support the Opus codec itself since iOS 11, but they still refuse to support the Ogg container needed for it to work with their ePub readers.</p>
+    <p>Audio mastering will be done with a combination of <a href="https://www.audacityteam.org/" title="Internet Resource">Audacity</a>, <a href="http://sox.sourceforge.net/" title="Internet Resource">SoX</a>, <a href="https://www.ffmpeg.org/" title="Internet Resource">FFmpeg</a> (for <abbr>EBU</abbr> R128 normalization), and <a href="https://opus-codec.org/downloads/" title="Internet Resource">Opus Tools</a>.</p>
+    <p>Those are high quality free software projects and do not have any cost involved. Well, other than my time.</p>
+  </section>
+  <section id="hardware" aria-labelledby="hardwareh2">
+    <h2 id="hardwareh2">Hardware Description</h2>
+    <p>When nature is your recording studio, there are several different hardware components that work in conjunction with each other:</p>
+    <ul>
+      <li><a href="#ADC">Digital Recording Device</a></li>
+      <li><a href="#mic">Microphone &amp; Battery Pack</a></li>
+      <li>Pistol Grip w/ Foam Wind Shield (for Shotgun Microphones)</li>
+    </ul>
+    <section id="ADC" aria-labelledby="ADCh3">
+      <h3 id="ADCh3">Digital Recording Device</h3>
+      <p>For quality recordings, which is the goal, the quality of the microphone is <em>far</em> more important than the quality of the digital recording device. The microphone takes the sound waves and converts them into an analog electrical current signal. It does not matter how good the <abbr>ADC</abbr> in the recording device is if that current signal is crap.</p>
+      <p>That being said, if the digital recording device is too low quality, the electrical signal it converts to bits will suffer greatly. Smart phones do not cut it, they degrade a quality input signal.</p>
+      <p>The recording device <em>must</em> be able to handle <em>at least</em> 48kHz/24 bit <abbr>PCM</abbr> data smoothly. 24 bits per sample gives more flexibility when setting the recording level, you can be a little conservative without suffering audible quantization noise when amplifying the recording later. If the recording level is too high, the recording clips and is useless, but if you record too low with 16 bits per sample, amplifying during mastering can result in audible quantization noise.</p>
+      <p><abbr>XLR</abbr> for the microphone input is beneficial but not absolutely mandatory if the device has a quality 3.5<abbr>mm</abbr> microphone input jack. A cheap 3.5<abbr>mm</abbr> connector can create noise in the signal before the conversion to digital takes place.</p>
+      <p>The recording device must also have sufficient use time before that battery needs to be recharged, and should have replaceable batteries if they run low while out in the field.</p>
+      <p>For me, the size of the unit is also a consideration. I like to hike, I already carry camera equipment <abbr>etc.</abbr> and do not want a recording unit that is too large.</p>
+      <p>The recording device that meets all my needs is the <a href="https://www.roland.com/us/products/r-07/" title="Internet Resource">Roland R-07</a>. It lacks <abbr>XLR</abbr> support but I do not see that being a huge issue.</p>
+      <p>As a compact unit, this also would make a good backup unit to carry with me in the future if I ever do upgrade to a more expensive unit.</p>
+      <p>The Roland R-07 costs about $200.</p>
+    </section>
+    <section id="mic" aria-labelledby="mich3">
+      <h3 id="mich3">Microphone &amp; Battery Pack</h3>
+      <p>When the Digital Recording Device has an <abbr>XLR</abbr> input it actually <em>can</em> be used to power the microphone as well. With only a 3.5<abbr>mm</abbr> jack, the microphone needs its own power source. Even with an <abbr>XLR</abbr> input, I think I would prefer the microphone to have its own power source anyway.</p>
+      <p>I have no plans to use a parabolic microphone. They do have farther directional range than a shotgun microphone, but they require more skill in targeting them and are more difficult to pack for hiking due to the parabola dish.</p>
+      <p>For recording Chorus Recording, I actually plan to build my own, explained in a minute.</p>
+      <p>The microphone I need to start recording audios for this project is a shotgun microphone. There are two options I am considering:</p>
+      <section id="rode" aria-labelledby="rodeh4">
+        <h4 id="rodeh4">Rode NTG2</h4>
+        <p>This shotgun microphone is the cheaper option at around $270 but Macaulay Library reports that it is noisier at high frequencies. With <em>most</em> birds and amphibians that probably is not an issue, but it is an issue with bats and insects, both of which will be covered in this guide.</p>
+        <p>It can be powered with <abbr>AA</abbr> size batteries.</p>
+      </section>
+      <section id="senn" aria-labelledby="sennh4">
+        <h4 id="sennh4">Sennheiser ME 66/K6P</h4>
+        <p>The Sennheiser ME 66 seems to be a favorite among bird recordists, but it requires the use of a battery pack.</p>
+        <p>B&amp;H Photo sells a <a href="https://www.bhphotovideo.com/c/product/92911-REG/" target="Internet Resource">kit that has both</a> for about $460. That kit is <em>probably</em> the way to go, the K6P battery pack is a good battery pack.</p>
+        <p>This is roughly a $200 price difference.</p>
+        <p>For that price difference, I would get both better recordings of high audio frequencies and better directional recording, reducing the noises that I do <em>not</em> want to record when doing a Single Specimen Recording.</p>
+      </section>
+    </section>
   </section>
 </section>
 </body>
