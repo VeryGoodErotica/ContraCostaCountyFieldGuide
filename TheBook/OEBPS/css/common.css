@@ -83,6 +83,11 @@ a[title="Internet Resource"]::before {
   content: "🌐";
 }
 
+a.PDF[title="Internet Resource"]::before {
+  font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
+  content: "🌐[pdf]";
+}
+
 a.gls::before {
   font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
   content: "📓";
