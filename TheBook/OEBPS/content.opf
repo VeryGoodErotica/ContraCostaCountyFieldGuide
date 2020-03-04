@@ -297,6 +297,7 @@
 
     <!-- appendix -->
     <item href="ToC-APX.xhtml" id="apx__ToC" media-type="application/xhtml+xml"/>
+    <item href="appendix/AudioRecordingNeeds.xhtml" id="apx__audiorecordingneeds" media-type="application/xhtml+xml"/>
     <item href="appendix/concept_terms.xhtml" id="apx__concept_terms" media-type="application/xhtml+xml"/>
     <item href="appendix/glossary.xhtml" id="apx__glossary" media-type="application/xhtml+xml"/>
     <!-- contributors -->
@@ -391,6 +392,7 @@
 
     <!-- appendix -->
     <itemref idref="apx__ToC"/>
+    <itemref idref="apx__audiorecordingneeds"/>
     <itemref idref="apx__concept_terms"/>
     <itemref idref="apx__glossary"/>
     <itemref idref="apx__contributors__list"/>
