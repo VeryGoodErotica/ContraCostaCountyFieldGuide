@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>6996ccbc-6892-4702-8405-c9fd1caf45d9.CR2</original>
-  <checksum algo="sha256">b25bb1ccb7c90f39df9d32bd0a41ad7fc07227ec2d0e4726e4475b392eb93e6b</checksum>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>
@@ -17,8 +16,6 @@
     </taxon>
   </taxons>
   <image>
-    <mime>image/jpeg</mime>
-    <resolution>1024x1024</resolution>
     <alt>Side profile of an adult California Ground Squirrel.</alt>
     <description>The left side of an adult California Ground Squirrel at the opening of its burrow.</description>
   </image>
