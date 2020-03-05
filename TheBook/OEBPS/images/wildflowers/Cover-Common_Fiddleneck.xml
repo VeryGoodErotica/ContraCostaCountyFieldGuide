@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>8c634f56-008f-4a84-8fe6-cedc24bdb66c.CR2</original>
+  <checksum algo="sha256">3e666572b7079d2fe703867b4b8e379d46b655baf3b6bf86aaf7ad3d0e262b2a</checksum>
+  <flaw>Overexposed</flaw>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-03-04</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Common Fiddleneck</common>
+      <latin>Amsinckia menziesii</latin>
+      <inaturalist>39564272</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Fiddleneck Bloom</alt>
+    <description>Fiddleneck Bloom</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/160</shutterspeed>
+    <aperture>6.62 EV (f/9.9)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-03-04T14:18:34-08:00</timestamp>
+  </camera>
+</Resource>
