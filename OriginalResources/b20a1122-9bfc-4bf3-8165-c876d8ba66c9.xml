@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>b20a1122-9bfc-4bf3-8165-c876d8ba66c9.CR2</original>
-  <checksum algo="sha256">2e1dd6dc0c1337adb302e25ecf53ef214811ee1e10075c5e9da627cdee88cfa8</checksum>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>
@@ -17,8 +16,6 @@
     </taxon>
   </taxons>
   <image>
-    <mime>image/jpeg</mime>
-    <resolution>1024x1536</resolution>
     <alt>Silver Lupine Bloom Stalk</alt>
     <description>Silver Lupine Bloom Stalk</description>
   </image>
