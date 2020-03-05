@@ -257,6 +257,8 @@
     <!-- insect species profile cover images -->
     <item href="images/insects/Cover-California_Harvester_Ant.jpg" id="images__insects__Cover-California_Harvester_Ant.jpg" media-type="image/jpeg"/>
     <item href="images/insects/Cover-California_Harvester_Ant.xml" id="images__insects__Cover-California_Harvester_Ant.xml" media-type="text/xml"/>
+    <item href="images/insects/Cover-Western_Honey_Bee.jpg" id="images__insects__Cover-Western_Honey_Bee.jpg" media-type="image/jpeg"/>
+    <item href="images/insects/Cover-Western_Honey_Bee.xml" id="images__insects__Cover-Western_Honey_Bee.xml" media-type="text/xml"/>
 
     <!-- arachnid species profile cover images -->
     <item href="images/arachnids/Cover-Unknown_Wolf.jpg" id="images__arachnids__Cover-Unknown_Wolf.jpg" media-type="image/jpeg"/>
