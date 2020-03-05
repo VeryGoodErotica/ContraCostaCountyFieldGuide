@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>2eb36168-5557-4965-87dd-007eaa9e2b0c.CR2</original>
+  <checksum algo="sha256">28ba75b181095104eab34b0bf238a26b7aaac991df27c55fa7267787e96d1914</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-03-04</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Common Fiddleneck</common>
+      <latin>Amsinckia menziesii</latin>
+      <inaturalist>39564272</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1770</resolution>
+    <alt>Fiddleneck Bloom Stalk</alt>
+    <description>Fiddleneck Bloom Stalk</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/320</shutterspeed>
+    <aperture>6.62 EV (f/9.9)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-03-04T14:19:26-08:00</timestamp>
+  </camera>
+</Resource>
