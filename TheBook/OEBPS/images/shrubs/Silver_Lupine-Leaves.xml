@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>8c2be291-4f37-4e9b-80a0-2a94188ef3ba.CR2</original>
+  <checksum algo="sha256">6b359df1dfdb1cc1f37282fecf81733c266f2dbf704b23a62163da3eb059210b</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-03-04</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Silver Lupine</common>
+      <latin>Lupinus albifrons</latin>
+      <inaturalist>39564230</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Silver Lupine Leaves</alt>
+    <description>Silver Lupine Leaves</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/500</shutterspeed>
+    <aperture>6.62 EV (f/9.9)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-03-04T14:12:03-08:00</timestamp>
+  </camera>
+</Resource>
