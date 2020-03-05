@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>f273d1d7-909a-44ff-897b-8b16adc157aa.jpg</original>
+  <checksum algo="sha256">4d4f9328e1912d6fc5ae7d5b533c4222e5705c4f8420421ec5710d8fe1ebe7b1</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2020-03-04</date>
+  </creator>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x512</resolution>
+    <alt>Photograph of Silver Lupine Habitat</alt>
+    <description>Photograph of Silver Lupine Habitat</description>
+  </image>
+  <camera>
+    <brand>Google</brand>
+    <model>Pixel 3 XL</model>
+    <focallength>4.4 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/3356</shutterspeed>
+    <aperture>1.70 EV (f/1.8)</aperture>
+    <iso>73</iso>
+    <flash>null</flash>
+    <timestamp>2020-03-04T14:28:44-08:00</timestamp>
+  </camera>
+</Resource>

@@ -294,6 +294,8 @@
     <item href="images/UrbanTrails/SunsetAthleticEntrance.xml" id="images__urbantrails__SunsetAthleticEntrance.xml" media-type="text/xml"/>
     <item href="images/UrbanTrails/MarshCreekHidingSnipe.jpg" id="images__urbantrails__MarshCreekHidingSnipe.jpg" media-type="image/jpeg"/>
     <item href="images/UrbanTrails/MarshCreekHidingSnipe.xml" id="images__urbantrails__MarshCreekHidingSnipe.xml" media-type="text/xml"/>
+    <item href="images/UrbanTrails/SilverLupineTrail.jpg" id="images__urbantrails__SilverLupineTrail.jpg" media-type="image/jpeg"/>
+    <item href="images/UrbanTrails/SilverLupineTrail.xml" id="images__urbantrails__SilverLupineTrail.xml" media-type="text/xml"/>
 
     <!-- appendix -->
     <item href="ToC-APX.xhtml" id="apx__ToC" media-type="application/xhtml+xml"/>
