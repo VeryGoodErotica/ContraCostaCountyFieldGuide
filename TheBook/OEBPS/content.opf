@@ -161,6 +161,8 @@
 
     <!-- end of non-appendix spine content -->
 
+<!-- IMAGES -->
+
     <!-- herp species profile cover images -->
     <item href="images/herps/Order_Anura.svg" id="images__herps__Order_Anura.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Order_Anura.xml" id="images__herps__Order_Anura.xml" media-type="text/xml"/>
@@ -188,7 +190,6 @@
       <item href="images/herps/Cover-Western_Pond_Turtle.jpg" id="images__reptiles__Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>
       <item href="images/herps/Cover-Western_Pond_Turtle.xml" id="images__reptiles__Cover-Western_Pond_Turtle.xml" media-type="text/xml"/>
 <!-- end herp species profile cover images -->
-
 
     <!-- bird species profile cover images -->
     <!-- pelicans and allies -->
@@ -220,6 +221,9 @@
         <item href="images/birds/Common_Merganser-female.xml" id="images__birds__Common_Merganser-female.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Mallard.jpg" id="images__birds__Cover-Mallard.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Mallard.xml" id="images__birds__Cover-Mallard.xml" media-type="text/xml"/>
+    <!-- sandpipers and allies -->
+    <item href="images/birds/Suborder_Scolopaci.svg" id="images__birds__Suborder_Scolopaci.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Suborder_Scolopaci.xml" id="images__birds__Suborder_Scolopaci.xml" media-type="text/xml"/>
     <!-- hawks and friends -->
     <item href="images/birds/Order_Accipitriformes.svg" id="images__birds__Order_Accipitriformes.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Order_Accipitriformes.xml" id="images__birds__Order_Accipitriformes.xml" media-type="text/xml"/>

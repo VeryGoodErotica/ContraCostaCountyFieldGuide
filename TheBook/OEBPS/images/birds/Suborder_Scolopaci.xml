@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>03596a77-64dd-49d9-829f-e05f40232021.svg</original>
+  <checksum algo="sha256">2a91e9f1aae19ed8ee1816673959876daccadf7cd1a6e86e99a45dc46a667ac8</checksum>
+  <flaw>Original artist can not be determined</flaw>
+  <flaw>Too Much Detail</flaw>
+  <creator type="illustrator">
+    <name>OCAL via Clker-Free-Vector-Images</name>
+    <source>http://www.clker.com/clipart-14273.html</source>
+    <source>https://pixabay.com/vectors/curlew-bird-walk-long-bill-curved-33036/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2007-12-08</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Sandpipers and Allies</common>
+      <latin>Scolopaci</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Vector art silhouette of a curlew</alt>
+    <description>Vector art silhouette of a curlew</description>
+  </image>
+</Resource>
