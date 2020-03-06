@@ -198,6 +198,10 @@
       <item href="images/birds/Cover-Great_Blue_Heron.xml" id="images__birds__Cover-Great_Blue_Heron.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Great_Egret.jpg" id="images__birds__Cover-Great_Egret.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Great_Egret.xml" id="images__birds__Cover-Great_Egret.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Green_Heron.jpg" id="images__birds__Cover-Green_Heron.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Green_Heron.xml" id="images__birds__Cover-Green_Heron.xml" media-type="text/xml"/>
+        <item href="images/birds/Green_Heron-Chest.jpg" id="images__birds__Green_Heron-Chest.jpg" media-type="image/jpeg"/>
+        <item href="images/birds/Green_Heron-Chest.xml" id="images__birds__Green_Heron-Chest.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Snowy_Egret.jpg" id="images__birds__Cover-Snowy_Egret.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Snowy_Egret.xml" id="images__birds__Cover-Snowy_Egret.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Cattle_Egret.jpg" id="images__birds__Cover-Cattle_Egret.jpg" media-type="image/jpeg"/>

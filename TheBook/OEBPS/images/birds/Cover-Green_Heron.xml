@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>07f6a6b6-e5bc-40e6-82ed-14517d908ef7.CR2</original>
+  <checksum algo="sha256">97e17e8b65a4ff65c9b79db0c0d4f359bc5ba57433e4b25fc3f931fddff7f9c1</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-03-04</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Green Heron</common>
+      <latin>Butorides virescens</latin>
+      <inaturalist>39563399</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Profile view of an adult Green Heron</alt>
+    <description>Profile view of an adult Green Heron</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/640</shutterspeed>
+    <aperture>6.62 EV (f/9.9)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-03-04T13:13:41-08:00</timestamp>
+  </camera>
+</Resource>
