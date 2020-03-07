@@ -166,6 +166,7 @@
       <item href="SpeciesProfiles/Mammals/Black-tailed_Jackrabbit.xhtml" id="taxon__mammals__btjackrabbit" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Mammals/California_Ground_Squirrel.xhtml" id="taxon__mammals__groundsquirrel" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Mammals/Berkeley_Kangaroo_Rat.xhtml" id="taxon__mammals__berkrat" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Mammals/Sasquatch.xhtml" id="taxon__mammals__bigfoot" media-type="application/xhtml+xml"/>
 <!-- end mammals -->
 
 <!-- urban trails -->
@@ -279,9 +280,10 @@
     <item href="images/mammals/Cover-Black-tailed_Jackrabbit.xml" id="images__mammals__Cover-Black-tailed_Jackrabbit.xml" media-type="text/xml"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
-
     <item href="images/mammals/Cover-Heermanns_Kangaroo_Rat.jpg" id="images__mammals__Cover-Heermanns_Kangaroo_Rat.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-Heermanns_Kangaroo_Rat.xml" id="images__mammals__Cover-Heermanns_Kangaroo_Rat.xml" media-type="text/xml"/>
+    <item href="images/mammals/Cover-Sasquatch.jpg" id="images__mammals__Cover-Sasquatch.jpg" media-type="image/jpeg"/>
+    <item href="images/mammals/Cover-Sasquatch.xml" id="images__mammals__Cover-Sasquatch.xml" media-type="text/xml"/>
 
     <!-- insect species profile cover images -->
     <item href="images/insects/Cover-California_Harvester_Ant.jpg" id="images__insects__Cover-California_Harvester_Ant.jpg" media-type="image/jpeg"/>
@@ -428,6 +430,7 @@
     <itemref idref="taxon__mammals__btjackrabbit"/>
     <itemref idref="taxon__mammals__groundsquirrel"/>
     <itemref idref="taxon__mammals__berkrat"/>
+    <itemref idref="taxon__mammals__bigfoot"/>
 
 <!-- urban trails -->
     <itemref idref="urbantrails__urbantrails"/>

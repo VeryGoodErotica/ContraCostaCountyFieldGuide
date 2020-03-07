@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>d9d9cac1-74ba-4318-8079-7578caaf8279.jpg</original>
+  <flaw>Outside of Contra Costa County</flaw>
+  <creator type="photographer">
+    <name>Patterson–Gimlin</name>
+    <source>https://image.cnbcfm.com/api/v1/image/105951036-1559761167164bigfoot.jpg?v=1559761206</source>
+    <license>Public Domain</license>
+    <licenseurl>https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film#Legal_status</licenseurl>
+    <date>1967-10-20</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Sasquatch</common>
+      <latin>Gigantopithecus macropodiatus</latin>
+      <county>Del Norte County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>PGF Frame 352 Sasquatch</alt>
+    <description>Patterson-Gimlin Film frame 352</description>
+  </image>
+</Resource>
