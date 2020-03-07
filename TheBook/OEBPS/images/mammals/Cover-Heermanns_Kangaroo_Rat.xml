@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>c3d579d0-7785-494c-8c5e-18e8021f3105.png</original>
+  <checksum algo="sha256">1e1db44234cf2d92ce686d201bb9354538a2e5f61ee8db4f2fc7626001dd6480</checksum>
+  <flaw>Not from Contra Costa County</flaw>
+  <creator type="photographer">
+    <name>Olivia Kosterlitz</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0</licenseurl>
+    <sourceurl>https://commons.wikimedia.org/wiki/File:Heermannskangaroorat.png</sourceurl>
+    <date>2015-11-17</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Heermann’s Kangaroo Rat</common>
+      <latin>Dipodomys heermanni</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x680</resolution>
+    <alt>Profile view of an adult Heermann’s Kangaroo Rat</alt>
+    <description>Profile view of an adult Heermann’s Kangaroo Rat.</description>
+  </image>
+</Resource>

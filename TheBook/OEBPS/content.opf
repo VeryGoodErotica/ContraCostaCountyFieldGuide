@@ -19,6 +19,7 @@
     <dc:contributor id="contributor7">John Cleckler (USFWS)</dc:contributor>
     <dc:contributor id="contributor8">Gary Kramer (USFWS)</dc:contributor>
     <dc:contributor id="contributor9">Mohamed Hassan</dc:contributor>
+    <dc:contributor id="contributor10">Olivia Kosterlitz</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -44,6 +45,8 @@
     <meta property="role" refines="#contributor8" scheme="marc:relators">pht</meta>
     <!-- Mohamed Hassan -->
     <meta property="role" refines="#contributor9" scheme="marc:relators">ill</meta>
+    <!-- Olivia Kosterlitz -->
+    <meta property="role" refines="#contributor10" scheme="marc:relators">pht</meta>
     <!-- end contributor refines -->
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
@@ -162,6 +165,7 @@
     <item href="SpeciesProfiles/Mammals/Mammals.xhtml" id="taxon__mammals__mammals" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Mammals/Black-tailed_Jackrabbit.xhtml" id="taxon__mammals__btjackrabbit" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Mammals/California_Ground_Squirrel.xhtml" id="taxon__mammals__groundsquirrel" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Mammals/Berkeley_Kangaroo_Rat.xhtml" id="taxon__mammals__berkrat" media-type="application/xhtml+xml"/>
 <!-- end mammals -->
 
 <!-- urban trails -->
@@ -275,6 +279,9 @@
     <item href="images/mammals/Cover-Black-tailed_Jackrabbit.xml" id="images__mammals__Cover-Black-tailed_Jackrabbit.xml" media-type="text/xml"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
+
+    <item href="images/mammals/Cover-Heermanns_Kangaroo_Rat.jpg" id="images__mammals__Cover-Heermanns_Kangaroo_Rat.jpg" media-type="image/jpeg"/>
+    <item href="images/mammals/Cover-Heermanns_Kangaroo_Rat.xml" id="images__mammals__Cover-Heermanns_Kangaroo_Rat.xml" media-type="text/xml"/>
 
     <!-- insect species profile cover images -->
     <item href="images/insects/Cover-California_Harvester_Ant.jpg" id="images__insects__Cover-California_Harvester_Ant.jpg" media-type="image/jpeg"/>
@@ -420,6 +427,7 @@
     <itemref idref="taxon__mammals__mammals"/>
     <itemref idref="taxon__mammals__btjackrabbit"/>
     <itemref idref="taxon__mammals__groundsquirrel"/>
+    <itemref idref="taxon__mammals__berkrat"/>
 
 <!-- urban trails -->
     <itemref idref="urbantrails__urbantrails"/>
