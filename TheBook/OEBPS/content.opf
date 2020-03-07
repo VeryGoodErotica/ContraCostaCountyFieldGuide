@@ -66,6 +66,7 @@
     <item href="css/license.css" id="css__license" media-type="text/css"/>
     <item href="css/taxon_herps.css" id="css__taxon__herps" media-type="text/css"/>
     <item href="css/taxon_birds.css" id="css__taxon__birds" media-type="text/css"/>
+    <item href="css/taxon_mammals.css" id="css_taxon_mammals" media-type="text/css"/>
     <item href="css/urbantrails.css" id="css__urbantrails" media-type="text/css"/>
     <!-- fonts -->
     <item href="fonts/ClearSans-Regular-wlatin.ttf" id="font.ClearSans.Regular" media-type="font/otf"/>
@@ -157,6 +158,9 @@
       <item href="SpeciesProfiles/Birds/European_Starling.xhtml" id="taxon__birds__starling" media-type="application/xhtml+xml"/>
     <!-- end songbirds -->
 <!-- end birds -->
+<!-- mammals -->
+    <item href="SpeciesProfiles/Mammals/Mammals.xhtml" id="taxon__mammals__mammals" media-type="application/xhtml+xml"/>
+<!-- end mammals -->
 
 <!-- urban trails -->
     <item href="UrbanTrails/UrbanTrails.xhtml" id="urbantrails__urbantrails" media-type="application/xhtml+xml"/>
@@ -412,6 +416,8 @@
     <itemref idref="taxon__birds__starling"/>
 <!-- end songbirds -->
 <!-- end birds -->
+<!-- mammals -->
+    <itemref idref="taxon__mammals__mammals"/>
 
 <!-- urban trails -->
     <itemref idref="urbantrails__urbantrails"/>
