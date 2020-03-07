@@ -91,15 +91,17 @@ a.gls::before {
   content: "📓";
 }
 
-/* uncomment below for visual testing of missing abbr tags */
+/* uncomment below for visual testing of missing abbr tags 
 abbr {
   background-color: yellow;
 }
+*/
 
-/* uncomment below for visual testing of missing time tags */
+/* uncomment below for visual testing of missing time tags 
 time {
   background-color: lightblue;
 }
+*/
 
 div.taxonflex {
   font-weight: bold;
