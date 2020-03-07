@@ -269,7 +269,12 @@
       <item href="images/birds/Cover-White-crowned_Sparrow.xml" id="images__birds__Cover-White-crowned_Sparrow.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-European_Starling.jpg" id="images__birds__Cover-European_Starling.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-European_Starling.xml" id="images__birds__Cover-European_Starling.xml" media-type="text/xml"/>
-    <!-- not in hierarchy yet -->
+
+    <!-- mammal species profile cover images -->
+    <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
+    <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
+    <item href="images/mammals/Cover-Black-tailed_Jackrabbit.jpg" id="images__mammals__Cover-Black-tailed_Jackrabbit.jpg" media-type="image/jpeg"/>
+    <item href="images/mammals/Cover-Black-tailed_Jackrabbit.xml" id="images__mammals__Cover-Black-tailed_Jackrabbit.xml" media-type="text/xml"/>
     
 
     <!-- insect species profile cover images -->
@@ -281,12 +286,6 @@
     <!-- arachnid species profile cover images -->
     <item href="images/arachnids/Cover-Unknown_Wolf.jpg" id="images__arachnids__Cover-Unknown_Wolf.jpg" media-type="image/jpeg"/>
     <item href="images/arachnids/Cover-Unknown_Wolf.xml" id="images__arachnids__Cover-Unknown_Wolf.xml" media-type="text/xml"/>
-
-    <!-- mammal species profile cover images -->
-    <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
-    <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
-    <item href="images/mammals/Cover-Black-tailed_Jackrabbit.jpg" id="images__mammals__Cover-Black-tailed_Jackrabbit.jpg" media-type="image/jpeg"/>
-    <item href="images/mammals/Cover-Black-tailed_Jackrabbit.xml" id="images__mammals__Cover-Black-tailed_Jackrabbit.xml" media-type="text/xml"/>
     
     <!-- shrub species profile cover images -->
     <item href="images/shrubs/Cover-Silver_Lupine.jpg" id="images__shrubs__Cover-Silver_Lupine.jpg" media-type="image/jpeg"/>
