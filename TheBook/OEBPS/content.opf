@@ -160,6 +160,8 @@
 <!-- end birds -->
 <!-- mammals -->
     <item href="SpeciesProfiles/Mammals/Mammals.xhtml" id="taxon__mammals__mammals" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Mammals/California_Ground_Squirrel.xhtml" id="taxon__mammals__groundsquirrel" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Mammals/Black-tailed_Jackrabbit.xhtml" id="taxon__mammals__btjackrabbit" media-type="application/xhtml+xml"/>
 <!-- end mammals -->
 
 <!-- urban trails -->
@@ -418,6 +420,8 @@
 <!-- end birds -->
 <!-- mammals -->
     <itemref idref="taxon__mammals__mammals"/>
+    <itemref idref="taxon__mammals__groundsquirrel"/>
+    <itemref idref="taxon__mammals__btjackrabbit"/>
 
 <!-- urban trails -->
     <itemref idref="urbantrails__urbantrails"/>
