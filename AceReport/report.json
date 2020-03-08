@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "3/8/2020, 1:05:34 AM",
+  "dct:date": "3/8/2020, 1:10:38 AM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -165,7 +165,7 @@
         "alt": null,
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Eastern_Painted_Turtle-Carapace.jpg\" aria-labelledby=\"c_p_pictafigcap\" />",
-        "figcaption": "Distinctive carapace scute arrangement",
+        "figcaption": "Eastern Painted Turtle distinctive carapace scute arrangement",
         "location": "SpeciesProfiles/Herps/Painted_Turtle.xhtml#epubcfi(/4/2/12[taxonomy]/10[subspecies]/12[easternsub]/10[c_p_picta]/4)"
       },
       {
@@ -275,7 +275,7 @@
         "alt": null,
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Mallard.jpg\" aria-labelledby=\"coverfigcaption\" />",
-        "figcaption": "Pair of Mallards",
+        "figcaption": "Male and Female Mallard",
         "location": "SpeciesProfiles/Birds/Mallard.xhtml#epubcfi(/4/2/6/4)"
       },
       {
@@ -305,7 +305,7 @@
         "alt": null,
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-California_Condor.jpg\" aria-labelledby=\"coverfigcaption\" />",
-        "figcaption": "California Condor",
+        "figcaption": "California Condor in flight",
         "location": "SpeciesProfiles/Birds/California_Condor.xhtml#epubcfi(/4/2/6/4)"
       },
       {
@@ -313,7 +313,7 @@
         "alt": null,
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Red-shouldered_Hawk.jpg\" aria-labelledby=\"coverfigcaption\" />",
-        "figcaption": "Red-shouldered Hawk",
+        "figcaption": "Adult Red-shouldered Hawk",
         "location": "SpeciesProfiles/Birds/Red-shouldered_Hawk.xhtml#epubcfi(/4/2/6/4)"
       },
       {
@@ -536,7 +536,7 @@
       "schema:accessibilityFeature": "alternativeText",
       "schema:accessibilityHazard": "none",
       "schema:accessibilitySummary": "This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.",
-      "dcterms:modified": "2020-03-08T09:05:20Z"
+      "dcterms:modified": "2020-03-08T09:10:25Z"
     },
     "links": {}
   },
