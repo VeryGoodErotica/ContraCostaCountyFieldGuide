@@ -76,6 +76,10 @@ span.vectorlic::before {
   font-style: italic;
 }
 
+abbr[title] {
+  text-decoration: none;
+}
+
 a[title="Internet Resource"]::before {
   font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
   content: "🌐";
@@ -89,6 +93,13 @@ a.PDF[title="Internet Resource"]::before {
 a.gls::before {
   font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
   content: "📓";
+}
+
+sup.wc::before {
+  content: "[";
+}
+sup.wc::after {
+  content: "]";
 }
 
 /* uncomment below for visual testing of missing abbr tags 
