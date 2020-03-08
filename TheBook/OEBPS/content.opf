@@ -20,6 +20,7 @@
     <dc:contributor id="contributor8">Gary Kramer (USFWS)</dc:contributor>
     <dc:contributor id="contributor9">Mohamed Hassan</dc:contributor>
     <dc:contributor id="contributor10">Olivia Kosterlitz</dc:contributor>
+    <dc:contributor id="contributor11">Mark R. Jennings</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -47,6 +48,8 @@
     <meta property="role" refines="#contributor9" scheme="marc:relators">ill</meta>
     <!-- Olivia Kosterlitz -->
     <meta property="role" refines="#contributor10" scheme="marc:relators">pht</meta>
+    <!-- Mark R. Jennings (USFWS) -->
+    <meta property="role" refines="#contributor11" scheme="marc:relators">pht</meta>
     <!-- end contributor refines -->
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
@@ -180,6 +183,8 @@
     <!-- herp species profile cover images -->
     <item href="images/herps/Order_Anura.svg" id="images__herps__Order_Anura.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Order_Anura.xml" id="images__herps__Order_Anura.xml" media-type="text/xml"/>
+      <item href="images/herps/Cover-California_Red-legged_Frog.jpg" id="images__herps__Cover-California_Red-legged_Frog.jpg" media-type="image/jpeg"/>
+      <item href="images/herps/Cover-California_Red-legged_Frog.xml" id="images__herps__Cover-California_Red-legged_Frog.xml" media-type="text/xml"/>
       <item href="images/herps/Cover-American_Bullfrog.jpg" id="images__herps__Cover-American_Bullfrog.jpg" media-type="image/jpeg"/>
       <item href="images/herps/Cover-American_Bullfrog.xml" id="images__herps__Cover-American_Bullfrog.xml" media-type="text/xml"/>
     <item href="images/herps/Order_Caudata.svg" id="images__herps__Order_Caudata.svg" media-type="image/svg+xml"/>

@@ -17,6 +17,8 @@
     </taxon>
   </taxons>
   <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
     <alt>Profile view of an adult Red-eared Slider</alt>
     <description>Profile view of an adult Red-eared Slider</description>
   </image>

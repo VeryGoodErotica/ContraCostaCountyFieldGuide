@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>a0e9b7ce-4edf-4bc4-8bde-a48e6905402e.jpg</original>
+  <checksum algo="sha256">c97845973c031a419aa19dabe21f3d9fef2fe85f47d3f65d30935400cf1e1275</checksum>
+  <flaw>Unknown County</flaw>
+  <creator type="photographer">
+    <name>Mark R. Jennings (USFWS)</name>
+    <license>Public Domain</license>
+    <source>https://digitalmedia.fws.gov/digital/collection/natdiglib/id/3866</source>
+    <courtesy>U.S. Fish and Wildlife Service</courtesy>
+    <date>2008-04-18</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>California Red-legged Frog</common>
+      <latin>Rana draytonii</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Adult California Red-legged Frog</alt>
+    <description>Adult California Red-legged Frog in grass habitat</description>
+  </image>
+</Resource>
