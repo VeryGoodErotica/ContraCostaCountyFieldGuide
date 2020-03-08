@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "3/7/2020, 5:39:00 PM",
+  "dct:date": "3/7/2020, 5:47:03 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -526,7 +526,7 @@
       "schema:accessibilityFeature": "alternativeText",
       "schema:accessibilityHazard": "none",
       "schema:accessibilitySummary": "This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.",
-      "dcterms:modified": "2020-03-08T01:38:45Z"
+      "dcterms:modified": "2020-03-08T01:46:50Z"
     },
     "links": {}
   },
