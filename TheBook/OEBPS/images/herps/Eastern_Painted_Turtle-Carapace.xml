@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>617b074d-b177-454f-8388-06b965e83459.jpg</original>
+  <checksum algo="sha256">e3c774c0ac2a6aae6cffdc8d5512b9217337c8ee87e8219272ed66b67721eeae</checksum>
+  <flaw>Photo is not from Contra Costa County</flaw>
+  <creator type="photographer">
+    <name>skeeze</name>
+    <source>https://pixabay.com/photos/painted-turtles-reptiles-wildlife-1030274/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2015-11-09</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Eastern Painted Turtle</common>
+      <latin>Chrysemys picta picta</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x588</resolution>
+    <alt>Top down view of several basking Eastern Painted Turtles.</alt>
+    <description>Top down view of several basking Eastern Painted Turtles.</description>
+  </image>
+</Resource>

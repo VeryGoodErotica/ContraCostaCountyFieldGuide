@@ -21,6 +21,7 @@
     <dc:contributor id="contributor9">Mohamed Hassan</dc:contributor>
     <dc:contributor id="contributor10">Olivia Kosterlitz</dc:contributor>
     <dc:contributor id="contributor11">Mark R. Jennings</dc:contributor>
+    <dc:contributor id="contributor12">skeeze</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -50,7 +51,10 @@
     <meta property="role" refines="#contributor10" scheme="marc:relators">pht</meta>
     <!-- Mark R. Jennings (USFWS) -->
     <meta property="role" refines="#contributor11" scheme="marc:relators">pht</meta>
+    <!-- skeeze -->
+    <meta property="role" refines="#contributor12" scheme="marc:relators">pht</meta>
     <!-- end contributor refines -->
+    
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
     <meta property="dcterms:modified">2020-02-16T20:13:21Z</meta>
@@ -208,6 +212,9 @@
       <item href="images/herps/Cover-Red-eared_Slider.xml" id="images__reptiles__Cover-Red-eared_Slider.xml" media-type="text/xml"/>
       <item href="images/herps/Cover-Western_Pond_Turtle.jpg" id="images__reptiles__Cover-Western_Pond_Turtle.jpg" media-type="image/jpeg"/>
       <item href="images/herps/Cover-Western_Pond_Turtle.xml" id="images__reptiles__Cover-Western_Pond_Turtle.xml" media-type="text/xml"/>
+      <!-- phantom Painted cover -->
+        <item href="images/herps/Eastern_Painted_Turtle-Carapace.jpg" id="images__reptiles__Eastern_Painted_Turtle-Carapace.jpg" media-type="image/jpeg"/>
+        <item href="images/herps/Eastern_Painted_Turtle-Carapace.xml" id="images__reptiles__Eastern_Painted_Turtle-Carapace.xml" media-type="text/xml"/>
 <!-- end herp species profile cover images -->
 
     <!-- bird species profile cover images -->
