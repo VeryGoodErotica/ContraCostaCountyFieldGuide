@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "3/7/2020, 6:03:03 PM",
+  "dct:date": "3/7/2020, 6:04:14 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -526,7 +526,7 @@
       "schema:accessibilityFeature": "alternativeText",
       "schema:accessibilityHazard": "none",
       "schema:accessibilitySummary": "This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.",
-      "dcterms:modified": "2020-03-08T02:02:50Z"
+      "dcterms:modified": "2020-03-08T02:04:00Z"
     },
     "links": {}
   },
@@ -583,74 +583,9 @@
     {
       "@type": "earl:assertion",
       "earl:result": {
-        "earl:outcome": "fail"
+        "earl:outcome": "pass"
       },
-      "assertions": [
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "Invalid ARIA attribute name: aria-role",
-            "earl:pointer": {
-              "cfi": [
-                "/4/2"
-              ],
-              "css": [
-                "section"
-              ]
-            },
-            "html": "<section xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"introduction\" aria-role=\"doc-introduction\" aria-labelledby=\"introh1\">"
-          },
-          "earl:assertedBy": "aXe",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "critical",
-            "dct:title": "aria-valid-attr",
-            "dct:description": "Ensures attributes that begin with aria- are valid ARIA attributes",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/docs/script/aria.html",
-              "dct:title": "ARIA",
-              "dct:description": "ARIA attributes must conform to valid names"
-            },
-            "rulesetTags": [
-              "cat.aria",
-              "wcag2a",
-              "wcag412"
-            ]
-          }
-        },
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "Element has no ARIA role matching its epub:type",
-            "earl:pointer": {
-              "cfi": [
-                "/4/2"
-              ],
-              "css": [
-                "section"
-              ]
-            },
-            "html": "<section xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"introduction\" aria-role=\"doc-introduction\" aria-labelledby=\"introh1\">"
-          },
-          "earl:assertedBy": "aXe",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "minor",
-            "dct:title": "epub-type-has-matching-role",
-            "dct:description": "Ensure the element has an ARIA role matching its epub:type",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/docs/html/roles.html",
-              "dct:title": "ARIA role",
-              "dct:description": "ARIA role should be used in addition to epub:type"
-            },
-            "rulesetTags": [
-              "best-practice"
-            ]
-          }
-        }
-      ],
+      "assertions": [],
       "earl:testSubject": {
         "url": "Introduction.xhtml",
         "dct:title": "Title Page"
