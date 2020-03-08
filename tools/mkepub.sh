@@ -23,12 +23,18 @@ mv Book.zip ContraCostaCountyFieldGuide.epub
 
 sh ../tools/epubcheck.sh ContraCostaCountyFieldGuide.epub
 
+if hash ace 2>/dev/null; then
+  ace -f -s -o AceReport ContraCostaCountyFieldGuide.epub
+  echo "Accessibility report written to AceReport directory"
+  echo `pwd`
+fi
+
 
 mv ContraCostaCountyFieldGuide.epub ${CWD}/
 
 popd
 
-rm -rf ${TMP}
+#rm -rf ${TMP}
 
 
 
