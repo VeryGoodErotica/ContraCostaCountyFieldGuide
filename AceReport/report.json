@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "3/8/2020, 12:44:42 AM",
+  "dct:date": "3/8/2020, 12:59:12 AM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -23,9 +23,9 @@
     "images": [
       {
         "src": "OEBPS/images/herps/Order_Anura.svg",
-        "alt": "Vector art silhouette of a frog",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Anura.svg\" alt=\"Vector art silhouette of a frog\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Anura.svg\" aria-label=\"Generic Frog Silhouette\" />",
         "location": "SpeciesProfiles/Herps/Order_Anura.xhtml#epubcfi(/4/2/4/2)"
       },
       {
@@ -46,32 +46,32 @@
       },
       {
         "src": "OEBPS/images/herps/Order_Anura.svg",
-        "alt": "Vector art silhouette of a frog",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Anura.svg\" alt=\"Vector art silhouette of a frog\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Anura.svg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Generic Frog Silhouette",
         "location": "SpeciesProfiles/Herps/Sierran_Chorus_Frog.xhtml#epubcfi(/4/2/6/4)"
       },
       {
         "src": "OEBPS/images/herps/Order_Anura.svg",
-        "alt": "Vector art silhouette of a frog",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Anura.svg\" alt=\"Vector art silhouette of a frog\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Anura.svg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Generic Frog Silhouette",
         "location": "SpeciesProfiles/Herps/Western_Toad.xhtml#epubcfi(/4/2/6/4)"
       },
       {
         "src": "OEBPS/images/herps/Order_Caudata.svg",
-        "alt": "Vector art silhouette of a newt",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Caudata.svg\" alt=\"Vector art silhouette of a newt\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Caudata.svg\" aria-label=\"Generic Salamander Silhouette\" />",
         "location": "SpeciesProfiles/Herps/Order_Caudata.xhtml#epubcfi(/4/2/4/2)"
       },
       {
         "src": "OEBPS/images/herps/Order_Caudata.svg",
-        "alt": "Vector art silhouette of a newt",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Caudata.svg\" alt=\"Vector art silhouette of a newt\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Caudata.svg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Generic Salamander Silhouette",
         "location": "SpeciesProfiles/Herps/California_Slender_Salamander.xhtml#epubcfi(/4/2/6/4)"
       },
@@ -100,9 +100,9 @@
       },
       {
         "src": "OEBPS/images/herps/Order_Squamata.svg",
-        "alt": "Vector art silhouette of a lizard",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Squamata.svg\" alt=\"Vector art silhouette of a lizard\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Squamata.svg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Generic Lizard Silhouette",
         "location": "SpeciesProfiles/Herps/Southern_Alligator_Lizard.xhtml#epubcfi(/4/2/6/4)"
       },
@@ -116,9 +116,9 @@
       },
       {
         "src": "OEBPS/images/herps/Order_Squamata.svg",
-        "alt": "Vector art silhouette of a lizard",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Squamata.svg\" alt=\"Vector art silhouette of a lizard\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Squamata.svg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Generic Lizard Silhouette",
         "location": "SpeciesProfiles/Herps/Northern_Alligator_Lizard.xhtml#epubcfi(/4/2/6/4)"
       },
@@ -131,9 +131,9 @@
       },
       {
         "src": "OEBPS/images/herps/Order_Testudines.svg",
-        "alt": "Vector art silhouette of a turtle",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Testudines.svg\" alt=\"Vector art silhouette of a turtle\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Testudines.svg\" aria-label=\"Generic Turtle Silhouette\" />",
         "location": "SpeciesProfiles/Herps/Order_Testudines.xhtml#epubcfi(/4/2/4/2)"
       },
       {
@@ -146,17 +146,17 @@
       },
       {
         "src": "OEBPS/images/herps/Cover-Red-eared_Slider.jpg",
-        "alt": "Profile view of an adult Red-eared Slider",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Cover-Red-eared_Slider.jpg\" alt=\"Profile view of an adult Red-eared Slider\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Cover-Red-eared_Slider.jpg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Adult Red-eared Slider",
         "location": "SpeciesProfiles/Herps/Red-eared_Slider.xhtml#epubcfi(/4/2/6/4)"
       },
       {
         "src": "OEBPS/images/herps/Order_Testudines.svg",
-        "alt": "Vector art silhouette of a turtle",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Testudines.svg\" alt=\"Vector art silhouette of a turtle\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Order_Testudines.svg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Generic Turtle Silhouette",
         "location": "SpeciesProfiles/Herps/Painted_Turtle.xhtml#epubcfi(/4/2/6/4)"
       },
@@ -170,16 +170,16 @@
       },
       {
         "src": "OEBPS/images/birds/Order_Pelecaniformes.svg",
-        "alt": "Vector art silhouette of a heron",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Order_Pelecaniformes.svg\" alt=\"Vector art silhouette of a heron\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Order_Pelecaniformes.svg\" aria-label=\"Generic Heron Silhouette\" />",
         "location": "SpeciesProfiles/Birds/Order_Pelecaniformes.xhtml#epubcfi(/4/2/4/2)"
       },
       {
         "src": "OEBPS/images/birds/Cover-Great_Blue_Heron.jpg",
-        "alt": "Profile view of a Great Blue Heron",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Great_Blue_Heron.jpg\" alt=\"Profile view of a Great Blue Heron\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Great_Blue_Heron.jpg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Adult Great Blue Heron",
         "location": "SpeciesProfiles/Birds/Great_Blue_Heron.xhtml#epubcfi(/4/2/6/4)"
       },
@@ -209,33 +209,33 @@
       },
       {
         "src": "OEBPS/images/birds/Cover-Snowy_Egret.jpg",
-        "alt": "Profile view of an adult Snowy Egret",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Snowy_Egret.jpg\" alt=\"Profile view of an adult Snowy Egret\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Snowy_Egret.jpg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Adult Snowy Egret",
         "location": "SpeciesProfiles/Birds/Snowy_Egret.xhtml#epubcfi(/4/2/6/4)"
       },
       {
         "src": "OEBPS/images/birds/Cover-Cattle_Egret.jpg",
-        "alt": "Profile view of an adult Cattle Egret standing on barren ground.",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Cattle_Egret.jpg\" alt=\"Profile view of an adult Cattle Egret standing on barren ground.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Cattle_Egret.jpg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Adult Cattle Egret",
         "location": "SpeciesProfiles/Birds/Cattle_Egret.xhtml#epubcfi(/4/2/6/4)"
       },
       {
         "src": "OEBPS/images/birds/Cover-American_Bittern.jpg",
-        "alt": "Side profile of an adult American Bittern.",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-American_Bittern.jpg\" alt=\"Side profile of an adult American Bittern.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-American_Bittern.jpg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Adult American Bittern",
         "location": "SpeciesProfiles/Birds/American_Bittern.xhtml#epubcfi(/4/2/6/4)"
       },
       {
         "src": "OEBPS/images/birds/Cover-Double-crested_Cormorant.jpg",
-        "alt": "Profile view of Double-crested Cormorant in water",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Double-crested_Cormorant.jpg\" alt=\"Profile view of Double-crested Cormorant in water\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Double-crested_Cormorant.jpg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Adult Double-crested Cormorant",
         "location": "SpeciesProfiles/Birds/Double-crested_Cormorant.xhtml#epubcfi(/4/2/6/4)"
       },
@@ -536,7 +536,7 @@
       "schema:accessibilityFeature": "alternativeText",
       "schema:accessibilityHazard": "none",
       "schema:accessibilitySummary": "This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.",
-      "dcterms:modified": "2020-03-08T08:44:29Z"
+      "dcterms:modified": "2020-03-08T08:58:58Z"
     },
     "links": {}
   },
