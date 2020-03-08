@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "3/7/2020, 6:29:00 PM",
+  "dct:date": "3/7/2020, 6:30:50 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -526,7 +526,7 @@
       "schema:accessibilityFeature": "alternativeText",
       "schema:accessibilityHazard": "none",
       "schema:accessibilitySummary": "This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.",
-      "dcterms:modified": "2020-03-08T02:28:46Z"
+      "dcterms:modified": "2020-03-08T02:30:37Z"
     },
     "links": {}
   },
@@ -1220,109 +1220,9 @@
     {
       "@type": "earl:assertion",
       "earl:result": {
-        "earl:outcome": "fail"
+        "earl:outcome": "pass"
       },
-      "assertions": [
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "Invalid ARIA attribute value: aria-labelledby=\"homecomingbush3\"",
-            "earl:pointer": {
-              "cfi": [
-                "/4/2/22[homecomingpark]/18[homecomingbus]"
-              ],
-              "css": [
-                "#homecomingbus"
-              ]
-            },
-            "html": "<section xmlns=\"http://www.w3.org/1999/xhtml\" id=\"homecomingbus\" aria-labelledby=\"homecomingbush3\">"
-          },
-          "earl:assertedBy": "aXe",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "critical",
-            "dct:title": "aria-valid-attr-value",
-            "dct:description": "Ensures all ARIA attributes have valid values",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/docs/script/aria.html",
-              "dct:title": "ARIA",
-              "dct:description": "ARIA attributes must conform to valid values"
-            },
-            "rulesetTags": [
-              "cat.aria",
-              "wcag2a",
-              "wcag412"
-            ]
-          }
-        },
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "Invalid ARIA attribute value: aria-labelledby=\"sunsetrdh3\"",
-            "earl:pointer": {
-              "cfi": [
-                "/4/2/26[sunsetrd]"
-              ],
-              "css": [
-                "#sunsetrd"
-              ]
-            },
-            "html": "<section xmlns=\"http://www.w3.org/1999/xhtml\" id=\"sunsetrd\" aria-labelledby=\"sunsetrdh3\">"
-          },
-          "earl:assertedBy": "aXe",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "critical",
-            "dct:title": "aria-valid-attr-value",
-            "dct:description": "Ensures all ARIA attributes have valid values",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/docs/script/aria.html",
-              "dct:title": "ARIA",
-              "dct:description": "ARIA attributes must conform to valid values"
-            },
-            "rulesetTags": [
-              "cat.aria",
-              "wcag2a",
-              "wcag412"
-            ]
-          }
-        },
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "Invalid ARIA attribute value: aria-labelledby=\"athleticcomplexh2\"",
-            "earl:pointer": {
-              "cfi": [
-                "/4/2/28[athleticcomplex]"
-              ],
-              "css": [
-                "#athleticcomplex"
-              ]
-            },
-            "html": "<section xmlns=\"http://www.w3.org/1999/xhtml\" id=\"athleticcomplex\" class=\"a11y\" aria-labelledby=\"athleticcomplexh2\">"
-          },
-          "earl:assertedBy": "aXe",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "critical",
-            "dct:title": "aria-valid-attr-value",
-            "dct:description": "Ensures all ARIA attributes have valid values",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/docs/script/aria.html",
-              "dct:title": "ARIA",
-              "dct:description": "ARIA attributes must conform to valid values"
-            },
-            "rulesetTags": [
-              "cat.aria",
-              "wcag2a",
-              "wcag412"
-            ]
-          }
-        }
-      ],
+      "assertions": [],
       "earl:testSubject": {
         "url": "UrbanTrails/MarshCreek_SunsetRd_DeltaRd.xhtml",
         "dct:title": "EBRPD Marsh Creek Trail, Sunset Road to Delta Road"
