@@ -49,12 +49,6 @@ if hash ace 2>/dev/null; then
   fi
 fi
 
-#rm -rf ${TMP}
+rm -rf ${TMP}
 
-
-
-# run accessibility check if available
-#if hash ace 2>/dev/null; then
-#  ace -f -s -o AceReport yourBook.epub
-#  echo "Accessibility report written to AceReport directory"
-#fi
+exit 0
