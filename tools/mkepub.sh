@@ -25,6 +25,11 @@ sh ../tools/epubcheck.sh ContraCostaCountyFieldGuide.epub
 
 if hash ace 2>/dev/null; then
   ace -f -s -o AceReport ContraCostaCountyFieldGuide.epub
+  rm -rf ${CWD}/AceReport/data
+  [ ! -d ${CWD}/AceReport ] && mkdir ${CWD}/AceReport
+  mv AceReport/data ${CWD}/AceReport/
+  mv AceReport/report.html ${CWD}/AceReport/
+  mv AceReport/report.json ${CWD}/AceReport/
   echo "Accessibility report written to AceReport directory"
   echo `pwd`
 fi
@@ -33,6 +38,12 @@ fi
 mv ContraCostaCountyFieldGuide.epub ${CWD}/
 
 popd
+
+if hash ace 2>/dev/null; then
+  if [ -f AceReport/.gitignore ]; then
+    git commit -m "update AceReport" AceReport/report.*
+  fi
+fi
 
 #rm -rf ${TMP}
 
