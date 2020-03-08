@@ -78,6 +78,7 @@
     <item href="css/taxon_birds.css" id="css__taxon__birds" media-type="text/css"/>
     <item href="css/taxon_mammals.css" id="css_taxon_mammals" media-type="text/css"/>
     <item href="css/urbantrails.css" id="css__urbantrails" media-type="text/css"/>
+    <item href="css/wcited.css" id="css__wcited" media-type="text/css"/>
     <!-- fonts -->
     <item href="fonts/ClearSans-Regular-wlatin.ttf" id="font.ClearSans.Regular" media-type="font/otf"/>
     <item href="fonts/ClearSans-Bold-wlatin.ttf" id="font.ClearSans.Bold" media-type="font/otf"/>
@@ -352,6 +353,8 @@
     <!-- contributors -->
     <item href="contributors/List_Of_Contributors.xhtml" id="apx__contributors__list" media-type="application/xhtml+xml"/>
     <item href="contributors/author0.xhtml" id="apx__contributors__authour0" media-type="application/xhtml+xml"/>
+    <!-- works cited -->
+    <item href="appendix/works_cited.xhtml" id="apx__works_cited" media-type="application/xhtml+xml"/>
     <!-- license texts -->
     <item href="licenses/Redistribution_Conditions.xhtml" id="apx__licenses__thiswork" media-type="application/xhtml+xml"/>
     <item href="licenses/CC_BY-SA_4_0.xhtml" id="apx__licenses__ccbysa4.0" media-type="application/xhtml+xml"/>
@@ -455,6 +458,7 @@
     <itemref idref="apx__glossary"/>
     <itemref idref="apx__contributors__list"/>
     <itemref idref="apx__contributors__authour0"/>
+    <itemref idref="apx__works_cited"/>
     <itemref idref="apx__licenses__thiswork"/>
     <itemref idref="apx__licenses__ccbysa4.0"/>
     <itemref idref="apx__licenses__ccbysa3.0"/>
