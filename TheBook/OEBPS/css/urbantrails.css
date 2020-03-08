@@ -3,7 +3,7 @@ section#accessibility h2::before {
   content: "♿ ";
 }
 
-h3.a11y::after {
+h2.a11y::after {
   font-family: 'Clear Sans SCP', 'Clear Sans', sans-serif;
   content: " ♿";
 }
