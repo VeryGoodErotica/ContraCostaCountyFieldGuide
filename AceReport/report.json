@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "3/8/2020, 12:59:12 AM",
+  "dct:date": "3/8/2020, 1:05:34 AM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -124,9 +124,9 @@
       },
       {
         "src": "OEBPS/images/herps/Suborder_Serpentine.svg",
-        "alt": "Vector art silhouette of a snake",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Suborder_Serpentine.svg\" alt=\"Vector art silhouette of a snake\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/herps/Suborder_Serpentine.svg\" aria-label=\"Generic Snake Silhouette\" />",
         "location": "SpeciesProfiles/Herps/Suborder_Serpentine.xhtml#epubcfi(/4/2/4/2)"
       },
       {
@@ -295,9 +295,9 @@
       },
       {
         "src": "OEBPS/images/birds/Order_Accipitriformes.svg",
-        "alt": "Vector art silhouette of a hawk",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Order_Accipitriformes.svg\" alt=\"Vector art silhouette of a hawk\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Order_Accipitriformes.svg\" aria-label=\"Generic Hawk Silhouette\" />",
         "location": "SpeciesProfiles/Birds/Order_Accipitriformes.xhtml#epubcfi(/4/2/4/2)"
       },
       {
@@ -318,32 +318,32 @@
       },
       {
         "src": "OEBPS/images/birds/Order_Columbiformes.svg",
-        "alt": "Vector art silhouette of a pigeon",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Order_Columbiformes.svg\" alt=\"Vector art silhouette of a pigeon\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Order_Columbiformes.svg\" aria-label=\"Generic Pigeon Silhouette\" />",
         "location": "SpeciesProfiles/Birds/Order_Columbiformes.xhtml#epubcfi(/4/2/4/2)"
       },
       {
         "src": "OEBPS/images/birds/Cover-Domestic_Rock_Pigeon.jpg",
-        "alt": "Profile of an adult domestic rock pigeon.",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Domestic_Rock_Pigeon.jpg\" alt=\"Profile of an adult domestic rock pigeon.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Domestic_Rock_Pigeon.jpg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Adult Domestic Rock Pigeon",
         "location": "SpeciesProfiles/Birds/Domestic_Rock_Pigeon.xhtml#epubcfi(/4/2/6/4)"
       },
       {
         "src": "OEBPS/images/birds/Cover-Eurasian_Collared-Dove.jpg",
-        "alt": "An adult Eurasian Collared-Dove perched on a branch.",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Eurasian_Collared-Dove.jpg\" alt=\"An adult Eurasian Collared-Dove perched on a branch.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Cover-Eurasian_Collared-Dove.jpg\" aria-labelledby=\"coverfigcaption\" />",
         "figcaption": "Adult Eurasian Collared-Dove",
         "location": "SpeciesProfiles/Birds/Eurasian_Collared-Dove.xhtml#epubcfi(/4/2/6/4)"
       },
       {
         "src": "OEBPS/images/birds/Order_Apodiformes.svg",
-        "alt": "Vector art silhouette of a hummingbird",
+        "alt": null,
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Order_Apodiformes.svg\" alt=\"Vector art silhouette of a hummingbird\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"../../images/birds/Order_Apodiformes.svg\" aria-label=\"Generic Hummingbird Silhouette\" />",
         "location": "SpeciesProfiles/Birds/Order_Apodiformes.xhtml#epubcfi(/4/2/4/2)"
       },
       {
@@ -536,7 +536,7 @@
       "schema:accessibilityFeature": "alternativeText",
       "schema:accessibilityHazard": "none",
       "schema:accessibilitySummary": "This book only contains static content. All image files have alternative text and some have a long description. Audio content does not contain human speech so captions are not used, descriptions of audio content however is provided. This book attempts to conform to WCAG 2.1 AA requirements. And compliance failures with WCAG 2.1 AA should be considered a bug and reported. When finances and skill allow, AAA compliance is sought.",
-      "dcterms:modified": "2020-03-08T08:58:58Z"
+      "dcterms:modified": "2020-03-08T09:05:20Z"
     },
     "links": {}
   },
