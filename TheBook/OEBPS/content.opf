@@ -22,6 +22,7 @@
     <dc:contributor id="contributor10">Olivia Kosterlitz</dc:contributor>
     <dc:contributor id="contributor11">Mark R. Jennings</dc:contributor>
     <dc:contributor id="contributor12">skeeze</dc:contributor>
+    <dc:contributor id="contributor13">Mark Twain</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -53,6 +54,8 @@
     <meta property="role" refines="#contributor11" scheme="marc:relators">pht</meta>
     <!-- skeeze -->
     <meta property="role" refines="#contributor12" scheme="marc:relators">pht</meta>
+    <!-- Mark Twain -->
+    <meta property="role" refines="#contributor13" scheme="marc:relators">aut</meta>
     <!-- end contributor refines -->
     
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
@@ -78,6 +81,7 @@
     <item href="css/taxon_birds.css" id="css__taxon__birds" media-type="text/css"/>
     <item href="css/taxon_mammals.css" id="css_taxon_mammals" media-type="text/css"/>
     <item href="css/urbantrails.css" id="css__urbantrails" media-type="text/css"/>
+    <item href="css/creativewriting.css" id="css__creativewriting" media-type="text/css"/>
     <item href="css/wcited.css" id="css__wcited" media-type="text/css"/>
     <!-- fonts -->
     <item href="fonts/ClearSans-Regular-wlatin.ttf" id="font.ClearSans.Regular" media-type="font/otf"/>
@@ -180,6 +184,10 @@
 <!-- urban trails -->
     <item href="UrbanTrails/UrbanTrails.xhtml" id="urbantrails__urbantrails" media-type="application/xhtml+xml"/>
     <item href="UrbanTrails/MarshCreek_SunsetRd_DeltaRd.xhtml" id="urbantrails__mctsd" media-type="application/xhtml+xml"/>
+
+<!-- creative writing -->
+    <item href="CreativeWriting/CreativeWriting.xhtml" id="creativewriting__creativewriting" media-type="application/xhtml+xml"/>
+    <item href="CreativeWriting/CelebratedJumpingFrog.xhtml" id="creativewriting__twainfrog" media-type="application/xhtml+xml"/>
 
     <!-- end of non-appendix spine content -->
 
@@ -450,6 +458,10 @@
 <!-- urban trails -->
     <itemref idref="urbantrails__urbantrails"/>
     <itemref idref="urbantrails__mctsd"/>
+
+<!-- creative writing -->
+    <itemref idref="creativewriting__creativewriting"/>
+    <itemref idref="creativewriting__twainfrog"/>
 
     <!-- appendix -->
     <itemref idref="apx__ToC"/>
