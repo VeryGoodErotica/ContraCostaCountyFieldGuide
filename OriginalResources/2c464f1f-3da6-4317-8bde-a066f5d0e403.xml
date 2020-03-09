@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>2c464f1f-3da6-4317-8bde-a066f5d0e403.CR2</original>
+  <flaw>Not from Contra Costa County</flaw>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2013-03-13</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Foothill Yellow-legged Frog</common>
+      <latin>Rana boylii</latin>
+      <county>Shasta County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Foothill Yellow-legged Frog</alt>
+    <description>Foothill Yellow-legged Frog</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/60</shutterspeed>
+    <aperture>5.38 EV (f/6.4)</aperture>
+    <iso>200</iso>
+    <flash>null</flash>
+    <timestamp>2013-03-13T11:45:01-07:00</timestamp>
+  </camera>
+</Resource>
