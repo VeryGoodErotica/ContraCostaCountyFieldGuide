@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>07f6a6b6-e5bc-40e6-82ed-14517d908ef7.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2012-05-06</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>California Red-legged Frog</common>
+      <latin>Rana draytonii</latin>
+      <naherp>132864</naherp>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Young California Red-legged Frog</alt>
+    <description>Young California Red-legged Frog with greenish back</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/80</shutterspeed>
+    <aperture>7.00 EV (f/11.3)</aperture>
+    <iso>1250</iso>
+    <flash>null</flash>
+    <timestamp>2012-05-06T12:27:21-07:00</timestamp>
+  </camera>
+</Resource>
