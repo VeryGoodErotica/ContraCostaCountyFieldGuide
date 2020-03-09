@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-  <original>a7da872d-9ebd-43a5-8abe-223bedc6be25.CR2</original>
+  <original>d40cf32d-a980-467d-8c7e-ca882de8e2ea.CR2</original>
+  <flaw>Not from Contra Costa County</flaw>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>
     <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    <date>2012-05-06</date>
+    <date>2013-03-13</date>
   </creator>
   <taxons>
     <taxon>
-      <common>California Red-legged Frog</common>
-      <latin>Rana draytonii</latin>
-      <naherp>132864</naherp>
-      <county>Contra Costa County, California</county>
+      <common>Sierran Chorus Frog</common>
+      <latin>Pseudacris sierra</latin>
+      <county>Shasta County, California</county>
     </taxon>
   </taxons>
   <image>
-    <alt>Young California Red-legged Frog</alt>
-    <description>Young California Red-legged Frog with greenish back</description>
+    <alt>Sierran Chorus Frog</alt>
+    <description>Sierran Chorus Frog</description>
   </image>
   <camera>
     <brand>Canon</brand>
@@ -25,10 +25,10 @@
     <lens>Sigma 50mm f/2.8 DG Macro</lens>
     <focallength>50.0 mm</focallength>
     <cameramount>handheld</cameramount>
-    <shutterspeed>1/80</shutterspeed>
-    <aperture>7.00 EV (f/11.3)</aperture>
-    <iso>1250</iso>
+    <shutterspeed>1/60</shutterspeed>
+    <aperture>5.38 EV (f/6.4)</aperture>
+    <iso>250</iso>
     <flash>null</flash>
-    <timestamp>2012-05-06T12:27:21-07:00</timestamp>
+    <timestamp>2013-03-13T10:58:50-07:00</timestamp>
   </camera>
 </Resource>

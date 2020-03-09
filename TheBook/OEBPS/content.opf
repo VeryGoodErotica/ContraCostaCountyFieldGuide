@@ -200,8 +200,12 @@
       <item href="images/herps/Cover-California_Red-legged_Frog.xml" id="images__herps__Cover-California_Red-legged_Frog.xml" media-type="text/xml"/>
         <item href="images/herps/California_Red-legged_Frog-greenback.jpg" id="images__herps__California_Red-legged_Frog-greenback.jpg" media-type="image/jpeg"/>
         <item href="images/herps/California_Red-legged_Frog-greenback.xml" id="images__herps__California_Red-legged_Frog-greenback.xml" media-type="text/xml"/>
+        <item href="images/herps/California_Red-legged_Frog-belly.jpg" id="images__herps__California_Red-legged_Frog-belly.jpg" media-type="image/jpeg"/>
+        <item href="images/herps/California_Red-legged_Frog-belly.xml" id="images__herps__California_Red-legged_Frog-belly.xml" media-type="text/xml"/>
       <item href="images/herps/Cover-American_Bullfrog.jpg" id="images__herps__Cover-American_Bullfrog.jpg" media-type="image/jpeg"/>
       <item href="images/herps/Cover-American_Bullfrog.xml" id="images__herps__Cover-American_Bullfrog.xml" media-type="text/xml"/>
+      <item href="images/herps/Cover-Sierran_Chorus_Frog.jpg" id="images__herps__Cover-Sierran_Chorus_Frog.jpg" media-type="image/jpeg"/>
+      <item href="images/herps/Cover-Sierran_Chorus_Frog.xml" id="images__herps__Cover-Sierran_Chorus_Frog.xml" media-type="text/xml"/>
     <item href="images/herps/Order_Caudata.svg" id="images__herps__Order_Caudata.svg" media-type="image/svg+xml"/>
     <item href="images/herps/Order_Caudata.xml" id="images__herps__Order_Caudata.xml" media-type="text/xml"/>
       <item href="images/herps/Cover-California_Tiger_Salamander.jpg" id="images__herps__Cover-California_Tiger_Salamander.jpg" media-type="image/jpeg"/>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-  <original>a7da872d-9ebd-43a5-8abe-223bedc6be25.CR2</original>
+  <original>74556ce3-a5c8-46ac-8e60-6ad52965d4c9.CR2</original>
+  <checksum algo="sha256">c70bbc82fb6b76d406e64eb8ccfe897310b561b57ddd22ceb4e2bb9838103714</checksum>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>
@@ -16,8 +17,10 @@
     </taxon>
   </taxons>
   <image>
-    <alt>Young California Red-legged Frog</alt>
-    <description>Young California Red-legged Frog with greenish back</description>
+    <mime>image/jpeg</mime>
+    <resolution>1024x960</resolution>
+    <alt>Young California Red-legged Frog underside</alt>
+    <description>Young California Red-legged Frog underside</description>
   </image>
   <camera>
     <brand>Canon</brand>
@@ -27,8 +30,8 @@
     <cameramount>handheld</cameramount>
     <shutterspeed>1/80</shutterspeed>
     <aperture>7.00 EV (f/11.3)</aperture>
-    <iso>1250</iso>
+    <iso>200</iso>
     <flash>null</flash>
-    <timestamp>2012-05-06T12:27:21-07:00</timestamp>
+    <timestamp>2012-05-06T12:27:10-07:00</timestamp>
   </camera>
 </Resource>
