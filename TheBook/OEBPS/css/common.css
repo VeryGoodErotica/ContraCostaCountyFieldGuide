@@ -95,10 +95,10 @@ a.gls::before {
   content: "📓";
 }
 
-sup.wc::before {
+a.wc::before {
   content: "[";
 }
-sup.wc::after {
+a.wc::after {
   content: "]";
 }
 
