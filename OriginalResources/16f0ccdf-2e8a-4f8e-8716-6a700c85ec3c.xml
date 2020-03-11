@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
   <original>16f0ccdf-2e8a-4f8e-8716-6a700c85ec3c.CR2</original>
-  <checksum algo="sha256">01708e8c807ce1fe130d5b70415e34c1eb34dddc08aa38911353b98482cb966b</checksum>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>
@@ -17,8 +16,6 @@
     </taxon>
   </taxons>
   <image>
-    <mime>image/jpeg</mime>
-    <resolution>1024x1024</resolution>
     <alt>Profile view of a Great Blue Heron</alt>
     <description>An adult Great Blue Heron is standing in cattail with Heron’s right side towards the camera.</description>
   </image>
