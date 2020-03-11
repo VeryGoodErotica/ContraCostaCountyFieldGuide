@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>25c0e0e9-d1f4-4e00-80e0-2570f378e7a6.CR2</original>
+  <checksum algo="sha256">189e9d17a80c7b8d16bde594cbe4d3def93186f0e44dcd3bfa314be58460ca0c</checksum>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-03-10</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Western Meadowlark</common>
+      <latin>Sturnella neglecta</latin>
+      <inaturalist>39833057</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Profile view of a Great Blue Heron</alt>
+    <description>An adult Great Blue Heron is standing in cattail with Heron’s right side towards the camera.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>200.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/500</shutterspeed>
+    <aperture>6.38 EV (f/9.1)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-03-10T14:48:57-07:00</timestamp>
+  </camera>
+</Resource>
