@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Resource type="photograph" xml:lang="en-US">
-  <original>ce53c09c-c5aa-4db4-8ba5-1991a6e2dd1c.CR2</original>
-  <checksum algo="sha256">4eae3f20ba350f9083284c73143051149b500e79dfbcddf564a7822796c01696</checksum>
-  <flaw>Not from Contra Costa County</flaw>
-  <flaw>eyes not sharp</flaw>
+  <original>e5f9d6ca-c2cd-44b0-85dc-e6924d680f4f.CR2</original>
+  <checksum algo="sha256">22c97bd30fa6597752af57b9a19343f60bb46475650496bfac5ee257b16b8db5</checksum>
   <creator type="photographer">
     <name>Michael A. Peters</name>
     <license>CC BY-SA 4.0</license>
     <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
-    <date>2020-02-28</date>
+    <date>2020-03-10</date>
   </creator>
   <taxons>
     <taxon>
       <common>Western Fence Lizard</common>
       <latin>Sceloporus occidentalis</latin>
-      <inaturalist>39358730</inaturalist>
-      <county>Sonoma County, California</county>
+      <inaturalist>39832752</inaturalist>
+      <county>Contra Costa County, California</county>
     </taxon>
   </taxons>
   <image>
     <mime>image/jpeg</mime>
     <resolution>1024x1024</resolution>
-    <alt>Top down view of a Western Fence Lizard on a rock</alt>
-    <description>Top down view of a Western Fence Lizard on a rock</description>
+    <alt>Profile view of a Western Fence Lizard on a stump</alt>
+    <description>Profile view of a Western Fence Lizard on a stump</description>
   </image>
   <camera>
     <brand>Canon</brand>
@@ -30,10 +28,10 @@
     <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
     <focallength>300.0 mm</focallength>
     <cameramount>handheld</cameramount>
-    <shutterspeed>1/640</shutterspeed>
-    <aperture>6.00 EV (f/8.0)</aperture>
+    <shutterspeed>1/800</shutterspeed>
+    <aperture>6.38 EV (f/9.1)</aperture>
     <iso>400</iso>
     <flash>null</flash>
-    <timestamp>2020-02-28T13:31:37-08:00</timestamp>
+    <timestamp>2020-03-10T14:16:55-07:00</timestamp>
   </camera>
 </Resource>
