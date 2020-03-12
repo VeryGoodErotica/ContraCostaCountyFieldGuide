@@ -148,6 +148,8 @@
       <item href="SpeciesProfiles/Birds/Common_Merganser.xhtml" id="taxon__birds__cmnmerganser" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Hooded_Merganser.xhtml" id="taxon__birds__hoodedmerganser" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Mallard.xhtml" id="taxon__birds__mallard" media-type="application/xhtml+xml"/>
+    <!-- Cranes and Rails -->
+    <item href="SpeciesProfiles/Birds/Order_Gruiformes.xhtml" id="taxon__birds__gruiformes" media-type="application/xhtml+xml"/>
     <!-- Sandpipers and Allies -->
     <item href="SpeciesProfiles/Birds/Suborder_Scolopaci.xhtml" id="taxon__birds__scolopaci" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Wilsons_Snipe.xhtml" id="taxon__birds__snipe" media-type="application/xhtml+xml"/>
@@ -270,6 +272,9 @@
         <item href="images/birds/Common_Merganser-female.xml" id="images__birds__Common_Merganser-female.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Mallard.jpg" id="images__birds__Cover-Mallard.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Mallard.xml" id="images__birds__Cover-Mallard.xml" media-type="text/xml"/>
+    <!-- Cranes and Rails -->
+    <item href="images/birds/Order_Gruiformes.svg" id="images__birds__Order_Gruiformes.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Order_Gruiformes.xml" id="images__birds__Order_Gruiformes.xml" media-type="text/xml"/>
     <!-- sandpipers and allies -->
     <item href="images/birds/Suborder_Scolopaci.svg" id="images__birds__Suborder_Scolopaci.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Suborder_Scolopaci.xml" id="images__birds__Suborder_Scolopaci.xml" media-type="text/xml"/>
@@ -445,6 +450,8 @@
     <itemref idref="taxon__birds__cmnmerganser"/>
     <itemref idref="taxon__birds__hoodedmerganser"/>
     <itemref idref="taxon__birds__mallard"/>
+<!-- cranes and rails -->
+    <itemref idref="taxon__birds__gruiformes"/>
 <!-- sandpipers -->
     <itemref idref="taxon__birds__scolopaci"/>
     <itemref idref="taxon__birds__snipe"/>
