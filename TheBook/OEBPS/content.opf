@@ -23,6 +23,7 @@
     <dc:contributor id="contributor11">Mark R. Jennings</dc:contributor>
     <dc:contributor id="contributor12">skeeze</dc:contributor>
     <dc:contributor id="contributor13">Mark Twain</dc:contributor>
+    <dc:contributor id="contributor14">Dave Menke (USFWS)</dc:contributor>
     <!-- Michael A. Peters -->
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <meta property="role" refines="#author0" scheme="marc:relators">pht</meta>
@@ -56,6 +57,8 @@
     <meta property="role" refines="#contributor12" scheme="marc:relators">pht</meta>
     <!-- Mark Twain -->
     <meta property="role" refines="#contributor13" scheme="marc:relators">aut</meta>
+    <!-- Dave Menke -->
+    <meta property="role" refines="#contributor14" scheme="marc:relators">pht</meta>
     <!-- end contributor refines -->
     
     <dc:identifier id="prng-uuid">c0957b2a-f6e8-4105-842e-2ab89264e978</dc:identifier>
@@ -162,6 +165,7 @@
     <item href="SpeciesProfiles/Birds/Order_Accipitriformes.xhtml" id="taxon__birds__accipitriformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/California_Condor.xhtml" id="taxon__birds__condor" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Red-shouldered_Hawk.xhtml" id="taxon__birds__rshawk" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Birds/Bald_Eagle.xhtml" id="taxon__birds__baldeagle" media-type="application/xhtml+xml"/>
     <!-- pigeons and doves -->
     <item href="SpeciesProfiles/Birds/Order_Columbiformes.xhtml" id="taxon__birds__columbiformes" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Domestic_Rock_Pigeon.xhtml" id="taxon__birds__rockpigeon" media-type="application/xhtml+xml"/>
@@ -300,6 +304,8 @@
       <item href="images/birds/Cover-California_Condor.xml" id="images__birds__Cover-California_Condor.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Red-shouldered_Hawk.jpg" id="images__birds__Cover-Red-shouldered_Hawk.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Red-shouldered_Hawk.xml" id="images__birds__Cover-Red-shouldered_Hawk.xml" media-type="text/xml"/>
+      <item href="images/birds/Cover-Bald_Eagle.jpg" id="images__birds__Cover-Bald_Eagle.jpg" media-type="image/jpeg"/>
+      <item href="images/birds/Cover-Bald_Eagle.xml" id="images__birds__Cover-Bald_Eagle.xml" media-type="text/xml"/>
     <!-- pigeons and doves -->
     <item href="images/birds/Order_Columbiformes.svg" id="images__birds__Order_Columbiformes.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Order_Columbiformes.xml" id="images__birds__Order_Columbiformes.xml" media-type="text/xml"/>
@@ -477,6 +483,7 @@
     <itemref idref="taxon__birds__accipitriformes"/>
     <itemref idref="taxon__birds__condor"/>
     <itemref idref="taxon__birds__rshawk"/>
+    <itemref idref="taxon__birds__baldeagle"/>
 <!-- pigeons and doves -->
     <itemref idref="taxon__birds__columbiformes"/>
     <itemref idref="taxon__birds__rockpigeon"/>

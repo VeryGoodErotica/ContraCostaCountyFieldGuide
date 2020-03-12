@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>4432b724-2a9b-40a3-8160-5093cd7f5d82.jpg</original>
+  <checksum algo="sha256">dc42ff9e99e2894ffef3e0255bbb9c2107f01f202d45d920398de60e79e9bbe0</checksum>
+  <creator type="photographer">
+    <name>Dave Menke (USFWS)</name>
+    <license>Public Domain</license>
+    <source>https://digitalmedia.fws.gov/digital/collection/natdiglib/id/4460</source>
+    <courtesy>U.S. Fish and Wildlife Service</courtesy>
+    <date>2008-04-18</date>
+    <date modified="modified">2015-11-25</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Bald Eagle</common>
+      <latin>Haliaeetus leucocephalus</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <mime>image/jpeg</mime>
+    <resolution>1024x1024</resolution>
+    <alt>Adult Bald Eagle in flight</alt>
+    <description>Adult Bald Eagle in flight</description>
+  </image>
+</Resource>
