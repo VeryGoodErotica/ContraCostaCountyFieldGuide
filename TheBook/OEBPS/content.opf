@@ -154,6 +154,8 @@
     <!-- Sandpipers and Allies -->
     <item href="SpeciesProfiles/Birds/Suborder_Scolopaci.xhtml" id="taxon__birds__scolopaci" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Birds/Wilsons_Snipe.xhtml" id="taxon__birds__snipe" media-type="application/xhtml+xml"/>
+    <!-- Plovers and Allies -->
+    <item href="SpeciesProfiles/Birds/Suborder_Charadrii.xhtml" id="taxon__birds__charadrii" media-type="application/xhtml+xml"/>
     <!-- Gulls and Allies -->
     <item href="SpeciesProfiles/Birds/Suborder_Lari.xhtml" id="taxon__birds__lari" media-type="application/xhtml+xml"/>
     <!-- hawks and friends -->
@@ -285,6 +287,9 @@
     <item href="images/birds/Suborder_Scolopaci.xml" id="images__birds__Suborder_Scolopaci.xml" media-type="text/xml"/>
       <item href="images/birds/Cover-Wilsons_Snipe.jpg" id="images__birds__Cover-Wilsons_Snipe.jpg" media-type="image/jpeg"/>
       <item href="images/birds/Cover-Wilsons_Snipe.xml" id="images__birds__Cover-Wilsons_Snipe.xml" media-type="text/xml"/>
+    <!-- plovers and allies -->
+    <item href="images/birds/Suborder_Charadrii.svg" id="images__birds__Suborder_Charadrii.svg" media-type="image/svg+xml"/>
+    <item href="images/birds/Suborder_Charadrii.xml" id="images__birds__Suborder_Charadrii.xml" media-type="text/xml"/>
     <!-- gulls and allies -->
     <item href="images/birds/Suborder_Lari.svg" id="images__birds__Suborder_Lari.svg" media-type="image/svg+xml"/>
     <item href="images/birds/Suborder_Lari.xml" id="images__birds__Suborder_Lari.xml" media-type="text/xml"/>
@@ -464,6 +469,8 @@
 <!-- sandpipers -->
     <itemref idref="taxon__birds__scolopaci"/>
     <itemref idref="taxon__birds__snipe"/>
+<!-- plovers and allies -->
+    <itemref idref="taxon__birds__charadrii"/>
 <!-- gulls and allies -->
     <itemref idref="taxon__birds__lari"/>
 <!-- hawks and friends -->

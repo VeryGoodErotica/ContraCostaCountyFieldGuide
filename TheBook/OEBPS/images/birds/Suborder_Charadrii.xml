@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>ef71070d-cb39-46bd-8225-3ef9746b20d1.svg</original>
+  <checksum algo="sha256">d9648c475a8a881c96493a9e06113cf2cd0c1910992303ed30deee6143791be4</checksum>
+  <flaw>Original artist can not be determined</flaw>
+  <flaw>Too Much Detail</flaw>
+  <creator type="illustrator">
+    <name>OCAL via Clker-Free-Vector-Images</name>
+    <source>http://www.clker.com/clipart-10087.html</source>
+    <source>https://pixabay.com/vectors/bird-killdeer-plover-29384/</source>
+    <license>CC0</license>
+    <licenseurl>https://creativecommons.org/publicdomain/zero/1.0/legalcode</licenseurl>
+    <date>2007-11-18</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Plovers and Allies</common>
+      <latin>Charadrii</latin>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Vector art silhouette of a killdeer</alt>
+    <description>Vector art silhouette of a killdeer</description>
+  </image>
+</Resource>
