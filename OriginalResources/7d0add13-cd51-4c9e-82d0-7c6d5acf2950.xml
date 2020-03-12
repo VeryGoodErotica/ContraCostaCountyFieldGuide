@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>7d0add13-cd51-4c9e-82d0-7c6d5acf2950.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-03-10</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Common Lagoon Fly</common>
+      <latin>Eristalinus aeneus</latin>
+      <inaturalist>39833986</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Top-down view of an adult Common Lagoon Fly</alt>
+    <description>Top-down view of an adult Common Lagoon Fly</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Sigma 50mm f/2.8 DG Macro</lens>
+    <focallength>50.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/400</shutterspeed>
+    <aperture>5.38 EV (f/6.4)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-03-10T17:30:09-07:00</timestamp>
+  </camera>
+</Resource>

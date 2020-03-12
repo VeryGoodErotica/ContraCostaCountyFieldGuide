@@ -331,6 +331,8 @@
     <item href="images/insects/Cover-Western_Honey_Bee.xml" id="images__insects__Cover-Western_Honey_Bee.xml" media-type="text/xml"/>
     <item href="images/insects/Cover-Common_White_Checkered-skipper_Complex.jpg" id="images__insects__Cover-Common_White_Checkered-skipper_Complex.jpg" media-type="image/jpeg"/>
     <item href="images/insects/Cover-Common_White_Checkered-skipper_Complex.xml" id="images__insects__Cover-Common_White_Checkered-skipper_Complex.xml" media-type="text/xml"/>
+    <item href="images/insects/Cover-Common_Lagoon_Fly.jpg" id="images__insects__Cover-Common_Lagoon_Fly.jpg" media-type="image/jpeg"/>
+    <item href="images/insects/Cover-Common_Lagoon_Fly.xml" id="images__insects__Cover-Common_Lagoon_Fly.xml" media-type="text/xml"/>
 
     <!-- arachnid species profile cover images -->
     <item href="images/arachnids/Cover-Unknown_Wolf.jpg" id="images__arachnids__Cover-Unknown_Wolf.jpg" media-type="image/jpeg"/>
