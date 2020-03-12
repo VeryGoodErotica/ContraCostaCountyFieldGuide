@@ -178,6 +178,7 @@
 <!-- mammals -->
     <item href="SpeciesProfiles/Mammals/Mammals.xhtml" id="taxon__mammals__mammals" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Mammals/Black-tailed_Jackrabbit.xhtml" id="taxon__mammals__btjackrabbit" media-type="application/xhtml+xml"/>
+      <item href="SpeciesProfiles/Mammals/Domestic_Cat.xhtml" id="taxon__mammals__dcat" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Mammals/California_Ground_Squirrel.xhtml" id="taxon__mammals__groundsquirrel" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Mammals/Berkeley_Kangaroo_Rat.xhtml" id="taxon__mammals__berkrat" media-type="application/xhtml+xml"/>
       <item href="SpeciesProfiles/Mammals/Sasquatch.xhtml" id="taxon__mammals__bigfoot" media-type="application/xhtml+xml"/>
@@ -314,6 +315,8 @@
     <!-- mammal species profile cover images -->
     <item href="images/mammals/Cover-Black-tailed_Jackrabbit.jpg" id="images__mammals__Cover-Black-tailed_Jackrabbit.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-Black-tailed_Jackrabbit.xml" id="images__mammals__Cover-Black-tailed_Jackrabbit.xml" media-type="text/xml"/>
+    <item href="images/mammals/Cover-Domestic_Cat.jpg" id="images__mammals__Cover-Domestic_Cat.jpg" media-type="image/jpeg"/>
+    <item href="images/mammals/Cover-Domestic_Cat.xml" id="images__mammals__Cover-Domestic_Cat.xml" media-type="text/xml"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.jpg" id="images__mammals__Cover-California_Ground_Squirrel.jpg" media-type="image/jpeg"/>
     <item href="images/mammals/Cover-California_Ground_Squirrel.xml" id="images__mammals__Cover-California_Ground_Squirrel.xml" media-type="text/xml"/>
     <item href="images/mammals/Cover-Heermanns_Kangaroo_Rat.jpg" id="images__mammals__Cover-Heermanns_Kangaroo_Rat.jpg" media-type="image/jpeg"/>
@@ -468,6 +471,7 @@
 <!-- mammals -->
     <itemref idref="taxon__mammals__mammals"/>
     <itemref idref="taxon__mammals__btjackrabbit"/>
+    <itemref idref="taxon__mammals__dcat"/>
     <itemref idref="taxon__mammals__groundsquirrel"/>
     <itemref idref="taxon__mammals__berkrat"/>
     <itemref idref="taxon__mammals__bigfoot"/>

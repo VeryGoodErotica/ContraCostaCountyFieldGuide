@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource type="photograph" xml:lang="en-US">
+  <original>48c0af10-8570-44e7-8386-e72de2e2b856.CR2</original>
+  <creator type="photographer">
+    <name>Michael A. Peters</name>
+    <license>CC BY-SA 4.0</license>
+    <licenseurl>https://creativecommons.org/licenses/by-sa/4.0/</licenseurl>
+    <date>2020-03-10</date>
+  </creator>
+  <taxons>
+    <taxon>
+      <common>Domestic Cat</common>
+      <latin>Felis catus</latin>
+      <inaturalist>39833613</inaturalist>
+      <county>Contra Costa County, California</county>
+    </taxon>
+  </taxons>
+  <image>
+    <alt>Profile view of an adult Domestic Cat</alt>
+    <description>An adult Domestic Cat sits within grass at a wildlife refuge.</description>
+  </image>
+  <camera>
+    <brand>Canon</brand>
+    <model>Canon EOS 7D</model>
+    <lens>Tamron SP 70-300mm F/4-5.6 USD</lens>
+    <focallength>300.0 mm</focallength>
+    <cameramount>handheld</cameramount>
+    <shutterspeed>1/640</shutterspeed>
+    <aperture>6.62 EV (f/9.9)</aperture>
+    <iso>400</iso>
+    <flash>null</flash>
+    <timestamp>2020-03-10T16:42:47-07:00</timestamp>
+  </camera>
+</Resource>
